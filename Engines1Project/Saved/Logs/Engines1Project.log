@@ -1209,3 +1209,552 @@ Recommended: 516.25
 [2022.07.18-06.15.10:271][167]LogFileHelpers: No new changes to save!
 [2022.07.18-06.15.10:287][167]AssetCheck: New page: Asset Save: GroundFloor
 [2022.07.18-06.15.10:287][167]LogContentValidation: Display: Validating World /Game/Levels/GroundFloor.GroundFloor
+[2022.07.18-06.15.43:892][960]LogStaticMesh: Display: Building static mesh Carpet_Rectangle_Ex...
+[2022.07.18-06.15.43:898][960]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.15.44:174][974]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.15.44:174][974]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.15.44:174][974]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_144
+[2022.07.18-06.15.46:009][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.15.46:009][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.15.46:010][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_145
+[2022.07.18-06.16.09:146][125]Cmd: DELETE
+[2022.07.18-06.16.09:147][125]Cmd: ACTOR DELETE
+[2022.07.18-06.16.09:149][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.18-06.16.09:160][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.18-06.16.09:161][125]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.07.18-06.16.26:699][622]LogStaticMesh: Display: Building static mesh Loot_02...
+[2022.07.18-06.16.26:746][622]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02
+[2022.07.18-06.16.26:746][622]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/LootSheet_M.LootSheet_M (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.16.26:746][622]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/LootSheet_D.LootSheet_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.16.26:746][622]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/LootSheet_N.LootSheet_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.16.26:860][627]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02
+[2022.07.18-06.16.26:860][627]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02
+[2022.07.18-06.16.26:860][627]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_146
+[2022.07.18-06.16.27:688][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02
+[2022.07.18-06.16.27:688][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02
+[2022.07.18-06.16.27:689][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Loot_02.Loot_02 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_147
+[2022.07.18-06.17.43:152][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.17.43:156][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.17.43:156][229]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:17:43 p.m.)
+[2022.07.18-06.17.43:157][229]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.17.43:163][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006424s)
+[2022.07.18-06.17.43:163][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006500s)
+[2022.07.18-06.17.43:163][229]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.17.43:163][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.17.43:164][229]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.17.43:164][229]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2022.07.18-06.17.43:170][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.18-06.17.43:171][229]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.17.43:171][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.17.43:171][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.17.43:171][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.17.43:171][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.17.43:171][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.17.43:173][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.17.43:219][229]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.17.43:219][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.17.43:219][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.17.43:219][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.17.43:220][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.07.18-06.17.43:220][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.07.18-06.17.43:221][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.07.18-06.17.43:221][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.07.18-06.17.43:221][229]LogInit: FAudioDevice initialized.
+[2022.07.18-06.17.43:221][229]LogAudio: Display: Audio Device (ID: 4) registered with world 'GroundFloor'.
+[2022.07.18-06.17.43:234][229]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.17.43:238][229]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.17.43
+[2022.07.18-06.17.43:238][229]LogWorld: Bringing up level for play took: 0.004348
+[2022.07.18-06.17.43:240][229]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.07.18-06.17.43:242][229]PIE: Server logged in
+[2022.07.18-06.17.43:243][229]PIE: Play in editor total start time 0.086 seconds.
+[2022.07.18-06.17.56:690][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.17.56:690][457]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.17.56:690][457]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.17.56:691][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.17.56:699][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.17.56:701][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.17.56:706][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.18-06.17.56:706][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.18-06.17.56:707][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.18-06.17.56:710][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.17.56:712][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.17.56:753][458]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.07.18-06.18.40:644][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.18.40:648][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.18.40:648][388]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:18:40 p.m.)
+[2022.07.18-06.18.40:648][388]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.18.40:659][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010228s)
+[2022.07.18-06.18.40:659][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.010314s)
+[2022.07.18-06.18.40:659][388]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.18.40:659][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.18.40:660][388]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.18.40:660][388]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.07.18-06.18.40:667][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.18.40:669][388]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.18.40:669][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.18.40:669][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.18.40:669][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.18.40:669][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.18.40:669][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.18.40:671][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.18.40:719][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.18.40:719][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.18.40:719][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.18.40:719][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.18.40:720][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.07.18-06.18.40:720][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.07.18-06.18.40:721][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.07.18-06.18.40:721][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.07.18-06.18.40:721][388]LogInit: FAudioDevice initialized.
+[2022.07.18-06.18.40:721][388]LogAudio: Display: Audio Device (ID: 5) registered with world 'GroundFloor'.
+[2022.07.18-06.18.40:733][388]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.18.40:738][388]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.18.40
+[2022.07.18-06.18.40:739][388]LogWorld: Bringing up level for play took: 0.005055
+[2022.07.18-06.18.40:739][388]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.07.18-06.18.40:742][388]PIE: Server logged in
+[2022.07.18-06.18.40:743][388]PIE: Play in editor total start time 0.094 seconds.
+[2022.07.18-06.18.56:340][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.18.56:340][796]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.18.56:340][796]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.18.56:341][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.18.56:350][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.18.56:351][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.18.56:357][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.18.56:357][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.18-06.18.56:358][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.18-06.18.56:364][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.18.56:405][797]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.07.18-06.19.04:510][400]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.18-06.19.06:049][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.18-06.19.07:237][641]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.18-06.19.24:977][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.19.24:982][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.19.24:982][149]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:19:24 p.m.)
+[2022.07.18-06.19.25:020][149]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.19.25:027][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006269s)
+[2022.07.18-06.19.25:027][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006413s)
+[2022.07.18-06.19.25:027][149]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.19.25:027][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.19.25:027][149]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.19.25:027][149]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2022.07.18-06.19.25:034][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.18-06.19.25:035][149]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.19.25:035][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.19.25:035][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.19.25:036][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.19.25:036][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.19.25:036][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.19.25:037][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.19.25:084][149]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.19.25:084][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.19.25:084][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.19.25:084][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.19.25:085][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.07.18-06.19.25:085][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.07.18-06.19.25:086][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.07.18-06.19.25:086][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.07.18-06.19.25:086][149]LogInit: FAudioDevice initialized.
+[2022.07.18-06.19.25:086][149]LogAudio: Display: Audio Device (ID: 6) registered with world 'GroundFloor'.
+[2022.07.18-06.19.25:099][149]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.19.25:101][149]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.19.25
+[2022.07.18-06.19.25:102][149]LogWorld: Bringing up level for play took: 0.002995
+[2022.07.18-06.19.25:103][149]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.07.18-06.19.25:105][149]PIE: Server logged in
+[2022.07.18-06.19.25:106][149]PIE: Play in editor total start time 0.125 seconds.
+[2022.07.18-06.19.33:990][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.19.33:990][  3]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.19.33:990][  3]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.19.33:990][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.19.34:003][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.19.34:005][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.19.34:010][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.19.34:011][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.18-06.19.34:012][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.18-06.19.34:017][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.18-06.19.34:105][  5]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.07.18-06.19.42:947][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.19.42:952][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.19.42:952][834]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:19:42 p.m.)
+[2022.07.18-06.19.42:990][834]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.19.42:996][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006267s)
+[2022.07.18-06.19.42:996][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006367s)
+[2022.07.18-06.19.42:996][834]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.19.42:996][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.19.42:996][834]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.19.42:997][834]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2022.07.18-06.19.43:002][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.18-06.19.43:003][834]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.18-06.19.43:003][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.19.43:003][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.19.43:003][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.19.43:003][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.19.43:004][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.19.43:004][834]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.19.43:004][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.19.43:004][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.19.43:004][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.19.43:004][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.19.43:004][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.19.43:005][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.19.43:052][834]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.19.43:053][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.19.43:053][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.19.43:053][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.19.43:054][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.07.18-06.19.43:054][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.07.18-06.19.43:056][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.07.18-06.19.43:056][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.07.18-06.19.43:056][834]LogInit: FAudioDevice initialized.
+[2022.07.18-06.19.43:056][834]LogAudio: Display: Audio Device (ID: 7) registered with world 'GroundFloor'.
+[2022.07.18-06.19.43:067][834]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.19.43:071][834]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.19.43
+[2022.07.18-06.19.43:071][834]LogWorld: Bringing up level for play took: 0.003264
+[2022.07.18-06.19.43:072][834]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.07.18-06.19.43:075][834]PIE: Server logged in
+[2022.07.18-06.19.43:075][834]PIE: Play in editor total start time 0.125 seconds.
+[2022.07.18-06.19.56:859][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.19.56:859][ 57]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.19.56:859][ 57]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.19.56:860][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.19.56:870][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.19.56:872][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.19.56:878][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.19.56:878][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.18-06.19.56:880][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.18-06.19.56:885][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.19.56:972][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.07.18-06.20.11:160][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.20.11:165][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.20.11:165][139]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:20:11 p.m.)
+[2022.07.18-06.20.11:165][139]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.20.11:172][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006182s)
+[2022.07.18-06.20.11:172][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006258s)
+[2022.07.18-06.20.11:172][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.20.11:172][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.20.11:172][139]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.20.11:172][139]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2022.07.18-06.20.11:178][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.20.11:179][139]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.20.11:179][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.20.11:179][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.20.11:180][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.20.11:180][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.20.11:180][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.20.11:181][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.20.11:231][139]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.20.11:231][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.20.11:231][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.20.11:231][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.20.11:232][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.07.18-06.20.11:232][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.07.18-06.20.11:233][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.07.18-06.20.11:233][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.07.18-06.20.11:233][139]LogInit: FAudioDevice initialized.
+[2022.07.18-06.20.11:233][139]LogAudio: Display: Audio Device (ID: 8) registered with world 'GroundFloor'.
+[2022.07.18-06.20.11:240][139]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.20.11:243][139]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.20.11
+[2022.07.18-06.20.11:244][139]LogWorld: Bringing up level for play took: 0.003067
+[2022.07.18-06.20.11:245][139]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.07.18-06.20.11:248][139]PIE: Server logged in
+[2022.07.18-06.20.11:248][139]PIE: Play in editor total start time 0.083 seconds.
+[2022.07.18-06.20.27:470][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.20.27:470][627]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.20.27:470][627]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.20.27:470][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.20.27:481][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.20.27:483][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.20.27:489][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.18-06.20.27:489][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.18-06.20.27:490][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.18-06.20.27:493][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.20.27:495][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.18-06.20.27:584][629]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.07.18-06.20.45:037][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.20.45:042][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.20.45:042][126]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:20:45 p.m.)
+[2022.07.18-06.20.45:080][126]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.20.45:086][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006462s)
+[2022.07.18-06.20.45:086][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006563s)
+[2022.07.18-06.20.45:086][126]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.20.45:086][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.20.45:087][126]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.20.45:087][126]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2022.07.18-06.20.45:093][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.18-06.20.45:094][126]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.20.45:094][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.20.45:094][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.20.45:095][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.20.45:095][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.20.45:095][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.20.45:096][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.20.45:144][126]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.20.45:145][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.20.45:145][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.20.45:145][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.20.45:145][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.07.18-06.20.45:145][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.07.18-06.20.45:147][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.07.18-06.20.45:147][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.07.18-06.20.45:147][126]LogInit: FAudioDevice initialized.
+[2022.07.18-06.20.45:147][126]LogAudio: Display: Audio Device (ID: 9) registered with world 'GroundFloor'.
+[2022.07.18-06.20.45:156][126]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.20.45:159][126]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.20.45
+[2022.07.18-06.20.45:159][126]LogWorld: Bringing up level for play took: 0.003070
+[2022.07.18-06.20.45:160][126]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.07.18-06.20.45:163][126]PIE: Server logged in
+[2022.07.18-06.20.45:163][126]PIE: Play in editor total start time 0.121 seconds.
+[2022.07.18-06.20.57:370][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.20.57:370][221]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.20.57:370][221]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.20.57:371][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.20.57:380][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.20.57:382][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.20.57:388][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.20.57:388][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.18-06.20.57:389][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.18-06.20.57:394][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.18-06.20.57:485][223]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.07.18-06.21.02:486][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex
+[2022.07.18-06.21.02:486][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex
+[2022.07.18-06.21.02:487][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_148
+[2022.07.18-06.21.04:198][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex
+[2022.07.18-06.21.04:198][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex
+[2022.07.18-06.21.04:199][697]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_149
+[2022.07.18-06.21.07:128][928]Cmd: TRANSACTION UNDO
+[2022.07.18-06.21.07:128][928]LogEditorTransaction: Undo Move Elements
+[2022.07.18-06.21.31:429][835]Cmd: EDIT COPY
+[2022.07.18-06.21.31:691][851]Cmd: EDIT PASTE
+[2022.07.18-06.22.19:805][799]Cmd: EDIT COPY
+[2022.07.18-06.22.20:028][817]Cmd: EDIT PASTE
+[2022.07.18-06.22.46:365][947]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.18-06.22.56:442][810]LogStaticMesh: Display: Building static mesh Carpet_Hall_Ex...
+[2022.07.18-06.22.56:483][810]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_LOW_03_-_Default_OcclusionRoughnessMetallic.Carpet_Hall_LOW_03_-_Default_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.22.56:483][810]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_Red_D.Carpet_Hall_Red_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.22.56:483][810]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_LOW_03_-_Default_Normal.Carpet_Hall_LOW_03_-_Default_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.22.56:483][810]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.56:586][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.56:586][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.56:586][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_152
+[2022.07.18-06.22.57:720][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.57:720][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.57:720][900]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_153
+[2022.07.18-06.22.57:859][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.57:859][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2022.07.18-06.22.57:859][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_154
+[2022.07.18-06.23.50:203][390]Cmd: EDIT COPY
+[2022.07.18-06.23.50:405][410]Cmd: EDIT PASTE
+[2022.07.18-06.24.27:107][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.24.27:107][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.24.27:107][684]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_156
+[2022.07.18-06.24.30:273][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.24.30:273][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex
+[2022.07.18-06.24.30:274][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Carpet_Rectangle_Ex.Carpet_Rectangle_Ex as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_157
+[2022.07.18-06.24.37:665][588]Cmd: DELETE
+[2022.07.18-06.24.37:665][588]Cmd: ACTOR DELETE
+[2022.07.18-06.24.37:667][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.18-06.24.37:676][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.18-06.24.37:678][588]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.07.18-06.24.52:826][837]LogStaticMesh: Display: Building static mesh BookStand...
+[2022.07.18-06.24.52:834][837]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Props/Meshes/BookStand.BookStand
+[2022.07.18-06.24.53:221][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand
+[2022.07.18-06.24.53:221][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand
+[2022.07.18-06.24.53:221][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_158
+[2022.07.18-06.24.58:279][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand
+[2022.07.18-06.24.58:279][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand
+[2022.07.18-06.24.58:279][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/BookStand.BookStand as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_159
+[2022.07.18-06.24.59:393][400]Cmd: DELETE
+[2022.07.18-06.24.59:394][400]Cmd: ACTOR DELETE
+[2022.07.18-06.24.59:396][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.18-06.24.59:403][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.24.59:404][400]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.07.18-06.25.03:070][707]LogStaticMesh: Display: Building static mesh Chain01...
+[2022.07.18-06.25.03:116][707]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/WhipPoint_M.WhipPoint_M (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.25.03:116][707]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/WhipPoint_D.WhipPoint_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.25.03:116][707]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Props/Meshes/Chain01.Chain01
+[2022.07.18-06.25.03:116][707]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/WhipPoint_N.WhipPoint_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.18-06.25.03:258][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01
+[2022.07.18-06.25.03:258][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01
+[2022.07.18-06.25.03:259][714]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_160
+[2022.07.18-06.25.04:323][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01
+[2022.07.18-06.25.04:323][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01
+[2022.07.18-06.25.04:324][802]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Chain01.Chain01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_161
+[2022.07.18-06.25.25:260][545]Cmd: EDIT COPY
+[2022.07.18-06.25.25:458][563]Cmd: EDIT PASTE
+[2022.07.18-06.25.31:004][ 45]Cmd: EDIT COPY
+[2022.07.18-06.25.31:273][ 69]Cmd: EDIT PASTE
+[2022.07.18-06.25.33:998][310]Cmd: EDIT COPY
+[2022.07.18-06.25.34:232][330]Cmd: EDIT PASTE
+[2022.07.18-06.25.40:070][844]Cmd: EDIT COPY
+[2022.07.18-06.25.40:338][854]Cmd: EDIT PASTE
+[2022.07.18-06.25.57:119][191]Cmd: EDIT COPY
+[2022.07.18-06.25.57:598][236]Cmd: EDIT PASTE
+[2022.07.18-06.26.01:444][584]Cmd: EDIT CUT
+[2022.07.18-06.26.01:447][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.18-06.26.01:453][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.18-06.26.01:455][584]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.07.18-06.26.04:375][809]Cmd: EDIT COPY
+[2022.07.18-06.26.04:905][856]Cmd: EDIT PASTE
+[2022.07.18-06.26.16:893][851]Cmd: EDIT COPY
+[2022.07.18-06.26.17:139][872]Cmd: EDIT PASTE
+[2022.07.18-06.26.35:453][358]Cmd: EDIT COPY
+[2022.07.18-06.26.35:736][382]Cmd: EDIT PASTE
+[2022.07.18-06.27.13:809][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.18-06.27.13:834][766]LogSavePackage: Moving output files for package: /Game/Levels/GroundFloor
+[2022.07.18-06.27.13:835][766]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/GroundFloor609D130F433E75D709032B8F57288E21.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/GroundFloor.umap'
+[2022.07.18-06.27.13:841][766]LogFileHelpers: No new changes to save!
+[2022.07.18-06.27.13:848][766]AssetCheck: New page: Asset Save: GroundFloor
+[2022.07.18-06.27.13:848][766]LogContentValidation: Display: Validating World /Game/Levels/GroundFloor.GroundFloor
+[2022.07.18-06.28.18:953][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01
+[2022.07.18-06.28.18:953][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01
+[2022.07.18-06.28.18:953][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_170
+[2022.07.18-06.28.19:976][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01
+[2022.07.18-06.28.19:976][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01
+[2022.07.18-06.28.19:976][355]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Catacomb_Block01.Catacomb_Block01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_171
+[2022.07.18-06.29.01:774][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01
+[2022.07.18-06.29.01:774][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01
+[2022.07.18-06.29.01:774][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_172
+[2022.07.18-06.29.03:725][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01
+[2022.07.18-06.29.03:725][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01
+[2022.07.18-06.29.03:725][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/JumpPlatform01.JumpPlatform01 as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_173
+[2022.07.18-06.29.19:911][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.29.19:916][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.29.19:916][444]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:29:19 p.m.)
+[2022.07.18-06.29.19:949][444]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.29.19:956][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006885s)
+[2022.07.18-06.29.19:956][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.006987s)
+[2022.07.18-06.29.19:956][444]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.29.19:956][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.29.19:956][444]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.29.19:956][444]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2022.07.18-06.29.19:963][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.29.19:964][444]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.29.19:964][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.29.19:964][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.29.19:965][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.29.19:965][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.29.19:965][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.29.19:967][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.29.20:015][444]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.29.20:015][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.29.20:015][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.29.20:015][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.29.20:016][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.07.18-06.29.20:016][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.07.18-06.29.20:018][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.07.18-06.29.20:018][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.07.18-06.29.20:018][444]LogInit: FAudioDevice initialized.
+[2022.07.18-06.29.20:018][444]LogAudio: Display: Audio Device (ID: 10) registered with world 'GroundFloor'.
+[2022.07.18-06.29.20:032][444]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.29.20:035][444]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.29.20
+[2022.07.18-06.29.20:036][444]LogWorld: Bringing up level for play took: 0.003348
+[2022.07.18-06.29.20:037][444]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.07.18-06.29.20:040][444]PIE: Server logged in
+[2022.07.18-06.29.20:040][444]PIE: Play in editor total start time 0.125 seconds.
+[2022.07.18-06.30.10:479][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.30.10:479][ 28]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.30.10:479][ 28]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.30.10:480][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.30.10:495][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.30.10:496][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.30.10:502][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.18-06.30.10:502][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.18-06.30.10:503][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.18-06.30.10:506][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.30.10:509][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.18-06.30.10:552][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.18-06.30.45:753][910]Cmd: EDIT COPY
+[2022.07.18-06.30.45:981][930]Cmd: EDIT PASTE
+[2022.07.18-06.30.55:076][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-06.30.55:081][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-06.30.55:081][591]PIE: New page: PIE session: GroundFloor (Jul. 17, 2022, 10:30:55 p.m.)
+[2022.07.18-06.30.55:081][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.30.55:094][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013757s)
+[2022.07.18-06.30.55:094][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GroundFloor.GroundFloor to /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor (0.013864s)
+[2022.07.18-06.30.55:094][591]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.18-06.30.55:094][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-06.30.55:095][591]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.18-06.30.55:095][591]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2022.07.18-06.30.55:101][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.18-06.30.55:102][591]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-06.30.55:102][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-06.30.55:102][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-06.30.55:102][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-06.30.55:102][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-06.30.55:102][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-06.30.55:104][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-06.30.55:154][591]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.18-06.30.55:154][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-06.30.55:154][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-06.30.55:154][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-06.30.55:155][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.07.18-06.30.55:155][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.07.18-06.30.55:156][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.07.18-06.30.55:156][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.07.18-06.30.55:156][591]LogInit: FAudioDevice initialized.
+[2022.07.18-06.30.55:156][591]LogAudio: Display: Audio Device (ID: 11) registered with world 'GroundFloor'.
+[2022.07.18-06.30.55:170][591]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.18-06.30.55:173][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.18-02.30.55
+[2022.07.18-06.30.55:174][591]LogWorld: Bringing up level for play took: 0.003780
+[2022.07.18-06.30.55:175][591]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.07.18-06.30.55:178][591]PIE: Server logged in
+[2022.07.18-06.30.55:178][591]PIE: Play in editor total start time 0.098 seconds.
+[2022.07.18-06.31.27:980][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.31.27:980][478]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.18-06.31.27:980][478]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-06.31.27:981][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.31.27:992][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-06.31.27:994][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-06.31.28:000][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.18-06.31.28:001][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.18-06.31.28:002][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.18-06.31.28:005][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-06.31.28:007][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.18-06.31.28:051][479]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.18-06.31.39:910][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.18-06.31.39:936][212]LogSavePackage: Moving output files for package: /Game/Levels/GroundFloor
+[2022.07.18-06.31.39:936][212]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/GroundFloor85015A79430990FA60FCDC8D8B64C940.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/GroundFloor.umap'
+[2022.07.18-06.31.39:941][212]LogFileHelpers: No new changes to save!
+[2022.07.18-06.31.39:948][212]AssetCheck: New page: Asset Save: GroundFloor
+[2022.07.18-06.31.39:948][212]LogContentValidation: Display: Validating World /Game/Levels/GroundFloor.GroundFloor
