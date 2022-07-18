@@ -1758,3 +1758,17 @@ Recommended: 516.25
 [2022.07.18-06.31.39:941][212]LogFileHelpers: No new changes to save!
 [2022.07.18-06.31.39:948][212]AssetCheck: New page: Asset Save: GroundFloor
 [2022.07.18-06.31.39:948][212]LogContentValidation: Display: Validating World /Game/Levels/GroundFloor.GroundFloor
+[2022.07.18-06.32.57:902][610]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot
+[2022.07.18-06.32.57:902][610]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot
+[2022.07.18-06.32.57:903][610]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_175
+[2022.07.18-06.32.59:299][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot
+[2022.07.18-06.32.59:299][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot
+[2022.07.18-06.32.59:300][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/City_of_Brass_Props/Meshes/Coin_Loot.Coin_Loot as actor: StaticMeshActor /Game/Levels/GroundFloor.GroundFloor:PersistentLevel.StaticMeshActor_176
+[2022.07.18-06.33.41:305][264]Cmd: EDIT COPY
+[2022.07.18-06.33.41:517][282]Cmd: EDIT PASTE
+[2022.07.18-06.33.59:936][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.18-06.33.59:961][699]LogSavePackage: Moving output files for package: /Game/Levels/GroundFloor
+[2022.07.18-06.33.59:961][699]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/GroundFloorB5E9D03F4AC11824A65E27ABBE90717C.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/GroundFloor.umap'
+[2022.07.18-06.33.59:968][699]LogFileHelpers: No new changes to save!
+[2022.07.18-06.33.59:975][699]AssetCheck: New page: Asset Save: GroundFloor
+[2022.07.18-06.33.59:975][699]LogContentValidation: Display: Validating World /Game/Levels/GroundFloor.GroundFloor
