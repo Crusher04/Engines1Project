@@ -759,3 +759,1436 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.31-22.35.49:033][470]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.07.31-22.35.49:126][471]LogSlate: Took 0.000690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2022.07.31-22.36.09:306][369]LogDerivedDataCache: C:/Users/bro_a/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.317 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.31-22.37.03:477][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.37.03:477][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.38.51:838][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.07.31-22.38.55:180][ 82]LogSlate: Window 'Save Content' being destroyed
+[2022.07.31-22.38.55:279][ 82]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.005167 seconds
+[2022.07.31-22.38.55:300][ 82]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.07.31-22.38.55:301][ 82]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacterD302F64242781EAF9233B38FC7F9B56F.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.07.31-22.38.55:897][ 82]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.07.31-22.38.56:173][ 82]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 should be resaved to improve async compilation performance.
+[2022.07.31-22.38.56:173][ 82]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.07.31-22.38.56:319][ 82]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelOne.LevelOne
+[2022.07.31-22.38.56:319][ 82]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.31-22.38.56:319][ 82]LightingResults: New page: Lighting Build
+[2022.07.31-22.38.56:319][ 82]LoadErrors: New page: Loading map: LevelOne.umap
+[2022.07.31-22.38.56:322][ 82]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.38.56:322][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.38.56:329][ 82]MapCheck: New page: Map Check
+[2022.07.31-22.38.56:329][ 82]LightingResults: New page: Lighting Build
+[2022.07.31-22.38.56:358][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.38.56:364][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.07.31-22.38.56:364][ 82]LogShaderCompilers: Display: ================================================
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.31-22.38.56:365][ 82]LogShaderCompilers: Display: ================================================
+[2022.07.31-22.38.56:383][ 82]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.38.56:385][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.38.56:480][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.31-22.38.56:508][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.07.31-22.38.56:668][ 82]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2022.07.31-22.38.56:668][ 82]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.38.56:668][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.38.56:668][ 82]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.38.57:962][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.31-22.38.58:003][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.07.31-22.38.58:013][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.31-22.38.58:013][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2022.07.31-22.38.58:013][ 82]LogFileHelpers: Loading map 'LevelOne' took 1.694
+[2022.07.31-22.38.58:036][ 82]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.07.31-22.38.58:036][ 82]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.39.00:645][219]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.39.00:653][219]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.31-22.39.00:660][219]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.07.31-22.39.00:761][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.07.31-22.39.00:762][219]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2022.07.31-22.39.00:762][219]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:39:00 p.m.)
+[2022.07.31-22.39.00:765][219]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.31-22.39.00:765][219]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.31-22.39.00:765][219]LogLinker: Warning: Failed to load '/Game/MyGameManager': Can't find file.
+[2022.07.31-22.39.00:765][219]LogLinker: Warning: Failed to load '/Game/MyGameManager': Can't find file.
+[2022.07.31-22.39.00:765][219]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyGameManager.MyGameManager_C'
+[2022.07.31-22.39.00:765][219]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.00:951][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.186168s)
+[2022.07.31-22.39.00:952][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.186239s)
+[2022.07.31-22.39.00:952][219]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.39.00:952][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.00:952][219]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.39.00:952][219]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2022.07.31-22.39.00:981][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.31-22.39.00:981][219]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.39.00:981][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.39.00:981][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.39.00:982][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.39.00:982][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.39.00:982][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.39.00:983][219]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.39.01:029][219]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.39.01:029][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.39.01:029][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.39.01:029][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.39.01:030][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.31-22.39.01:030][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.31-22.39.01:031][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.31-22.39.01:031][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.31-22.39.01:031][219]LogInit: FAudioDevice initialized.
+[2022.07.31-22.39.01:031][219]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelOne'.
+[2022.07.31-22.39.01:041][219]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.01:067][219]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.39.01
+[2022.07.31-22.39.01:068][219]LogWorld: Bringing up level for play took: 0.025623
+[2022.07.31-22.39.01:069][219]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.07.31-22.39.01:082][219]PIE: Server logged in
+[2022.07.31-22.39.01:083][219]PIE: Play in editor total start time 0.43 seconds.
+[2022.07.31-22.39.04:747][420]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.39.08:753][677]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.07.31-22.39.08:753][677]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.07.31-22.39.08:753][677]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.08:754][677]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.08:757][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.08:816][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.08:846][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.31-22.39.08:935][677]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 should be resaved to improve async compilation performance.
+[2022.07.31-22.39.08:936][677]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 should be resaved to improve async compilation performance.
+[2022.07.31-22.39.08:936][677]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400 should be resaved to improve async compilation performance.
+[2022.07.31-22.39.08:957][677]LogAudio: Display: Audio Device (ID: 2) registered with world 'GroundFloor'.
+[2022.07.31-22.39.08:957][677]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.39.08:957][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.08:957][677]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.31-22.39.08:957][677]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2022.07.31-22.39.08:957][677]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.08:965][677]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.31-18.39.08
+[2022.07.31-22.39.08:965][677]LogWorld: Bringing up level for play took: 0.003729
+[2022.07.31-22.39.08:968][677]LogLoad: Took 0.214656 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.07.31-22.39.23:767][756]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.39.23:767][756]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.39.23:767][756]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.31-22.39.23:768][756]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.23:768][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.23:831][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.23:840][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.31-22.39.23:848][756]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.39.23:849][756]LogAudio: Display: Audio Device (ID: 2) registered with world 'Elevator'.
+[2022.07.31-22.39.23:849][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.23:849][756]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.39.23:850][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.39.23:850][756]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.39.23:854][756]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.39.23:854][756]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.39.23:854][756]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.39.23:854][756]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.39.23:854][756]LogWorldPartition: Display: GetPartitionedActors took 71 us
+[2022.07.31-22.39.24:109][756]LogWorldPartition: Display: GenerateStreaming took 255 ms
+[2022.07.31-22.39.24:122][756]LogWorldPartition: Display: WorldPartition initialize took 272 ms
+[2022.07.31-22.39.24:122][756]LogPlayLevel: PIE: World Init took: (0.273060s)
+[2022.07.31-22.39.24:122][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.24:317][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.39.24
+[2022.07.31-22.39.24:317][756]LogWorld: Bringing up level for play took: 0.022091
+[2022.07.31-22.39.24:320][756]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.39.24:320][756]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.39.24:320][756]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.39.24:323][756]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.39.24:592][756]LogLoad: Took 0.824408 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.39.26:380][871]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.39.26:381][871]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.39.26:381][871]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.39.26:381][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:475][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:475][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:476][871]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.26:476][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.26:515][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.26:530][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.31-22.39.26:535][871]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.26:660][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126082s)
+[2022.07.31-22.39.26:660][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.126173s)
+[2022.07.31-22.39.26:660][871]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelOne'.
+[2022.07.31-22.39.26:660][871]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.39.26:661][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.26:661][871]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.39.26:661][871]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2022.07.31-22.39.26:661][871]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.26:684][871]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.39.26
+[2022.07.31-22.39.26:685][871]LogWorld: Bringing up level for play took: 0.022739
+[2022.07.31-22.39.26:688][871]LogLoad: Took 0.308015 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.39.36:713][487]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.39.36:713][487]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.39.36:713][487]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.36:714][487]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.36:718][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.36:790][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.36:800][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.07.31-22.39.36:813][487]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.39.36:814][487]LogAudio: Display: Audio Device (ID: 2) registered with world 'Elevator'.
+[2022.07.31-22.39.36:814][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.36:814][487]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.39.36:815][487]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.39.36:815][487]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.39.36:818][487]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.39.36:818][487]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.39.36:818][487]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.39.36:818][487]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.39.36:818][487]LogWorldPartition: Display: GetPartitionedActors took 70 us
+[2022.07.31-22.39.36:988][487]LogWorldPartition: Display: GenerateStreaming took 169 ms
+[2022.07.31-22.39.36:996][487]LogWorldPartition: Display: WorldPartition initialize took 180 ms
+[2022.07.31-22.39.36:996][487]LogPlayLevel: PIE: World Init took: (0.181802s)
+[2022.07.31-22.39.36:996][487]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.37:125][487]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.39.37
+[2022.07.31-22.39.37:125][487]LogWorld: Bringing up level for play took: 0.022298
+[2022.07.31-22.39.37:128][487]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.39.37:128][487]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.39.37:128][487]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.39.37:130][487]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.39.37:390][487]LogLoad: Took 0.676939 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.39.38:656][572]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.39.38:656][572]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.39.38:656][572]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.39.38:656][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:739][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:740][572]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.38:740][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.38:803][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.38:820][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.07.31-22.39.38:825][572]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.38:947][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122695s)
+[2022.07.31-22.39.38:947][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.122793s)
+[2022.07.31-22.39.38:947][572]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelOne'.
+[2022.07.31-22.39.38:947][572]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.39.38:948][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.38:948][572]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.39.38:948][572]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2022.07.31-22.39.38:948][572]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.38:979][572]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.39.38
+[2022.07.31-22.39.38:980][572]LogWorld: Bringing up level for play took: 0.032325
+[2022.07.31-22.39.38:984][572]LogLoad: Took 0.327946 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.39.39:255][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.39.43:258][838]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.07.31-22.39.43:258][838]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.07.31-22.39.43:258][838]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.39.43:258][838]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.43:263][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.43:340][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.43:350][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.07.31-22.39.43:371][838]LogAudio: Display: Audio Device (ID: 2) registered with world 'GroundFloor'.
+[2022.07.31-22.39.43:371][838]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.39.43:371][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.43:371][838]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.31-22.39.43:372][838]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2022.07.31-22.39.43:372][838]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.43:375][838]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.31-18.39.43
+[2022.07.31-22.39.43:375][838]LogWorld: Bringing up level for play took: 0.003571
+[2022.07.31-22.39.43:378][838]LogLoad: Took 0.120425 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.07.31-22.39.48:060][192]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.39.48:060][192]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.39.48:060][192]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.31-22.39.48:061][192]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.48:061][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.48:131][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.39.48:135][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.07.31-22.39.48:141][192]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.39.48:142][192]LogAudio: Display: Audio Device (ID: 2) registered with world 'Elevator'.
+[2022.07.31-22.39.48:143][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.39.48:143][192]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.39.48:143][192]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.39.48:143][192]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.39.48:147][192]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.39.48:147][192]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.39.48:147][192]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.39.48:147][192]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.39.48:147][192]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.07.31-22.39.48:318][192]LogWorldPartition: Display: GenerateStreaming took 171 ms
+[2022.07.31-22.39.48:328][192]LogWorldPartition: Display: WorldPartition initialize took 184 ms
+[2022.07.31-22.39.48:328][192]LogPlayLevel: PIE: World Init took: (0.185445s)
+[2022.07.31-22.39.48:328][192]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.39.48:464][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.39.48
+[2022.07.31-22.39.48:464][192]LogWorld: Bringing up level for play took: 0.027777
+[2022.07.31-22.39.48:468][192]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.39.48:468][192]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.39.48:468][192]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.39.48:469][192]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.39.48:704][192]LogLoad: Took 0.643853 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.39.49:229][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.39.49:229][222]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.39.49:256][222]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.39.49:258][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.49:271][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.39.49:276][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.39.49:309][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.39.49:314][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.31-22.39.49:315][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.31-22.39.49:331][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.31-22.39.49:378][223]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.07.31-22.41.44:143][319]LogViewport: Scene viewport resized to 2016x1013, mode Windowed.
+[2022.07.31-22.41.56:558][211]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.31-22.42.00:881][486]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.31-22.42.12:795][271]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.07.31-22.42.16:716][542]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.07.31-22.42.16:834][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.31-22.42.19:876][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.42.19:885][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.31-22.42.19:886][764]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:42:19 p.m.)
+[2022.07.31-22.42.19:909][764]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.42.20:039][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129833s)
+[2022.07.31-22.42.20:039][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.129924s)
+[2022.07.31-22.42.20:039][764]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.42.20:039][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.42.20:040][764]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.42.20:040][764]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2022.07.31-22.42.20:080][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.07.31-22.42.20:081][764]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.42.20:082][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.42.20:082][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.42.20:082][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.42.20:082][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.42.20:082][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.42.20:084][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.42.20:130][764]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.42.20:130][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.42.20:130][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.42.20:130][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.42.20:131][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.07.31-22.42.20:131][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.07.31-22.42.20:132][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.07.31-22.42.20:132][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.07.31-22.42.20:132][764]LogInit: FAudioDevice initialized.
+[2022.07.31-22.42.20:132][764]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelOne'.
+[2022.07.31-22.42.20:146][764]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.42.20:173][764]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.42.20
+[2022.07.31-22.42.20:174][764]LogWorld: Bringing up level for play took: 0.027745
+[2022.07.31-22.42.20:175][764]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.07.31-22.42.20:181][764]PIE: Server logged in
+[2022.07.31-22.42.20:181][764]PIE: Play in editor total start time 0.296 seconds.
+[2022.07.31-22.42.34:582][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.42.38:580][934]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.07.31-22.42.38:580][934]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.07.31-22.42.38:580][934]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.42.38:581][934]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.38:584][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.38:651][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.42.38:664][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.31-22.42.38:683][934]LogAudio: Display: Audio Device (ID: 3) registered with world 'GroundFloor'.
+[2022.07.31-22.42.38:683][934]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.42.38:683][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.42.38:683][934]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.31-22.42.38:683][934]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2022.07.31-22.42.38:683][934]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.42.38:687][934]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.31-18.42.38
+[2022.07.31-22.42.38:687][934]LogWorld: Bringing up level for play took: 0.003743
+[2022.07.31-22.42.38:694][934]LogLoad: Took 0.113896 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.07.31-22.42.41:521][180]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.42.41:522][180]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.42.41:522][180]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.31-22.42.41:522][180]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.41:522][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.41:582][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.42.41:585][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.07.31-22.42.41:591][180]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.42.41:592][180]LogAudio: Display: Audio Device (ID: 3) registered with world 'Elevator'.
+[2022.07.31-22.42.41:592][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.42.41:593][180]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.42.41:593][180]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.42.41:593][180]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.42.41:596][180]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.42.41:596][180]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.42.41:596][180]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.42.41:596][180]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.42.41:596][180]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.07.31-22.42.41:764][180]LogWorldPartition: Display: GenerateStreaming took 167 ms
+[2022.07.31-22.42.41:773][180]LogWorldPartition: Display: WorldPartition initialize took 179 ms
+[2022.07.31-22.42.41:773][180]LogPlayLevel: PIE: World Init took: (0.180486s)
+[2022.07.31-22.42.41:773][180]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.42.41:905][180]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.42.41
+[2022.07.31-22.42.41:905][180]LogWorld: Bringing up level for play took: 0.023544
+[2022.07.31-22.42.41:910][180]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.42.41:910][180]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.42.41:910][180]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.42.41:912][180]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.42.42:152][180]LogLoad: Took 0.630078 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.42.44:102][346]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.42.44:102][346]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.42.44:102][346]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.42.44:103][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:186][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:187][346]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.42.44:187][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.42.44:226][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.42.44:238][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.07.31-22.42.44:243][346]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.42.44:384][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140538s)
+[2022.07.31-22.42.44:384][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.140633s)
+[2022.07.31-22.42.44:384][346]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelOne'.
+[2022.07.31-22.42.44:384][346]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.42.44:384][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.42.44:385][346]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.42.44:385][346]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2022.07.31-22.42.44:385][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.42.44:410][346]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.42.44
+[2022.07.31-22.42.44:410][346]LogWorld: Bringing up level for play took: 0.025167
+[2022.07.31-22.42.44:416][346]LogLoad: Took 0.313620 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.42.56:335][ 98]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.43.00:319][368]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.07.31-22.43.00:319][368]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.07.31-22.43.00:319][368]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.43.00:320][368]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.00:325][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.00:391][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.00:401][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.07.31-22.43.00:422][368]LogAudio: Display: Audio Device (ID: 3) registered with world 'GroundFloor'.
+[2022.07.31-22.43.00:422][368]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.43.00:422][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.00:423][368]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.31-22.43.00:423][368]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2022.07.31-22.43.00:423][368]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.00:426][368]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.31-18.43.00
+[2022.07.31-22.43.00:427][368]LogWorld: Bringing up level for play took: 0.003753
+[2022.07.31-22.43.00:431][368]LogLoad: Took 0.111129 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.07.31-22.43.02:536][550]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.43.02:536][550]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.43.02:536][550]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.31-22.43.02:536][550]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.02:537][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.02:601][550]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.02:604][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.31-22.43.02:610][550]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.43.02:611][550]LogAudio: Display: Audio Device (ID: 3) registered with world 'Elevator'.
+[2022.07.31-22.43.02:611][550]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.02:611][550]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.43.02:612][550]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.43.02:612][550]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.43.02:615][550]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.43.02:615][550]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.43.02:615][550]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.43.02:615][550]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.43.02:615][550]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2022.07.31-22.43.02:790][550]LogWorldPartition: Display: GenerateStreaming took 174 ms
+[2022.07.31-22.43.02:800][550]LogWorldPartition: Display: WorldPartition initialize took 187 ms
+[2022.07.31-22.43.02:800][550]LogPlayLevel: PIE: World Init took: (0.188471s)
+[2022.07.31-22.43.02:800][550]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.02:925][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.43.02
+[2022.07.31-22.43.02:925][550]LogWorld: Bringing up level for play took: 0.021632
+[2022.07.31-22.43.02:929][550]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.43.02:930][550]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.43.02:930][550]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.43.02:931][550]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.43.03:187][550]LogLoad: Took 0.650719 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.43.05:532][749]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.43.05:532][749]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.43.05:532][749]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.43.05:533][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:632][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:633][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:633][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:634][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:634][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:634][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:634][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:634][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:634][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:634][749]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.05:634][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.05:698][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.05:712][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.31-22.43.05:717][749]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.43.05:844][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126244s)
+[2022.07.31-22.43.05:844][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.126341s)
+[2022.07.31-22.43.05:844][749]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelOne'.
+[2022.07.31-22.43.05:844][749]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.43.05:844][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.05:844][749]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.43.05:845][749]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2022.07.31-22.43.05:845][749]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.05:867][749]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.43.05
+[2022.07.31-22.43.05:867][749]LogWorld: Bringing up level for play took: 0.022947
+[2022.07.31-22.43.05:872][749]LogLoad: Took 0.340384 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.43.12:226][167]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.43.16:230][436]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.07.31-22.43.16:230][436]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.07.31-22.43.16:230][436]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.43.16:231][436]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.16:236][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.16:301][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.16:312][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.07.31-22.43.16:332][436]LogAudio: Display: Audio Device (ID: 3) registered with world 'GroundFloor'.
+[2022.07.31-22.43.16:332][436]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.43.16:332][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.16:332][436]LogAIModule: Creating AISystem for world GroundFloor
+[2022.07.31-22.43.16:332][436]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2022.07.31-22.43.16:333][436]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.16:336][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.07.31-18.43.16
+[2022.07.31-22.43.16:336][436]LogWorld: Bringing up level for play took: 0.003636
+[2022.07.31-22.43.16:341][436]LogLoad: Took 0.111203 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.07.31-22.43.19:260][686]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.43.19:260][686]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.43.19:260][686]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.07.31-22.43.19:260][686]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.19:261][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.19:322][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.19:327][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.31-22.43.19:333][686]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.43.19:334][686]LogAudio: Display: Audio Device (ID: 3) registered with world 'Elevator'.
+[2022.07.31-22.43.19:334][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.19:334][686]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.43.19:335][686]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.43.19:335][686]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.43.19:338][686]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.43.19:338][686]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.43.19:338][686]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.43.19:338][686]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.43.19:338][686]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2022.07.31-22.43.19:535][686]LogWorldPartition: Display: GenerateStreaming took 196 ms
+[2022.07.31-22.43.19:543][686]LogWorldPartition: Display: WorldPartition initialize took 208 ms
+[2022.07.31-22.43.19:543][686]LogPlayLevel: PIE: World Init took: (0.209080s)
+[2022.07.31-22.43.19:543][686]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.19:668][686]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.43.19
+[2022.07.31-22.43.19:668][686]LogWorld: Bringing up level for play took: 0.022694
+[2022.07.31-22.43.19:674][686]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.43.19:674][686]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.43.19:674][686]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.43.19:676][686]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.43.19:944][686]LogLoad: Took 0.684310 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.43.22:105][865]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.43.22:105][865]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.43.22:105][865]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.43.22:105][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:219][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:220][865]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.22:220][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.22:260][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.22:274][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.07.31-22.43.22:279][865]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.43.22:409][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129642s)
+[2022.07.31-22.43.22:409][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.129740s)
+[2022.07.31-22.43.22:409][865]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelOne'.
+[2022.07.31-22.43.22:409][865]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.43.22:409][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.43.22:409][865]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.43.22:410][865]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2022.07.31-22.43.22:410][865]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.43.22:434][865]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.43.22
+[2022.07.31-22.43.22:434][865]LogWorld: Bringing up level for play took: 0.024371
+[2022.07.31-22.43.22:440][865]LogLoad: Took 0.334823 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.43.28:744][269]LogBlueprintUserMessages: [Light_Generator_BP_C_1] Need Saw
+[2022.07.31-22.43.30:697][398]LogBlueprintUserMessages: [Light_Generator_BP_C_1] Need Saw
+[2022.07.31-22.43.30:769][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.43.30:769][400]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.43.30:769][400]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.43.30:773][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.30:783][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.43.30:790][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.43.30:827][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.43.30:830][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.31-22.43.30:831][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.31-22.43.30:835][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.43.30:846][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.31-22.43.30:886][401]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.07.31-22.45.38:006][845]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.31-22.45.38:098][845]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.31-22.46.02:461][950]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.46.02:465][950]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.46.53:554][354]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.31-22.47.00:678][354]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.31-22.47.00:684][354]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.31-22.47.00:691][354]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.31-22.47.00:705][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.07.31-22.47.03:368][515]LogContentBrowser: Attempting asset rename: NewBlueprint -> GameInstance
+[2022.07.31-22.47.03:375][515]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.31-22.47.05:905][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameInstance.GameInstance
+[2022.07.31-22.47.05:905][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.47.06:319][672]LogViewport: Scene viewport resized to 2016x1013, mode Windowed.
+[2022.07.31-22.47.27:101][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/GameInstance.uasset" SILENT=true
+[2022.07.31-22.47.27:104][982]LogSavePackage: Moving output files for package: /Game/GameInstance
+[2022.07.31-22.47.27:104][982]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/GameInstance3D55D1EE418935F2BA3083A45B561E22.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/GameInstance.uasset'
+[2022.07.31-22.47.27:118][982]AssetCheck: New page: Asset Save: GameInstance
+[2022.07.31-22.47.27:118][982]LogContentValidation: Display: Validating Blueprint /Game/GameInstance.GameInstance
+[2022.07.31-22.47.32:343][292]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.07.31-22.47.32:343][292]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter746F9B90465DDA68FD5D85B82EB18133.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.07.31-22.47.32:358][292]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.07.31-22.47.32:358][292]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.48.46:370][291]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.31-22.48.46:456][291]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.31-22.48.51:033][554]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.31-22.48.56:840][945]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.48.56:847][945]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.49.23:460][752]BlueprintLog: New page: Compile GameInstance
+[2022.07.31-22.49.23:575][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.07.31-22.49.23:956][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/GameInstance.uasset" SILENT=true
+[2022.07.31-22.49.23:959][772]LogSavePackage: Moving output files for package: /Game/GameInstance
+[2022.07.31-22.49.23:959][772]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/GameInstanceF7DA56224D940D991A95C38B69D80926.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/GameInstance.uasset'
+[2022.07.31-22.49.23:971][772]AssetCheck: New page: Asset Save: GameInstance
+[2022.07.31-22.49.23:971][772]LogContentValidation: Display: Validating Blueprint /Game/GameInstance.GameInstance
+[2022.07.31-22.50.24:271][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.50.24:280][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.31-22.50.24:283][428]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.07.31-22.50.24:288][428]LogBlueprint: Warning: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] 'Game Instance' does not inherit from 'Game Instance' ( Cast To GameInstance  would always fail).
+[2022.07.31-22.50.24:449][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.07.31-22.50.24:454][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 173 ms (1 blueprints)
+[2022.07.31-22.50.24:454][428]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:50:24 p.m.)
+[2022.07.31-22.50.24:454][428]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.50.24:578][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125096s)
+[2022.07.31-22.50.24:578][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.125164s)
+[2022.07.31-22.50.24:578][428]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.50.24:578][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.50.24:579][428]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.50.24:579][428]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.07.31-22.50.24:619][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.07.31-22.50.24:620][428]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.50.24:620][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.50.24:620][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.50.24:620][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.50.24:620][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.50.24:620][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.50.24:622][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.50.24:670][428]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.50.24:670][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.50.24:670][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.50.24:670][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.50.24:670][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.07.31-22.50.24:670][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.07.31-22.50.24:672][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.07.31-22.50.24:672][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.07.31-22.50.24:672][428]LogInit: FAudioDevice initialized.
+[2022.07.31-22.50.24:672][428]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelOne'.
+[2022.07.31-22.50.24:684][428]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.50.24:712][428]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.50.24
+[2022.07.31-22.50.24:713][428]LogWorld: Bringing up level for play took: 0.027567
+[2022.07.31-22.50.24:714][428]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.07.31-22.50.24:719][428]PIE: Server logged in
+[2022.07.31-22.50.24:720][428]PIE: Play in editor total start time 0.44 seconds.
+[2022.07.31-22.50.32:695][891]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.50.32:695][891]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.50.32:695][891]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.50.32:696][891]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.32:700][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.32:746][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.50.32:759][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.07.31-22.50.32:769][891]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.50.32:770][891]LogAudio: Display: Audio Device (ID: 4) registered with world 'Elevator'.
+[2022.07.31-22.50.32:770][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.50.32:771][891]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.50.32:771][891]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.50.32:771][891]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.50.32:775][891]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.50.32:775][891]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.50.32:775][891]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.50.32:775][891]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.50.32:775][891]LogWorldPartition: Display: GetPartitionedActors took 91 us
+[2022.07.31-22.50.32:936][891]LogWorldPartition: Display: GenerateStreaming took 161 ms
+[2022.07.31-22.50.32:943][891]LogWorldPartition: Display: WorldPartition initialize took 172 ms
+[2022.07.31-22.50.32:944][891]LogPlayLevel: PIE: World Init took: (0.173550s)
+[2022.07.31-22.50.32:944][891]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.50.33:072][891]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.50.33
+[2022.07.31-22.50.33:072][891]LogWorld: Bringing up level for play took: 0.022625
+[2022.07.31-22.50.33:077][891]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.50.33:077][891]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.50.33:077][891]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.50.33:080][891]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.50.33:369][891]LogLoad: Took 0.674168 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.50.35:654][ 52]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.50.35:654][ 52]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.50.35:654][ 52]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.50.35:654][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:754][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:754][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:755][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:755][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:755][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:755][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:755][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:755][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:755][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:755][ 52]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.35:755][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.35:798][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.50.35:813][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.07.31-22.50.35:818][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.50.35:944][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125662s)
+[2022.07.31-22.50.35:944][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.125757s)
+[2022.07.31-22.50.35:944][ 52]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelOne'.
+[2022.07.31-22.50.35:944][ 52]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.50.35:944][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.50.35:944][ 52]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.50.35:945][ 52]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2022.07.31-22.50.35:945][ 52]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.50.35:966][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.50.35
+[2022.07.31-22.50.35:966][ 52]LogWorld: Bringing up level for play took: 0.022596
+[2022.07.31-22.50.35:972][ 52]LogLoad: Took 0.318900 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.50.38:226][191]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.50.40:760][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.50.40:760][353]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.50.40:760][353]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.50.40:764][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.40:773][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.50.40:778][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.50.40:816][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.50.40:826][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.31-22.50.40:827][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.31-22.50.40:840][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.31-22.50.40:895][354]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.31-22.51.35:591][950]LogContentBrowser: Attempting asset rename: GameInstance -> MyGameInstance
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.MyGameInstance:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.SKEL_MyGameInstance_C' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.MyGameInstance_C' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.MyGameInstance:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.MyGameInstance:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.SKEL_MyGameInstance_C:ReceiveBeginPlay' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.SKEL_MyGameInstance_C:ReceiveTick' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:609][950]LogMetaData: Removing '/Game/MyGameInstance.SKEL_MyGameInstance_C:UserConstructionScript' ref from Metadata '/Game/GameInstance.PackageMetaData'
+[2022.07.31-22.51.35:642][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyGameInstance.uasset" SILENT=true
+[2022.07.31-22.51.35:645][950]LogSavePackage: Moving output files for package: /Game/MyGameInstance
+[2022.07.31-22.51.35:645][950]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/MyGameInstance158EC47540E0CA32136CBABF232F0563.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyGameInstance.uasset'
+[2022.07.31-22.51.35:718][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.07.31-22.51.35:762][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.07.31-22.51.35:801][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.31-22.51.35:807][950]AssetCheck: New page: Asset Save: MyGameInstance
+[2022.07.31-22.51.35:807][950]LogContentValidation: Display: Validating Blueprint /Game/MyGameInstance.MyGameInstance
+[2022.07.31-22.51.41:034][254]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.31-22.51.41:116][254]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.31-22.51.45:615][500]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.31-22.52.42:320][507]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.07.31-22.52.42:342][507]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainGameInstance.MainGameInstance
+[2022.07.31-22.52.42:343][507]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.52.45:783][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.31-22.52.45:785][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelOne' took 0.049
+[2022.07.31-22.52.45:785][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.07.31-22.52.45:803][688]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.07.31-22.52.45:803][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.07.31-22.52.45:821][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2022.07.31-22.52.45:822][688]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter_Auto11B8D202B40A3C8817F2C32B75B044417.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2022.07.31-22.52.45:823][688]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.07.31-22.52.55:427][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameInstance" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MainGameInstance.uasset" SILENT=true
+[2022.07.31-22.52.55:429][343]LogSavePackage: Moving output files for package: /Game/MainGameInstance
+[2022.07.31-22.52.55:429][343]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/MainGameInstance4188AED64E7E211B27E820B42D5E9A57.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MainGameInstance.uasset'
+[2022.07.31-22.52.55:440][343]AssetCheck: New page: Asset Save: MainGameInstance
+[2022.07.31-22.52.55:440][343]LogContentValidation: Display: Validating Blueprint /Game/MainGameInstance.MainGameInstance
+[2022.07.31-22.52.56:531][414]BlueprintLog: New page: Compile MainGameInstance
+[2022.07.31-22.52.56:579][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.31-22.52.59:281][583]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.52.59:282][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.53.02:915][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.07.31-22.53.04:128][800]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.31-22.53.04:410][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.31-22.53.04:410][800]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.53.04:410][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.53.04:465][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.31-22.53.04:465][800]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.53.04:465][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.53.04:502][800]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyGameInstance.MyGameInstance
+	Asset Type: Blueprint
+[2022.07.31-22.53.04:905][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.31-22.53.04:959][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.31-22.53.04:985][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.31-22.53.11:009][181]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.53.11:026][181]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.31-22.53.21:363][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.53.21:364][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.53.50:595][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.53.50:604][702]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.31-22.53.50:607][702]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.07.31-22.53.50:727][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.31-22.53.50:734][702]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2022.07.31-22.53.50:734][702]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:53:50 p.m.)
+[2022.07.31-22.53.50:769][702]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.53.50:893][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123895s)
+[2022.07.31-22.53.50:893][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.123982s)
+[2022.07.31-22.53.50:893][702]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.53.50:893][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.53.50:893][702]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.53.50:894][702]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2022.07.31-22.53.50:923][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.07.31-22.53.50:924][702]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.53.50:924][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.53.50:924][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.53.50:924][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.53.50:924][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.53.50:924][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.53.50:926][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.53.50:972][702]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.53.50:972][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.53.50:972][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.53.50:972][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.53.50:973][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.07.31-22.53.50:973][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.07.31-22.53.50:974][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.07.31-22.53.50:974][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.07.31-22.53.50:974][702]LogInit: FAudioDevice initialized.
+[2022.07.31-22.53.50:974][702]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelOne'.
+[2022.07.31-22.53.50:986][702]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.53.51:013][702]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.53.51
+[2022.07.31-22.53.51:013][702]LogWorld: Bringing up level for play took: 0.027083
+[2022.07.31-22.53.51:014][702]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.07.31-22.53.51:019][702]PIE: Server logged in
+[2022.07.31-22.53.51:020][702]PIE: Play in editor total start time 0.417 seconds.
+[2022.07.31-22.53.57:978][113]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.53.57:978][113]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.53.57:978][113]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.53.57:979][113]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.53.57:983][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.53.58:016][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.53.58:030][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.07.31-22.53.58:041][113]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.53.58:042][113]LogAudio: Display: Audio Device (ID: 5) registered with world 'Elevator'.
+[2022.07.31-22.53.58:042][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.53.58:042][113]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.53.58:042][113]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.53.58:043][113]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.53.58:046][113]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.53.58:046][113]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.53.58:046][113]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.53.58:046][113]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.53.58:046][113]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.07.31-22.53.58:220][113]LogWorldPartition: Display: GenerateStreaming took 174 ms
+[2022.07.31-22.53.58:228][113]LogWorldPartition: Display: WorldPartition initialize took 185 ms
+[2022.07.31-22.53.58:228][113]LogPlayLevel: PIE: World Init took: (0.186371s)
+[2022.07.31-22.53.58:228][113]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.53.58:417][113]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.53.58
+[2022.07.31-22.53.58:417][113]LogWorld: Bringing up level for play took: 0.023788
+[2022.07.31-22.53.58:421][113]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.53.58:421][113]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.53.58:421][113]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.53.58:423][113]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.53.58:651][113]LogLoad: Took 0.673398 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.54.00:771][247]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.54.00:771][247]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.54.00:771][247]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.54.00:772][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:854][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:855][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:855][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:856][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:856][247]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.00:856][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.00:892][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.54.00:906][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.07.31-22.54.00:910][247]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.54.01:033][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122630s)
+[2022.07.31-22.54.01:033][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.122722s)
+[2022.07.31-22.54.01:033][247]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelOne'.
+[2022.07.31-22.54.01:033][247]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.54.01:033][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.54.01:033][247]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.54.01:033][247]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2022.07.31-22.54.01:033][247]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.54.01:055][247]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.54.01
+[2022.07.31-22.54.01:056][247]LogWorld: Bringing up level for play took: 0.022216
+[2022.07.31-22.54.01:061][247]LogLoad: Took 0.289986 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.54.02:273][320]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.54.05:910][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.54.05:910][555]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.54.05:910][555]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.54.05:914][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.05:923][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.54.05:929][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.54.05:959][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.54.05:972][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.31-22.54.05:973][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.07.31-22.54.05:986][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.31-22.54.06:040][556]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.07.31-22.54.51:572][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint
+[2022.07.31-22.54.51:572][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.55.11:666][717]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.31-22.55.57:712][814]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Water_Blueprint
+[2022.07.31-22.55.57:712][814]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Water_Blueprint941596DE4FD90BE514785E98A8ECC5E6.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/Water_Blueprint.uasset'
+[2022.07.31-22.55.57:724][814]AssetCheck: New page: Asset Save: Water_Blueprint
+[2022.07.31-22.55.57:724][814]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint
+[2022.07.31-22.55.58:578][862]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Water_Blueprint
+[2022.07.31-22.55.58:579][862]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Water_Blueprint4376199A4C58A840CAC2BBAFFA41D8BA.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/Water_Blueprint.uasset'
+[2022.07.31-22.55.58:591][862]AssetCheck: New page: Asset Save: Water_Blueprint
+[2022.07.31-22.55.58:591][862]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint
+[2022.07.31-22.55.58:843][878]BlueprintLog: New page: Compile Water_Blueprint
+[2022.07.31-22.55.58:910][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.07.31-22.56.11:359][712]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.56.11:359][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.27:656][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.57.27:666][489]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.31-22.57.27:669][489]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.07.31-22.57.27:791][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.07.31-22.57.27:796][489]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2022.07.31-22.57.27:796][489]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:57:27 p.m.)
+[2022.07.31-22.57.27:840][489]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.27:965][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125720s)
+[2022.07.31-22.57.27:965][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.125808s)
+[2022.07.31-22.57.27:965][489]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.57.27:965][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.57.27:966][489]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.57.27:966][489]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2022.07.31-22.57.27:997][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.31-22.57.27:998][489]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.57.27:998][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.57.27:998][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.57.27:998][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.57.27:998][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.57.27:998][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.57.28:000][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.57.28:045][489]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.57.28:045][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.57.28:045][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.57.28:045][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.57.28:046][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.07.31-22.57.28:046][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.07.31-22.57.28:047][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.07.31-22.57.28:047][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.07.31-22.57.28:047][489]LogInit: FAudioDevice initialized.
+[2022.07.31-22.57.28:047][489]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelOne'.
+[2022.07.31-22.57.28:059][489]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.57.28:088][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.57.28
+[2022.07.31-22.57.28:089][489]LogWorld: Bringing up level for play took: 0.028973
+[2022.07.31-22.57.28:090][489]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.07.31-22.57.28:096][489]PIE: Server logged in
+[2022.07.31-22.57.28:096][489]PIE: Play in editor total start time 0.43 seconds.
+[2022.07.31-22.57.34:948][897]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.57.34:948][897]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.57.34:948][897]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.34:949][897]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.34:952][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.35:023][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.57.35:033][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.07.31-22.57.35:045][897]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.57.35:046][897]LogAudio: Display: Audio Device (ID: 6) registered with world 'Elevator'.
+[2022.07.31-22.57.35:046][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.57.35:046][897]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.57.35:047][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.57.35:047][897]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.57.35:051][897]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.57.35:051][897]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.57.35:051][897]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.57.35:051][897]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.57.35:051][897]LogWorldPartition: Display: GetPartitionedActors took 72 us
+[2022.07.31-22.57.35:232][897]LogWorldPartition: Display: GenerateStreaming took 180 ms
+[2022.07.31-22.57.35:240][897]LogWorldPartition: Display: WorldPartition initialize took 192 ms
+[2022.07.31-22.57.35:240][897]LogPlayLevel: PIE: World Init took: (0.193612s)
+[2022.07.31-22.57.35:240][897]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.57.35:426][897]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.57.35
+[2022.07.31-22.57.35:426][897]LogWorld: Bringing up level for play took: 0.021572
+[2022.07.31-22.57.35:430][897]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.57.35:431][897]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.57.35:431][897]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.57.35:433][897]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.57.35:664][897]LogLoad: Took 0.716476 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.57.38:059][ 55]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-22.57.38:059][ 55]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-22.57.38:059][ 55]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.57.38:060][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:148][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:148][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:149][ 55]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.38:214][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.57.38:227][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.07.31-22.57.38:232][ 55]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.38:356][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124224s)
+[2022.07.31-22.57.38:356][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.124333s)
+[2022.07.31-22.57.38:356][ 55]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelOne'.
+[2022.07.31-22.57.38:356][ 55]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.57.38:356][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.57.38:357][ 55]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.57.38:357][ 55]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2022.07.31-22.57.38:357][ 55]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.57.38:380][ 55]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.57.38
+[2022.07.31-22.57.38:380][ 55]LogWorld: Bringing up level for play took: 0.022844
+[2022.07.31-22.57.38:386][ 55]LogLoad: Took 0.326443 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-22.57.44:398][442]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-22.57.44:398][442]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-22.57.44:398][442]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.44:399][442]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.44:402][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.44:461][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.57.44:475][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.07.31-22.57.44:485][442]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-22.57.44:487][442]LogAudio: Display: Audio Device (ID: 6) registered with world 'Elevator'.
+[2022.07.31-22.57.44:487][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.57.44:487][442]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-22.57.44:487][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-22.57.44:487][442]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-22.57.44:491][442]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-22.57.44:491][442]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-22.57.44:491][442]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-22.57.44:491][442]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-22.57.44:491][442]LogWorldPartition: Display: GetPartitionedActors took 68 us
+[2022.07.31-22.57.44:670][442]LogWorldPartition: Display: GenerateStreaming took 178 ms
+[2022.07.31-22.57.44:682][442]LogWorldPartition: Display: WorldPartition initialize took 194 ms
+[2022.07.31-22.57.44:682][442]LogPlayLevel: PIE: World Init took: (0.195702s)
+[2022.07.31-22.57.44:682][442]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.57.44:862][442]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-18.57.44
+[2022.07.31-22.57.44:863][442]LogWorld: Bringing up level for play took: 0.021033
+[2022.07.31-22.57.44:867][442]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-22.57.44:867][442]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-22.57.44:867][442]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-22.57.44:869][442]LogStreaming: Display: FlushAsyncLoading: 63 QueuedPackages, 0 AsyncPackages
+[2022.07.31-22.57.45:104][442]LogLoad: Took 0.705760 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.07.31-22.57.47:290][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.57.47:290][595]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-22.57.47:316][595]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.47:317][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.47:331][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.57.47:336][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.47:366][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.57.47:371][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.31-22.57.47:373][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.07.31-22.57.47:389][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.07.31-22.57.47:443][596]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.07.31-22.57.48:687][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-22.57.48:696][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.31-22.57.48:696][665]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 2:57:48 p.m.)
+[2022.07.31-22.57.48:696][665]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.48:841][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145409s)
+[2022.07.31-22.57.48:841][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.145494s)
+[2022.07.31-22.57.48:841][665]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-22.57.48:841][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.57.48:842][665]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-22.57.48:842][665]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2022.07.31-22.57.48:873][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.07.31-22.57.48:874][665]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-22.57.48:874][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-22.57.48:874][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-22.57.48:875][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-22.57.48:875][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-22.57.48:875][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-22.57.48:876][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-22.57.48:923][665]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-22.57.48:923][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-22.57.48:923][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-22.57.48:923][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-22.57.48:923][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.07.31-22.57.48:923][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.07.31-22.57.48:925][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.07.31-22.57.48:925][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.07.31-22.57.48:925][665]LogInit: FAudioDevice initialized.
+[2022.07.31-22.57.48:925][665]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelOne'.
+[2022.07.31-22.57.48:938][665]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-22.57.48:968][665]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-18.57.48
+[2022.07.31-22.57.48:969][665]LogWorld: Bringing up level for play took: 0.030504
+[2022.07.31-22.57.48:971][665]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.07.31-22.57.48:977][665]PIE: Server logged in
+[2022.07.31-22.57.48:977][665]PIE: Play in editor total start time 0.281 seconds.
+[2022.07.31-22.57.50:169][729]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Are Dead
+[2022.07.31-22.57.50:990][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.57.50:990][780]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-22.57.50:990][780]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-22.57.50:994][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.51:004][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-22.57.51:009][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-22.57.51:043][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-22.57.51:046][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.31-22.57.51:048][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.07.31-22.57.51:051][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-22.57.51:061][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.31-22.57.51:133][781]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.07.31-22.57.55:193][  1]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.07.31-22.57.55:193][  1]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacterDE4A32E24943298C14CC74B6339D6A40.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.07.31-22.57.55:205][  1]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.07.31-22.57.55:205][  1]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.58.06:317][499]LogSlate: Window 'Delete Variable' being destroyed
+[2022.07.31-22.58.21:168][218]LogSlate: Window 'Delete Variable' being destroyed
+[2022.07.31-22.58.25:101][419]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.07.31-22.58.25:102][419]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacterF099376E4488823B211B4EAAB393B485.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.07.31-22.58.25:113][419]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.07.31-22.58.25:113][419]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.07.31-22.58.36:003][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalDoors/LevelOneToElevator.LevelOneToElevator
+[2022.07.31-22.58.36:003][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-22.58.49:711][899]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::GetGameInstance' [Element not found.]
+[2022.07.31-22.59.06:794][960]LogSavePackage: Moving output files for package: /Game/PortalDoors/LevelOneToElevator
+[2022.07.31-22.59.06:795][960]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOneToElevatorAD1FB3A7402D726511BB0F8B0B417BD3.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/LevelOneToElevator.uasset'
+[2022.07.31-22.59.06:808][960]AssetCheck: New page: Asset Save: LevelOneToElevator
+[2022.07.31-22.59.06:808][960]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/LevelOneToElevator.LevelOneToElevator
+[2022.07.31-23.00.22:804][871]LogSavePackage: Moving output files for package: /Game/PortalDoors/LevelOneToElevator
+[2022.07.31-23.00.22:804][871]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOneToElevator8B20AF1D4DB919F0C08CEFB3A2A6CC0A.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/LevelOneToElevator.uasset'
+[2022.07.31-23.00.22:816][871]AssetCheck: New page: Asset Save: LevelOneToElevator
+[2022.07.31-23.00.22:816][871]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/LevelOneToElevator.LevelOneToElevator
+[2022.07.31-23.00.35:706][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.07.31-23.00.36:671][673]LogSlate: Window 'Save Content' being destroyed
+[2022.07.31-23.00.36:745][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.31-23.00.37:522][673]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2022.07.31-23.00.37:523][673]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOne0D2142564488EF9C68386887E5900C5E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap'
+[2022.07.31-23.00.37:538][673]LogFileHelpers: No new changes to save!
+[2022.07.31-23.00.37:538][673]LogFileHelpers: Saving map 'LevelOne' took 0.830
+[2022.07.31-23.00.37:539][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameInstance" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MainGameInstance.uasset" SILENT=true
+[2022.07.31-23.00.37:540][673]LogSavePackage: Moving output files for package: /Game/MainGameInstance
+[2022.07.31-23.00.37:541][673]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/MainGameInstance0E5D29514E2DC8FC8CAB74B13D8C68C2.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MainGameInstance.uasset'
+[2022.07.31-23.00.37:582][673]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Elevator.Elevator
+[2022.07.31-23.00.37:582][673]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/Elevator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.31-23.00.37:582][673]LightingResults: New page: Lighting Build
+[2022.07.31-23.00.37:582][673]LoadErrors: New page: Loading map: Elevator.umap
+[2022.07.31-23.00.37:588][673]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.07.31-23.00.37:588][673]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.07.31-23.00.37:625][673]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.00.37:625][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.00.37:626][673]MapCheck: New page: Map Check
+[2022.07.31-23.00.37:626][673]LightingResults: New page: Lighting Build
+[2022.07.31-23.00.37:684][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.00.37:703][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.07.31-23.00.37:710][673]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.00.37:710][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.00.37:769][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.07.31-23.00.37:817][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.07.31-23.00.37:825][673]LogAudio: Display: Audio Device (ID: 1) registered with world 'Elevator'.
+[2022.07.31-23.00.37:825][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.00.37:825][673]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-23.00.37:826][673]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.00.37:826][673]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.31-23.00.38:178][673]LogWorldPartition: Display: WorldPartition initialize took 353 ms
+[2022.07.31-23.00.38:469][673]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.31-23.00.38:509][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.07.31-23.00.38:519][673]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.31-23.00.38:519][673]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2022.07.31-23.00.38:519][673]LogFileHelpers: Loading map 'Elevator' took 0.937
+[2022.07.31-23.00.38:544][673]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.31-23.00.38:544][673]LogContentValidation: Display: Validating Blueprint /Game/MainGameInstance.MainGameInstance
+[2022.07.31-23.00.38:545][673]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
