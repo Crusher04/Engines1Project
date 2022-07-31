@@ -1,0 +1,1223 @@
+﻿Log file open, 07/27/22 12:52:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=54908)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Engines1Project
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Engines1Project.uproject" -EpicPortal -epicusername=EvinKurA -epicuserid=bac43c3c688240e5a11d25d6f857e62e -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="dd6b7fb34922d64dbbd858bc36ecf19e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.466249
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5C6A78034DFEBCB96CC0A894E4B78DEE
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=EvinKurA -epicuserid=bac43c3c688240e5a11d25d6f857e62e -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.27-16.52.34:630][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.27-16.52.34:633][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.27-16.52.34:645][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.27-16.52.34:645][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.27-16.52.34:780][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.27-16.52.34:780][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 16340MB of shared system memory, 1 output[s]
+[2022.07.27-16.52.34:788][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.27-16.52.34:788][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16340MB of shared system memory, 0 output[s]
+[2022.07.27-16.52.34:788][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.27-16.52.34:788][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.27-16.52.34:788][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.27-16.52.34:788][  0]LogHAL: Display: Platform has ~ 32 GB [34267795456 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.27-16.52.34:788][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.27-16.52.34:788][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.27-16.52.34:788][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.27-16.52.34:788][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.27-16.52.34:788][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.27-16.52.34:788][  0]LogInit: Computer: DESKTOP-49ITBVG
+[2022.07.27-16.52.34:788][  0]LogInit: User: EvinK
+[2022.07.27-16.52.34:788][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.07.27-16.52.34:788][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.27-16.52.34:788][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.07.27-16.52.34:788][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.27-16.52.34:788][  0]LogMemory: Process Physical Memory: 263.18 MB used, 272.28 MB peak
+[2022.07.27-16.52.34:788][  0]LogMemory: Process Virtual Memory: 207.09 MB used, 207.09 MB peak
+[2022.07.27-16.52.34:788][  0]LogMemory: Physical Memory: 11934.36 MB used,  20745.96 MB free, 32680.32 MB total
+[2022.07.27-16.52.34:788][  0]LogMemory: Virtual Memory: 18899.03 MB used,  18645.29 MB free, 37544.32 MB total
+[2022.07.27-16.52.34:788][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.27-16.52.34:793][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.27-16.52.34:804][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.27-16.52.34:805][  0]LogInit: Using OS detected language (en-US).
+[2022.07.27-16.52.34:805][  0]LogInit: Using OS detected locale (en-CA).
+[2022.07.27-16.52.34:809][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.27-16.52.34:987][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.27-16.52.35:000][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.27-16.52.35:000][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.07.27-16.52.35:000][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.07.27-16.52.35:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.27-16.52.35:015][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.27-16.52.35:135][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.27-16.52.35:139][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.27-16.52.35:139][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.27-16.52.35:204][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.27-16.52.35:253][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.27-16.52.35:259][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.27-16.52.35:268][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.27-16.52.35:280][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.27-16.52.35:280][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.27-16.52.35:320][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.07.27-16.52.35:320][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.27-16.52.35:320][  0]LogWindows: EnumDisplayDevices:
+[2022.07.27-16.52.35:320][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.07.27-16.52.35:320][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.07.27-16.52.35:321][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.07.27-16.52.35:321][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.07.27-16.52.35:321][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.27-16.52.35:321][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.07.27-16.52.35:321][  0]LogD3D12RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2022.07.27-16.52.35:321][  0]LogD3D12RHI:      Driver Date: 4-20-2022
+[2022.07.27-16.52.35:321][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.07.27-16.52.35:321][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.27-16.52.35:321][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.27-16.52.35:348][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.27-16.52.35:354][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Engines1Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/TurnkeyReport_0.log" -log="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/TurnkeyLog_0.log" -project="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Engines1Project.uproject"  -platform=all'
+[2022.07.27-16.52.35:354][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Engines1Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/TurnkeyReport_0.log" -log="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/TurnkeyLog_0.log" -project="D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Engines1Project.uproject"  -platform=all" ]
+[2022.07.27-16.52.35:373][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.27-16.52.35:380][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.27-16.52.35:380][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.27-16.52.35:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.27-16.52.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.27-16.52.35:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.27-16.52.35:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.27-16.52.35:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.27-16.52.35:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.27-16.52.35:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.27-16.52.35:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.27-16.52.35:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.27-16.52.35:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.27-16.52.35:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.27-16.52.35:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.27-16.52.35:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.27-16.52.35:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.27-16.52.35:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.27-16.52.35:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.27-16.52.35:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.27-16.52.35:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.27-16.52.35:426][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.27-16.52.35:432][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.27-16.52.35:433][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.27-16.52.35:434][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.27-16.52.35:434][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.27-16.52.35:434][  0]LogTargetPlatformManager:   PCM
+[2022.07.27-16.52.35:435][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.27-16.52.35:435][  0]LogTargetPlatformManager:   BINKA
+[2022.07.27-16.52.35:435][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.27-16.52.35:435][  0]LogTargetPlatformManager:   OGG
+[2022.07.27-16.52.35:436][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.27-16.52.35:436][  0]LogTargetPlatformManager:   OPUS
+[2022.07.27-16.52.35:486][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.27-16.52.35:491][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.27-16.52.35:494][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.27-16.52.35:495][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.27-16.52.35:495][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.27-16.52.35:599][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.27-16.52.35:599][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.27-16.52.35:601][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.27-16.52.35:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.27-16.52.35:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.27-16.52.35:606][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.27-16.52.35:606][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.27-16.52.35:629][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.07.27-16.52.35:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.27-16.52.35:629][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.27-16.52.35:637][  0]LogDerivedDataCache: Speed tests for C:/Users/EvinK/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.27-16.52.35:637][  0]LogDerivedDataCache: Display: Performance to C:/Users/EvinK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1249.08MBs, RandomWriteSpeed=127.73MBs. Assigned SpeedClass 'Local'
+[2022.07.27-16.52.35:643][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EvinK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.27-16.52.35:644][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.27-16.52.35:644][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.27-16.52.35:652][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.27-16.52.35:652][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.27-16.52.35:652][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Intermediate/Shaders/WorkingDirectory/19328/).
+[2022.07.27-16.52.35:653][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EvinK/AppData/Local/Temp/UnrealShaderWorkingDir/A6BAEF7146BB975F7A96FEB81134454D/'.
+[2022.07.27-16.52.35:653][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.27-16.52.35:653][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.07.27-16.52.37:179][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.27-16.52.37:179][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.27-16.52.37:180][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.27-16.52.37:212][  0]LogAssetRegistry: FAssetRegistry took 0.0109 seconds to start up
+[2022.07.27-16.52.37:218][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.27-16.52.37:417][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.27-16.52.37:418][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.27-16.52.37:717][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.27-16.52.37:717][  0]LogDeviceProfileManager: Active device profile: [000007B7C01B7FC0][000007B7B2ED5000 50] WindowsEditor
+[2022.07.27-16.52.37:717][  0]LogDeviceProfileManager: Profiles: [000007B7C01B7A80][000007B7B2EDA000 50] Windows, [000007B7C01B7FC0][000007B7B2ED5000 50] WindowsEditor, [000007B7C01B40C0][000007B7B2ED2800 50] WindowsServer, [000007B7C01B78C0][000007B7B2DFA000 50] WindowsClient, [000007B7C01B47C0][000007B7B2ED7800 50] IOS, [000007B7C01B7700][000007B7C0510000 50] iPadAir2, [000007B7C01B7540][000007B7C0517800 50] IPadPro, [000007B7C01B3F00][000007B7C0515000 50] iPadAir3, [000007B7C01B5CC0][000007B7C051A000 50] iPadAir4, [000007B7C01B5240][000007B7C051C800 50] iPadMini4, [000007B7C01B5400][000007B7A3725000 50] iPadMini5, [000007B7C01B3D40][000007B7C0550000 50] iPadMini6, [000007B7C01BB440][000007B7C055A000 50] iPhone6S, [000007B7C01BB7C0][000007B7C0557800 50] iPhone7, [000007B7C01BBB40][000007B7C0555000 50] iPodTouch7, [000007B7C01B9140][000007B7C055C800 50] iPhone6SPlus, [000007B7C01B5940][000007B7C0512800 50] iPhone7Plus, [000007B7C01B86C0][000007B7C0570000 50] iPhoneSE, [000007B7C01B9D80][000007B7C0575000 50] iPhone8, [000007B7C01B6740][000007B7C0577800 50] iPhone8Plus, [000007B7C01B8500][000007B7C057A000 50] iPhoneX, [000007B7C01B8180][000007B7C057C800 50] iPhoneXS, [000007B7C01B3480][000007B7C0552800 50] iPhoneXSMax, [000007B7C01B6AC0][000007B7C04F0000 50] iPhoneXR, [000007B7C01BB600][000007B7C04F5000 50] iPhone11, [000007B7C01B5E80][000007B7C04F7800 50] iPhone11Pro, [000007B7C01BB980][000007B7C04FA000 50] iPhone11ProMax, [000007B7C01B6580][000007B7C04FC800 50] iPhoneSE2, [000007B7C01B63C0][000007B7C0572800 50] iPhone12Mini, [000007B7C01B5B00][000007B7C0520000 50] iPhone12, [000007B7C01B8F80][000007B7C0525000 50] iPhone12Pro, [000007B7C01B6040][000007B7C0527800 50] iPhone12ProMax, [000007B7C01B32C0][000007B7C052A000 50] iPhone13Mini, [000007B7C01B3B80][000007B7C052C800 50] iPhone13, [000007B7C01B4D00][000007B7C04F2800 50] iPhone13Pro, [000007B7C01BA640][000007B7C0580000 50] iPhone13ProMax, [000007B7C01B6E40][000007B7C0585000 50] iPadPro105, [000007B7C01B6200][000007B7C0587800 50] iPadPro129, [000007B7C01B4280][000007B7C058A000 50] iPadPro97, [000007B7C01BA100][000007B7C058C800 50] iPadPro2_129, [000007B7C01B8C00][000007B7C0522800 50] iPad5, [000007B7C01B9F40][000007B7C0590000 50] iPad6, [000007B7C01B39C0][000007B7C0595000 50] iPad7, [000007B7C01B8880][000007B7C0597800 50] iPad8, [000007B7C01B9300][000007B7C059A000 50] iPad9, [000007B7C01B4600][000007B7C059C800 50] iPadPro11, [000007B7C01BA800][000007B7C0582800 50] iPadPro2_11, [000007B7C01BAD40][000007B7C05A0000 50] iPadPro3_11, [000007B7C01B5080][000007B7C05A5000 50] iPadPro3_129, [000007B7C01B9BC0][000007B7C05A7800 50] iPadPro4_129, [000007B7C01B9680][000007B7C05AA000 50] iPadPro5_129, [000007B7C01B4B40][000007B7C05AC800 50] AppleTV, [000007B7C01B55C0][000007B7C0592800 50] AppleTV4K, [000007B7C01BA9C0][000007B7C05B0000 50] TVOS, [000007B7C01BDE40][000007B7C05B7800 50] Mac, [000007B7C01BE1C0][000007B7C05B5000 50] MacEditor, [000007B7C01BD040][000007B7C05BA000 50] MacClient, [000007B7C01BAB80][000007B7C05BC800 50] MacServer, [000007B7C01BE380][000007B7C0600000 50] Linux, [000007B7C01B71C0][000007B7C0602800 50] LinuxEditor, [000007B7C01BAF00][000007B7C0607800 50] LinuxArm64Editor, [000007B7C01BDAC0][000007B7C060A000 50] LinuxArm64, [000007B7C01BA480][000007B7C060C800 50] LinuxClient, [000007B7C01BD580][000007B7C05A2800 50] LinuxArm64Client, [000007B7C01B4980][000007B7C0605000 50] LinuxServer, [000007B7C01BC240][000007B7C05C0000 50] LinuxArm64Server, [000007B7C01BCE80][000007B7C05C5000 50] Android, [000007B7C01BD200][000007B7C05C7800 50] Android_Preview_OpenGL, [000007B7C01BDC80][000007B7C05CA000 50] Android_Preview_Vulkan, [000007B7C01B94C0][000007B7C05CC800 50] Android_Low, [000007B7C01B6900][000007B7C05B2800 50] Android_Mid, [000007B7C01BE540][000007B7C05D0000 50] Android_High, [000007B7C01B5780][000007B7C05D5000 50] Android_Default, [000007B7C01BC080][000007B7C05D7800 50] Android_Adreno4xx, [000007B7C01B7380][000007B7C05DA000 50] Android_Adreno5xx_Low, [000007B7C01BB280][000007B7C05DC800 50] Android_Adreno5xx, [000007B7C01B3640][000007B7C05C2800 50] Android_Adreno6xx, [000007B7C01BE8C0][000007B7C05E0000 50] Android_Adreno6xx_Vulkan, [000007B7C01BC5C0][000007B7C05E5000 50] Android_Adreno7xx, [000007B7C01BD900][000007B7C05E7800 50] Android_Adreno7xx_Vulkan, [000007B7C01BC780][000007B7C05EA000 50] Android_Mali_T6xx, [000007B7C01B3800][000007B7C05EC800 50] Android_Mali_T7xx, [000007B7C01B9A00][000007B7C05D2800 50] Android_Mali_T8xx, [000007B7C01BEC40][000007B7C05F0000 50] Android_Mali_G71, [000007B7C01BEA80][000007B7C05F5000 50] Android_Mali_G72, [000007B7C01B7E00][000007B7C05F7800 50] Android_Mali_G72_Vulkan, [000007B7C01BEE00][000007B7C05FA000 50] Android_Mali_G76, [000007B7C01BE700][000007B7C05FC800 50] Android_Mali_G76_Vulkan, [000007B7C01BEFC0][000007B7C05E2800 50] Android_Mali_G77, [000007B7C01BBD00][000007B7C0620000 50] Android_Mali_G77_Vulkan, [000007B7C01B4EC0][000007B7C0625000 50] Android_Mali_G78, [000007B7C01B4440][000007B7C0627800 50] Android_Mali_G78_Vulkan, [000007B7C01BF180][000007B7C062A000 50] Android_Mali_G710, [000007B7C01BD740][000007B7C062C800 50] Android_Mali_G710_Vulkan, [000007B7C01BC400][000007B7C05F2800 50] Android_Xclipse_920, [000007B7C0660000][000007B7C0630000 50] Android_Xclipse_920_Vulkan, [000007B7C0662A00][000007B7C0635000 50] Android_Vulkan_SM5, [000007B7C0662840][000007B7C0637800 50] Android_PowerVR_G6xxx, [000007B7C0662F40][000007B7C063A000 50] Android_PowerVR_GT7xxx, [000007B7C06608C0][000007B7C063C800 50] Android_PowerVR_GE8xxx, [000007B7C0660A80][000007B7C0622800 50] Android_PowerVR_GM9xxx, [000007B7C0663100][000007B7C0640000 50] Android_PowerVR_GM9xxx_Vulkan, [000007B7C0662680][000007B7C0645000 50] Android_TegraK1, [000007B7C06632C0][000007B7C0647800 50] Android_Unknown_Vulkan, [000007B7C0660C40][000007B7C064A000 50] Oculus_Quest, [000007B7C0662D80][000007B7C064C800 50] Oculus_Quest2, [000007B7C06601C0][000007B7C0632800 50] HoloLens, 
+[2022.07.27-16.52.37:717][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.27-16.52.37:720][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.07.27-16.52.37:720][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.27-16.52.37:720][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.27-16.52.37:720][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.27-16.52.37:720][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.27-16.52.37:739][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.27-16.52.37:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.27-16.52.37:926][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.27-16.52.37:926][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.27-16.52.37:926][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.27-16.52.37:926][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.27-16.52.37:947][  0]LogNetVersion: Engines1Project 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2919586416)
+[2022.07.27-16.52.38:075][  0]LogSlate: Border
+[2022.07.27-16.52.38:075][  0]LogSlate: BreadcrumbButton
+[2022.07.27-16.52.38:075][  0]LogSlate: Default
+[2022.07.27-16.52.38:075][  0]LogSlate: Icons.Save
+[2022.07.27-16.52.38:075][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.27-16.52.38:075][  0]LogSlate: ListView
+[2022.07.27-16.52.38:075][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.27-16.52.38:075][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.27-16.52.38:075][  0]LogSlate: TableView.DarkRow
+[2022.07.27-16.52.38:075][  0]LogSlate: TableView.Row
+[2022.07.27-16.52.38:075][  0]LogSlate: TreeView
+[2022.07.27-16.52.38:256][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.38:283][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.38:284][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.38:404][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.27-16.52.38:404][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.07.27-16.52.38:404][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.27-16.52.38:735][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 125C624C48BBB2D01F59148205195688 | Instance: DE31AD504A53644F0ACC198A33EEBBD3 (DESKTOP-49ITBVG-19328).
+[2022.07.27-16.52.38:771][  0]LogPython: Using Python 3.9.7
+[2022.07.27-16.52.39:597][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.27-16.52.39:617][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.27-16.52.39:730][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.39:879][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.39:888][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.39:896][  0]LogUProjectInfo: Found projects:
+[2022.07.27-16.52.39:981][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.27-16.52.40:022][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.27-16.52.40:038][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.27-16.52.40:038][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.27-16.52.40:138][  0]LogCollectionManager: Loaded 0 collections in 0.001838 seconds
+[2022.07.27-16.52.40:213][  0]LogFileCache: Scanning file cache for directory 'D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Collections/' took 0.00s
+[2022.07.27-16.52.40:213][  0]LogFileCache: Scanning file cache for directory 'D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/Developers/EvinK/Collections/' took 0.00s
+[2022.07.27-16.52.40:213][  0]LogFileCache: Scanning file cache for directory 'D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/Collections/' took 0.00s
+[2022.07.27-16.52.40:539][  0]LogEngine: Initializing Engine...
+[2022.07.27-16.52.40:554][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.27-16.52.40:555][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.27-16.52.40:817][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.27-16.52.40:817][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.27-16.52.40:828][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.27-16.52.40:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.27-16.52.40:861][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.27-16.52.40:885][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.27-16.52.40:885][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.27-16.52.40:885][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.27-16.52.40:886][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.27-16.52.40:886][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.27-16.52.40:892][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.27-16.52.40:929][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2022.07.27-16.52.40:929][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.27-16.52.40:931][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.27-16.52.40:931][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.27-16.52.40:932][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.27-16.52.40:932][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.27-16.52.40:933][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.27-16.52.40:933][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.27-16.52.40:933][  0]LogInit: FAudioDevice initialized.
+[2022.07.27-16.52.40:933][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.27-16.52.40:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.27-16.52.40:934][  0]LogInit: Texture streaming: Enabled
+[2022.07.27-16.52.40:970][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.07.27-16.52.40:981][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.27-16.52.41:011][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.27-16.52.41:018][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.27-16.52.41:018][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.27-16.52.42:473][  0]LogLiveCoding: Display: First instance in process group "UE_Engines1Project_0x710bdadb", spawning console
+[2022.07.27-16.52.42:473][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.27-16.52.42:473][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.27-16.52.42:503][  0]LogInit: Transaction tracking system initialized
+[2022.07.27-16.52.42:591][  0]BlueprintLog: New page: Editor Load
+[2022.07.27-16.52.42:808][  0]LocalizationService: Localization service is disabled
+[2022.07.27-16.52.42:865][  0]TimingProfiler: Initialize
+[2022.07.27-16.52.42:865][  0]TimingProfiler: OnSessionChanged
+[2022.07.27-16.52.42:865][  0]LoadingProfiler: Initialize
+[2022.07.27-16.52.42:865][  0]LoadingProfiler: OnSessionChanged
+[2022.07.27-16.52.42:865][  0]NetworkingProfiler: Initialize
+[2022.07.27-16.52.42:865][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.27-16.52.42:865][  0]MemoryProfiler: Initialize
+[2022.07.27-16.52.42:865][  0]MemoryProfiler: OnSessionChanged
+[2022.07.27-16.52.43:587][  0]LogFileCache: Scanning file cache for directory 'D:/Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/' took 0.02s
+[2022.07.27-16.52.43:587][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.27-16.52.43:669][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.27-16.52.43:671][  0]SourceControl: Source control is disabled
+[2022.07.27-16.52.43:672][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.719
+[2022.07.27-16.52.43:672][  0]Cmd: MAP LOAD FILE="../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.27-16.52.43:808][  0]LightingResults: New page: Lighting Build
+[2022.07.27-16.52.43:815][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-16.52.43:816][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-16.52.43:816][  0]MapCheck: New page: Map Check
+[2022.07.27-16.52.43:816][  0]LightingResults: New page: Lighting Build
+[2022.07.27-16.52.43:822][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.27-16.52.43:825][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.27-16.52.45:891][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.07.27-16.52.45:902][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.27-16.52.45:903][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.27-16.52.45:986][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.27-16.52.45:986][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.27-16.52.46:335][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.07.27-16.52.46:742][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180 should be resaved to improve async compilation performance.
+[2022.07.27-16.52.46:800][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B should be resaved to improve async compilation performance.
+[2022.07.27-16.52.47:031][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90 should be resaved to improve async compilation performance.
+[2022.07.27-16.52.47:337][  0]LogWorldPartition: Display: WorldPartition initialize took 1.35 sec
+[2022.07.27-16.52.47:340][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.27-16.52.47:349][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.27-16.52.47:350][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.27-16.52.47:350][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.226ms to complete.
+[2022.07.27-16.52.47:350][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 3.679
+[2022.07.27-16.52.47:366][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.414
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: ================================================
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.27-16.52.47:366][  0]LogShaderCompilers: Display: ================================================
+[2022.07.27-16.52.47:458][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.07.27-16.52.47:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-16.52.47:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-16.52.47:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-16.52.47:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-16.52.47:511][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:511][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:512][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:512][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:512][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:513][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:513][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:513][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:514][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:514][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:514][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:514][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:515][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:515][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:515][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.27-16.52.47:516][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.27-16.52.47:692][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.27-16.52.47:696][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.27-16.52.47:697][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.27-16.52.47:700][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.27-16.52.47:701][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.27-16.52.47:818][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.27-16.52.48:213][  0]LogStall: Startup...
+[2022.07.27-16.52.48:215][  0]LogStall: Startup complete.
+[2022.07.27-16.52.48:230][  0]LogLoad: (Engine Initialization) Total time: 15.28 seconds
+[2022.07.27-16.52.48:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.27-16.52.48:287][  0]LogAssetRegistry: Asset discovery search completed in 11.0759 seconds
+[2022.07.27-16.52.48:291][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.27-16.52.48:293][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.27-16.52.57:848][627]Cmd: DELETE
+[2022.07.27-16.52.57:848][627]Cmd: ACTOR DELETE
+[2022.07.27-16.52.58:165][627]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-16.52.58:239][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.27-16.52.58:240][627]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2022.07.27-16.53.00:982][836]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2022.07.27-16.53.01:128][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.07.27-16.53.01:135][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.07.27-16.53.01:143][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2022.07.27-16.53.04:224][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.07.27-16.53.04:224][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.07.27-16.53.04:258][178]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589002701_1675418343
+[2022.07.27-16.54.36:491][561]LogDerivedDataCache: C:/Users/EvinK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.825 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.27-16.59.15:979][840]Cmd: DELETE
+[2022.07.27-16.59.15:980][840]Cmd: ACTOR DELETE
+[2022.07.27-16.59.16:242][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-16.59.16:256][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.27-16.59.16:257][840]LogEditorActor: Deleted 1 Actors (0.278 secs)
+[2022.07.27-16.59.17:249][921]Cmd: DELETE
+[2022.07.27-16.59.17:249][921]Cmd: ACTOR DELETE
+[2022.07.27-16.59.17:250][921]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-16.59.17:260][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.07.27-16.59.17:262][921]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.07.27-16.59.18:026][983]Cmd: DELETE
+[2022.07.27-16.59.18:026][983]Cmd: ACTOR DELETE
+[2022.07.27-16.59.18:028][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-16.59.18:037][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.07.27-16.59.18:039][983]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.07.27-16.59.18:885][ 51]Cmd: DELETE
+[2022.07.27-16.59.18:885][ 51]Cmd: ACTOR DELETE
+[2022.07.27-16.59.18:887][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-16.59.18:897][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.27-16.59.18:899][ 51]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.07.27-17.04.47:286][735]Cmd: EDIT COPY
+[2022.07.27-17.04.49:297][865]Cmd: DELETE
+[2022.07.27-17.04.49:297][865]Cmd: ACTOR DELETE
+[2022.07.27-17.04.49:298][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.04.49:310][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.27-17.04.49:311][865]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.07.27-17.04.50:770][ 16]Cmd: EDIT PASTE
+[2022.07.27-17.05.55:269][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.27-17.05.55:346][306]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.019032 seconds
+[2022.07.27-17.05.55:382][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/E7/Z2MMGH86B0MK6KDOTRCVQP_Auto1
+[2022.07.27-17.05.55:383][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Z2MMGH86B0MK6KDOTRCVQP_Auto1DCB37FBB4F3B85BB8E7115944AA78BB8.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/E7/Z2MMGH86B0MK6KDOTRCVQP_Auto1.uasset'
+[2022.07.27-17.05.55:408][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EA/VZ9DLF6762NMJYB8IIO5R7_Auto1
+[2022.07.27-17.05.55:408][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VZ9DLF6762NMJYB8IIO5R7_Auto1FF98F97246FD48E2EB094BBD169D0D12.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EA/VZ9DLF6762NMJYB8IIO5R7_Auto1.uasset'
+[2022.07.27-17.05.55:409][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VV/XRGI05R4MJNH9NJLDOBQ3K_Auto1
+[2022.07.27-17.05.55:410][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/XRGI05R4MJNH9NJLDOBQ3K_Auto19254A5514E23C0D9E9DFBDB6F77FB2EE.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VV/XRGI05R4MJNH9NJLDOBQ3K_Auto1.uasset'
+[2022.07.27-17.05.55:412][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/VEAQYZFXJZCB7PSKWDPGVN_Auto1
+[2022.07.27-17.05.55:412][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VEAQYZFXJZCB7PSKWDPGVN_Auto1EB348B61403D9521D920879686103C77.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/VEAQYZFXJZCB7PSKWDPGVN_Auto1.uasset'
+[2022.07.27-17.05.55:414][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y7/HZ16P0B0HIZ0F2UT29VIJB_Auto1
+[2022.07.27-17.05.55:415][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/HZ16P0B0HIZ0F2UT29VIJB_Auto1CE33C3E5453BB3E021A3EFA8F6F01788.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y7/HZ16P0B0HIZ0F2UT29VIJB_Auto1.uasset'
+[2022.07.27-17.05.55:417][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UH/EPMD1S6YL98WFA8RP0KOKF_Auto1
+[2022.07.27-17.05.55:417][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/EPMD1S6YL98WFA8RP0KOKF_Auto10BFFDAA84E4DBD6E27273FBEA958E93E.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UH/EPMD1S6YL98WFA8RP0KOKF_Auto1.uasset'
+[2022.07.27-17.05.55:419][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NL/MAPXFYUHLZE47D4P862OT1_Auto1
+[2022.07.27-17.05.55:420][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MAPXFYUHLZE47D4P862OT1_Auto11305579F499257DB75FDEC92BF2E43A5.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NL/MAPXFYUHLZE47D4P862OT1_Auto1.uasset'
+[2022.07.27-17.05.55:421][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IA/S3P41MPMPEFIAWNWW3XX5X_Auto1
+[2022.07.27-17.05.55:422][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/S3P41MPMPEFIAWNWW3XX5X_Auto1A80EB2154AD01FD361FAA49F1BAADF46.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IA/S3P41MPMPEFIAWNWW3XX5X_Auto1.uasset'
+[2022.07.27-17.05.55:423][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KI/OZZEPVF27EARSXKQLIPN7N_Auto1
+[2022.07.27-17.05.55:424][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/OZZEPVF27EARSXKQLIPN7N_Auto1A48727464522E064431A3C8DAE3BF155.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KI/OZZEPVF27EARSXKQLIPN7N_Auto1.uasset'
+[2022.07.27-17.05.55:426][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/YU/GVSME8MN4PD6D0L1UCB3QS_Auto1
+[2022.07.27-17.05.55:426][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/GVSME8MN4PD6D0L1UCB3QS_Auto1432A8C8D469FF1FF4772988BC86B874E.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/YU/GVSME8MN4PD6D0L1UCB3QS_Auto1.uasset'
+[2022.07.27-17.05.55:428][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SJ/35DZ40XXKOZGCSJFR02Z24_Auto1
+[2022.07.27-17.05.55:429][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/35DZ40XXKOZGCSJFR02Z24_Auto17F472BE04284BDA68CDF05A0897A5C10.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SJ/35DZ40XXKOZGCSJFR02Z24_Auto1.uasset'
+[2022.07.27-17.05.55:430][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5N/INZUWGIXBLPTC846T99H9P_Auto1
+[2022.07.27-17.05.55:431][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/INZUWGIXBLPTC846T99H9P_Auto115CD140B4CAACECBA63680898ACDB6F4.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5N/INZUWGIXBLPTC846T99H9P_Auto1.uasset'
+[2022.07.27-17.05.55:432][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/49/7JON5LNHSG48NP9RFX67RA_Auto1
+[2022.07.27-17.05.55:433][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/7JON5LNHSG48NP9RFX67RA_Auto14EA8036947CE495BED2FF898D3DB8E70.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/49/7JON5LNHSG48NP9RFX67RA_Auto1.uasset'
+[2022.07.27-17.05.55:434][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FL/CVOXBA0RIW2HAETUT9KFWT_Auto1
+[2022.07.27-17.05.55:434][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/CVOXBA0RIW2HAETUT9KFWT_Auto14628392A47761D7FB431418640B818D0.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FL/CVOXBA0RIW2HAETUT9KFWT_Auto1.uasset'
+[2022.07.27-17.05.55:446][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.178
+[2022.07.27-17.05.55:446][306]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.178
+[2022.07.27-17.06.20:477][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.07.27-17.06.20:477][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.07.27-17.06.20:478][700]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2022.07.27-17.06.27:482][363]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe should be resaved to improve async compilation performance.
+[2022.07.27-17.06.27:589][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.06.27:589][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.06.27:590][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2022.07.27-17.06.29:964][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.06.29:964][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.06.29:965][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1407415523
+[2022.07.27-17.08.30:640][297]Cmd: EDIT COPY
+[2022.07.27-17.08.32:268][463]Cmd: EDIT PASTE
+[2022.07.27-17.08.51:172][258]Cmd: EDIT PASTE
+[2022.07.27-17.09.17:235][733]Cmd: EDIT COPY
+[2022.07.27-17.09.17:545][766]Cmd: EDIT PASTE
+[2022.07.27-17.22.49:595][201]LogToolMenus: Error: UI command not found for menu entry: GroupActors, menu: LevelEditor.LevelEditorSceneOutliner.ContextMenu.GroupMenu
+[2022.07.27-17.25.26:272][646]Cmd: EDIT COPY
+[2022.07.27-17.25.27:706][793]Cmd: EDIT PASTE
+[2022.07.27-17.25.37:408][748]Cmd: EDIT PASTE
+[2022.07.27-17.25.40:261][ 18]Cmd: EDIT PASTE
+[2022.07.27-17.25.58:259][756]Cmd: DELETE
+[2022.07.27-17.25.58:259][756]Cmd: ACTOR DELETE
+[2022.07.27-17.25.58:263][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.25.58:263][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.25.58:264][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.25.58:264][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.25.58:280][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.27-17.25.58:282][756]LogEditorActor: Deleted 4 Actors (0.022 secs)
+[2022.07.27-17.26.01:734][107]Cmd: DELETE
+[2022.07.27-17.26.01:734][107]Cmd: ACTOR DELETE
+[2022.07.27-17.26.01:737][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.26.01:738][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.26.01:738][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.26.01:738][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.27-17.26.01:747][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.07.27-17.26.01:749][107]LogEditorActor: Deleted 4 Actors (0.015 secs)
+[2022.07.27-17.26.45:973][962]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.27-17.26.47:811][148]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.27-17.27.18:447][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.07.27-17.27.18:447][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.07.27-17.27.18:448][933]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2022.07.27-17.27.18:918][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.07.27-17.27.18:919][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.07.27-17.27.18:919][983]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1582628762
+[2022.07.27-17.28.30:895][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589012701_1590063527 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CD/ZUK0182TPV8X7HCVWD4535.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589002701_2108182344 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SP/CA0FRTC08W9TAUUWKRHB0Q.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471419714 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VH/3XF11LC15GS9POGXMSG5OB.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471419715 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/6Y/N1AYV6BJUV22PERSN1SQY1.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481123733 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1F/R3XB552B1DJDIG6RSU5CP4.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481123734 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YP/JR3CRKM6F50EC5X8ZH86I8.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483973752 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CS/E1U1Y5FBZ45BG99CIKIT03.PackageMetaData in its package
+[2022.07.27-17.28.31:180][311]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483974753 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DW/6U94M4ALIFWJ5UKNEUJC8P.PackageMetaData in its package
+[2022.07.27-17.28.31:181][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.27-17.28.31:189][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.27-17.28.31:196][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.07.27-17.28.31:202][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/E7/Z2MMGH86B0MK6KDOTRCVQP
+[2022.07.27-17.28.31:202][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Z2MMGH86B0MK6KDOTRCVQP5EE6ECF74540269D48375A926F7BA2FC.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/E7/Z2MMGH86B0MK6KDOTRCVQP.uasset'
+[2022.07.27-17.28.31:204][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EA/VZ9DLF6762NMJYB8IIO5R7
+[2022.07.27-17.28.31:205][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VZ9DLF6762NMJYB8IIO5R7671736554D272BC1F96A4D9C9079173F.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EA/VZ9DLF6762NMJYB8IIO5R7.uasset'
+[2022.07.27-17.28.31:207][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VV/XRGI05R4MJNH9NJLDOBQ3K
+[2022.07.27-17.28.31:207][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/XRGI05R4MJNH9NJLDOBQ3KCA277AC4465E10B72AE7C2844BDD247F.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VV/XRGI05R4MJNH9NJLDOBQ3K.uasset'
+[2022.07.27-17.28.31:209][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/VEAQYZFXJZCB7PSKWDPGVN
+[2022.07.27-17.28.31:209][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VEAQYZFXJZCB7PSKWDPGVNC899DE4E42AFFA77DB8B86B886F15916.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/VEAQYZFXJZCB7PSKWDPGVN.uasset'
+[2022.07.27-17.28.31:212][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+[2022.07.27-17.28.31:212][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/2QISIGK5DJNQ05US8O8FXWA91A66844FDACDF70EE8088D3B32D4EA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset'
+[2022.07.27-17.28.31:214][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y7/HZ16P0B0HIZ0F2UT29VIJB
+[2022.07.27-17.28.31:214][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/HZ16P0B0HIZ0F2UT29VIJB92AFCCD34594F9D80B31D69897D9C78A.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y7/HZ16P0B0HIZ0F2UT29VIJB.uasset'
+[2022.07.27-17.28.31:217][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+[2022.07.27-17.28.31:217][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/U98KGKQ41NJYFOGFQM8ZDY5EC9009547456D53D99FD1BFC3013666.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2022.07.27-17.28.31:219][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UH/EPMD1S6YL98WFA8RP0KOKF
+[2022.07.27-17.28.31:219][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/EPMD1S6YL98WFA8RP0KOKF993DCD6648DA8706049BC9A1F31AB3A9.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UH/EPMD1S6YL98WFA8RP0KOKF.uasset'
+[2022.07.27-17.28.31:221][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2022.07.27-17.28.31:222][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/NG2R9BPZVA7ZDN0Z4VSTG69DCD62464C0F6474185A45825BA16533.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2022.07.27-17.28.31:224][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NL/MAPXFYUHLZE47D4P862OT1
+[2022.07.27-17.28.31:224][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MAPXFYUHLZE47D4P862OT1573D33E649785877829827A6328C686C.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NL/MAPXFYUHLZE47D4P862OT1.uasset'
+[2022.07.27-17.28.31:226][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IA/S3P41MPMPEFIAWNWW3XX5X
+[2022.07.27-17.28.31:227][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/S3P41MPMPEFIAWNWW3XX5XD5C5537943D40C8AD23CCE9544682667.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IA/S3P41MPMPEFIAWNWW3XX5X.uasset'
+[2022.07.27-17.28.31:228][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+[2022.07.27-17.28.31:229][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MRHJREJ6H7USQYWF1KO8F63FF822B44DACDFB259C9A8A44ADE282F.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2022.07.27-17.28.31:231][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+[2022.07.27-17.28.31:231][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/BY1DA5CRGQSAMOTK8RA8KRA8226CF341899590C539889D787F40DB.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2022.07.27-17.28.31:232][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+[2022.07.27-17.28.31:233][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/JNKFA4X9LRMSF343ESPF6Q3F551A36478F5AC643152BB07A97135C.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2022.07.27-17.28.31:235][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2022.07.27-17.28.31:235][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SWSI13675DVYIZ0N4NF7Y3F2376034450C1DCDF4EEC4AD93D8CCAA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2022.07.27-17.28.31:237][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SJ/35DZ40XXKOZGCSJFR02Z24
+[2022.07.27-17.28.31:237][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/35DZ40XXKOZGCSJFR02Z24D5A756D946C6EDED75CBC7A8DBFF38CB.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SJ/35DZ40XXKOZGCSJFR02Z24.uasset'
+[2022.07.27-17.28.31:239][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5N/INZUWGIXBLPTC846T99H9P
+[2022.07.27-17.28.31:239][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/INZUWGIXBLPTC846T99H9P666565174A18D5FE537679862F5B92D0.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5N/INZUWGIXBLPTC846T99H9P.uasset'
+[2022.07.27-17.28.31:241][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/49/7JON5LNHSG48NP9RFX67RA
+[2022.07.27-17.28.31:241][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/7JON5LNHSG48NP9RFX67RADAA9869549FB8910784C6AB1D990A481.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/49/7JON5LNHSG48NP9RFX67RA.uasset'
+[2022.07.27-17.28.31:243][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FL/CVOXBA0RIW2HAETUT9KFWT
+[2022.07.27-17.28.31:243][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/CVOXBA0RIW2HAETUT9KFWT608747784ED720E05D1303B3A8AA861B.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FL/CVOXBA0RIW2HAETUT9KFWT.uasset'
+[2022.07.27-17.28.31:245][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KH/P25EM1BOLEPOCFTBIXWNTT
+[2022.07.27-17.28.31:245][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/P25EM1BOLEPOCFTBIXWNTT3D821CDD4F7130CB80D0A1ADB4F6587E.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KH/P25EM1BOLEPOCFTBIXWNTT.uasset'
+[2022.07.27-17.28.31:247][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/HE/81EQESQTYOTUPXS6DUEGLM
+[2022.07.27-17.28.31:247][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/81EQESQTYOTUPXS6DUEGLM53B95DEA4DAAC4D081DC4CBC73BD3F68.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/HE/81EQESQTYOTUPXS6DUEGLM.uasset'
+[2022.07.27-17.28.31:251][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/77/52R94ONVU63BI60LPQBLRY
+[2022.07.27-17.28.31:251][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/52R94ONVU63BI60LPQBLRYC7B5B2A847291811120EF7940657DAA0.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/77/52R94ONVU63BI60LPQBLRY.uasset'
+[2022.07.27-17.28.31:252][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XJ/KWAQ4764XLOQHMRMSXBP0V
+[2022.07.27-17.28.31:252][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/KWAQ4764XLOQHMRMSXBP0V3F81F5B3466400265318E4998AF0A9D7.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XJ/KWAQ4764XLOQHMRMSXBP0V.uasset'
+[2022.07.27-17.28.31:254][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MJ/6YAFUUOB1V6LCPEU01V996
+[2022.07.27-17.28.31:254][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/6YAFUUOB1V6LCPEU01V99645EEE13943B8DD47353A04BC768CD205.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MJ/6YAFUUOB1V6LCPEU01V996.uasset'
+[2022.07.27-17.28.31:256][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BZ/MIAW4PZZ62W9EOAM8R8OVH
+[2022.07.27-17.28.31:256][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MIAW4PZZ62W9EOAM8R8OVHFF5856564CFDF75F02316D875CB7F821.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BZ/MIAW4PZZ62W9EOAM8R8OVH.uasset'
+[2022.07.27-17.28.31:369][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W4/XAFFPX7I4RAGG8YUH0739B
+[2022.07.27-17.28.31:369][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/XAFFPX7I4RAGG8YUH0739BBB112690425244BECBFB1699ABF8D78B.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W4/XAFFPX7I4RAGG8YUH0739B.uasset'
+[2022.07.27-17.28.31:374][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PT/CXED8X8LPE3LSDOF1QDV54
+[2022.07.27-17.28.31:374][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/CXED8X8LPE3LSDOF1QDV54D8C63A474500B5C25548189DABAABC9B.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PT/CXED8X8LPE3LSDOF1QDV54.uasset'
+[2022.07.27-17.28.31:380][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Q1/KSYBEKDXQUFZF3ETUNDOFQ
+[2022.07.27-17.28.31:380][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/KSYBEKDXQUFZF3ETUNDOFQF08880F242196532E89E4E95763B5976.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Q1/KSYBEKDXQUFZF3ETUNDOFQ.uasset'
+[2022.07.27-17.28.31:385][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/39/3A87O4T4STUQPR60LQ0HCO
+[2022.07.27-17.28.31:385][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/3A87O4T4STUQPR60LQ0HCO69265D6247A602E2E680C796BF50F941.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/39/3A87O4T4STUQPR60LQ0HCO.uasset'
+[2022.07.27-17.28.31:391][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UU/W50NWW414YNULZD0NLVD0D
+[2022.07.27-17.28.31:392][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/W50NWW414YNULZD0NLVD0D2131B384448889BF7051D4B32D9AB010.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UU/W50NWW414YNULZD0NLVD0D.uasset'
+[2022.07.27-17.28.31:398][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/C9/CIFTHHR9UVI3ZX117111CE
+[2022.07.27-17.28.31:398][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/CIFTHHR9UVI3ZX117111CE02A552DA4B457C70055C198519B88DD6.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/C9/CIFTHHR9UVI3ZX117111CE.uasset'
+[2022.07.27-17.28.31:406][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HG/LEMAE0K5UM6OULHRV8SWJ4
+[2022.07.27-17.28.31:407][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/LEMAE0K5UM6OULHRV8SWJ4CBE8264E485B66501471929E730A25C8.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HG/LEMAE0K5UM6OULHRV8SWJ4.uasset'
+[2022.07.27-17.28.31:412][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BK/GR1U578CI8TIK0YKHM2VGX
+[2022.07.27-17.28.31:413][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/GR1U578CI8TIK0YKHM2VGX397BD11D41958EAD1CD61BBB56E7B4AA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BK/GR1U578CI8TIK0YKHM2VGX.uasset'
+[2022.07.27-17.28.31:415][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FS/G8SSPM83EFWZPEQDO0KTBH
+[2022.07.27-17.28.31:415][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/G8SSPM83EFWZPEQDO0KTBH993EA2934B0D5DBAC4FC5498F87D8779.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FS/G8SSPM83EFWZPEQDO0KTBH.uasset'
+[2022.07.27-17.28.31:418][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FZ/A5AK6DHMZ73L28BL43J11V
+[2022.07.27-17.28.31:418][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/A5AK6DHMZ73L28BL43J11VFDA8237148783541D9872B8535E2D01C.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FZ/A5AK6DHMZ73L28BL43J11V.uasset'
+[2022.07.27-17.28.31:420][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NM/IE125AO9J4LAXIEYAJT30O
+[2022.07.27-17.28.31:421][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/IE125AO9J4LAXIEYAJT30O150F6E47450546236CE1599F6002F88E.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NM/IE125AO9J4LAXIEYAJT30O.uasset'
+[2022.07.27-17.28.31:423][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CQ/MMZXWZG5YPS54OFBMHJANG
+[2022.07.27-17.28.31:423][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MMZXWZG5YPS54OFBMHJANGF594B6FA46A15F9E12CA429077898236.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CQ/MMZXWZG5YPS54OFBMHJANG.uasset'
+[2022.07.27-17.28.31:426][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J7/9PPM099KI6UHS06OOTAY79
+[2022.07.27-17.28.31:426][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/9PPM099KI6UHS06OOTAY79A326F2E2423C071A9E8218AD62D0CD10.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J7/9PPM099KI6UHS06OOTAY79.uasset'
+[2022.07.27-17.28.31:429][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MV/H45V82YEDIYVEV9SNHPVLO
+[2022.07.27-17.28.31:429][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/H45V82YEDIYVEV9SNHPVLODA70BA2E43AC217CB72FC38A8D4A82CA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MV/H45V82YEDIYVEV9SNHPVLO.uasset'
+[2022.07.27-17.28.31:432][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SA/FO7ZPUG3QPBVQIZ5RDD80U
+[2022.07.27-17.28.31:432][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/FO7ZPUG3QPBVQIZ5RDD80U91CC01FD4D182B267C54578A1A597906.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SA/FO7ZPUG3QPBVQIZ5RDD80U.uasset'
+[2022.07.27-17.28.31:434][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9C/3LEROVLIALZKX5USDDYQ1A
+[2022.07.27-17.28.31:434][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/3LEROVLIALZKX5USDDYQ1AE9E84E1C43BB7B8188C58C8B657340F5.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9C/3LEROVLIALZKX5USDDYQ1A.uasset'
+[2022.07.27-17.28.31:437][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E9/ATEJETRCIQ4ACIMABLXSL3
+[2022.07.27-17.28.31:437][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/ATEJETRCIQ4ACIMABLXSL3B9B98D7A4329B0EDA60822A441159071.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E9/ATEJETRCIQ4ACIMABLXSL3.uasset'
+[2022.07.27-17.28.31:439][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/71/2HK0WLL7XX8D7ZPIEAA7TF
+[2022.07.27-17.28.31:440][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/2HK0WLL7XX8D7ZPIEAA7TF0273B03348AB428BF346D9A0312F2016.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/71/2HK0WLL7XX8D7ZPIEAA7TF.uasset'
+[2022.07.27-17.28.31:442][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GZ/4GPJ52YKSPVNECDHWQOABJ
+[2022.07.27-17.28.31:442][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/4GPJ52YKSPVNECDHWQOABJ63D356064540F05CDAF53AB130F0BA21.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GZ/4GPJ52YKSPVNECDHWQOABJ.uasset'
+[2022.07.27-17.28.31:444][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I6/KMAOA4953F1P21E7DDUAOV
+[2022.07.27-17.28.31:444][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/KMAOA4953F1P21E7DDUAOVEDC01BB042ED0CCB9E61569CBDCDE0B8.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I6/KMAOA4953F1P21E7DDUAOV.uasset'
+[2022.07.27-17.28.31:446][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JI/SZF4Q644EWQODO9MVPKCIE
+[2022.07.27-17.28.31:446][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SZF4Q644EWQODO9MVPKCIE1677658C422BD3D8893820948A1F27AE.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JI/SZF4Q644EWQODO9MVPKCIE.uasset'
+[2022.07.27-17.28.31:448][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5E/MC6HG9XP62I1B68AREQODK
+[2022.07.27-17.28.31:448][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MC6HG9XP62I1B68AREQODK142E00B946D91526AC745795A326D962.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5E/MC6HG9XP62I1B68AREQODK.uasset'
+[2022.07.27-17.28.31:450][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/L1/SDSWRIXG11OUTXVZC9Z5L4
+[2022.07.27-17.28.31:450][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SDSWRIXG11OUTXVZC9Z5L4B536636E45C66DD2391936A1A790C194.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/L1/SDSWRIXG11OUTXVZC9Z5L4.uasset'
+[2022.07.27-17.28.31:451][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/8GG9RLCX2C33FDCY1R9YS6
+[2022.07.27-17.28.31:451][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/8GG9RLCX2C33FDCY1R9YS6DA94146E48D2B45F3D209B9EF600E177.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/8GG9RLCX2C33FDCY1R9YS6.uasset'
+[2022.07.27-17.28.31:453][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VT/912UBILLJLMSTXYSB0KUR2
+[2022.07.27-17.28.31:454][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/912UBILLJLMSTXYSB0KUR273D52D1E4F012F9283DB1DBF2279A3FA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VT/912UBILLJLMSTXYSB0KUR2.uasset'
+[2022.07.27-17.28.31:456][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PH/OBIWAJ3DT7JLLL8BYW1EOO
+[2022.07.27-17.28.31:456][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/OBIWAJ3DT7JLLL8BYW1EOOF3298FFB49806097490D068994885E2A.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PH/OBIWAJ3DT7JLLL8BYW1EOO.uasset'
+[2022.07.27-17.28.31:458][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Y6/SJ7648PIP06WKFDZE17EJQ
+[2022.07.27-17.28.31:458][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SJ7648PIP06WKFDZE17EJQE8A9785E4B97B942C6EF50B5F1777C0A.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Y6/SJ7648PIP06WKFDZE17EJQ.uasset'
+[2022.07.27-17.28.31:460][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TJ/OI8UVPECPY1V32C8T2TXGF
+[2022.07.27-17.28.31:460][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/OI8UVPECPY1V32C8T2TXGF8640A1E54C6EA068145E859DA98ADAFA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TJ/OI8UVPECPY1V32C8T2TXGF.uasset'
+[2022.07.27-17.28.31:462][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1A/VTZHS7YRJ2CHM4B6WD0J9F
+[2022.07.27-17.28.31:462][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VTZHS7YRJ2CHM4B6WD0J9FD52C748E4C414BA09B1EBBB637052D1F.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1A/VTZHS7YRJ2CHM4B6WD0J9F.uasset'
+[2022.07.27-17.28.31:464][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/00/3FG1T15PC27YJ1DNXK0Q5X
+[2022.07.27-17.28.31:464][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/3FG1T15PC27YJ1DNXK0Q5X09F27F714362571B6679ABBEEF9515D5.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/00/3FG1T15PC27YJ1DNXK0Q5X.uasset'
+[2022.07.27-17.28.31:466][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IH/69KH1FI3YJFMMDC09ETOM0
+[2022.07.27-17.28.31:466][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/69KH1FI3YJFMMDC09ETOM0586D7E404DE18151E6D3D0A77589FC71.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IH/69KH1FI3YJFMMDC09ETOM0.uasset'
+[2022.07.27-17.28.31:468][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/H7/73QZMR4HZYC30OE44FXS0M
+[2022.07.27-17.28.31:468][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/73QZMR4HZYC30OE44FXS0MDC284A234F78376BF9050DAF7EFB3064.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/H7/73QZMR4HZYC30OE44FXS0M.uasset'
+[2022.07.27-17.28.31:470][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/SYKFL5NFMO8ECGWK1EXEZL
+[2022.07.27-17.28.31:470][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SYKFL5NFMO8ECGWK1EXEZL3675984D480EC580E8A8BAA074C08F93.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/SYKFL5NFMO8ECGWK1EXEZL.uasset'
+[2022.07.27-17.28.31:472][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6Z/DXYB00DMV94NLJ35CVQTAU
+[2022.07.27-17.28.31:472][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/DXYB00DMV94NLJ35CVQTAUF5B262394EAFAB549D91498656FE5967.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6Z/DXYB00DMV94NLJ35CVQTAU.uasset'
+[2022.07.27-17.28.31:474][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HK/VHLQ6WJNIET79TMT5WRN11
+[2022.07.27-17.28.31:474][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/VHLQ6WJNIET79TMT5WRN115D26315D4D246DFDA40052BCD3E51E5F.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HK/VHLQ6WJNIET79TMT5WRN11.uasset'
+[2022.07.27-17.28.31:475][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZS/MGVML59HQJILGXXY952AZ5
+[2022.07.27-17.28.31:476][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/MGVML59HQJILGXXY952AZ5A2C822E34DEDADDA9D803983BCFB056A.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZS/MGVML59HQJILGXXY952AZ5.uasset'
+[2022.07.27-17.28.31:478][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DB/IU3173XF3MIS8WLR2PLOIN
+[2022.07.27-17.28.31:478][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/IU3173XF3MIS8WLR2PLOIND51E1BCE489DFCFC1997239DFB714004.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DB/IU3173XF3MIS8WLR2PLOIN.uasset'
+[2022.07.27-17.28.31:480][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5J/70P9PK7XTBMFTZJ25262LR
+[2022.07.27-17.28.31:480][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/70P9PK7XTBMFTZJ25262LRE4170E8A4EE8B7E7F7EF93A9A9328E72.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5J/70P9PK7XTBMFTZJ25262LR.uasset'
+[2022.07.27-17.28.31:482][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UD/84A236UL3O50RWS58YCH64
+[2022.07.27-17.28.31:482][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/84A236UL3O50RWS58YCH64405FEB584D4DCFBC0F84F38CEBE22365.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UD/84A236UL3O50RWS58YCH64.uasset'
+[2022.07.27-17.28.31:484][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MU/2026CZ63B1T0FCEU5XFS8L
+[2022.07.27-17.28.31:484][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/2026CZ63B1T0FCEU5XFS8L2F194817418950FCAC67198B9C3542BA.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MU/2026CZ63B1T0FCEU5XFS8L.uasset'
+[2022.07.27-17.28.31:486][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8J/SB3MEKVU3M0XQS4BH9CY5P
+[2022.07.27-17.28.31:487][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SB3MEKVU3M0XQS4BH9CY5PB95946054F7F80735BCB3997B957FE30.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8J/SB3MEKVU3M0XQS4BH9CY5P.uasset'
+[2022.07.27-17.28.31:488][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3T/ZK2465QFCSWWLSLWQGF78I
+[2022.07.27-17.28.31:488][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/ZK2465QFCSWWLSLWQGF78ID751F96148BE31901BFFA6AB565BEA76.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3T/ZK2465QFCSWWLSLWQGF78I.uasset'
+[2022.07.27-17.28.31:490][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/O6/W0G0NEI5K5KPPR0ORA1U8C
+[2022.07.27-17.28.31:490][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/W0G0NEI5K5KPPR0ORA1U8C4E187D7A40F839A41D1269A84B3D4EC0.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/O6/W0G0NEI5K5KPPR0ORA1U8C.uasset'
+[2022.07.27-17.28.31:492][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MZ/33XYIEY9RW97CP02XOO00X
+[2022.07.27-17.28.31:492][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/33XYIEY9RW97CP02XOO00X596DF6464730CEE8FBD995B90B226EE2.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MZ/33XYIEY9RW97CP02XOO00X.uasset'
+[2022.07.27-17.28.31:494][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TV/07LN4HCTRA4VJCI0PFD01P
+[2022.07.27-17.28.31:494][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/07LN4HCTRA4VJCI0PFD01P307207A2456AF696E2F156AA5AED9567.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TV/07LN4HCTRA4VJCI0PFD01P.uasset'
+[2022.07.27-17.28.31:496][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WI/W0ZFPNLRPE04KN4JU248MW
+[2022.07.27-17.28.31:496][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/W0ZFPNLRPE04KN4JU248MW50012CFC4DCA14B7EFCCC3BD10D7E9B3.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WI/W0ZFPNLRPE04KN4JU248MW.uasset'
+[2022.07.27-17.28.31:498][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EE/BGUR7CU5S9F0QZS2RF98D9
+[2022.07.27-17.28.31:498][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/BGUR7CU5S9F0QZS2RF98D9382FA2C4484A0F2740B30995202D6688.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EE/BGUR7CU5S9F0QZS2RF98D9.uasset'
+[2022.07.27-17.28.31:500][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z8/6STRQOEUGYPQ84S653R2P9
+[2022.07.27-17.28.31:500][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/6STRQOEUGYPQ84S653R2P97ADD3C074CE623C2C1369C9372E1BAA5.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z8/6STRQOEUGYPQ84S653R2P9.uasset'
+[2022.07.27-17.28.31:502][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OW/BMWAQU1RKG71OEHQ4QYQ7Z
+[2022.07.27-17.28.31:502][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/BMWAQU1RKG71OEHQ4QYQ7Z7743A53642DB25BE97289797E680A070.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OW/BMWAQU1RKG71OEHQ4QYQ7Z.uasset'
+[2022.07.27-17.28.31:505][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MU/FZL48CN902NRO1V6RYI6GU
+[2022.07.27-17.28.31:505][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/FZL48CN902NRO1V6RYI6GU51AE59764008D7A5D305738F06750857.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MU/FZL48CN902NRO1V6RYI6GU.uasset'
+[2022.07.27-17.28.31:507][311]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J6/SKOBGBK86HTPJZZCWUHCBD
+[2022.07.27-17.28.31:507][311]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/SKOBGBK86HTPJZZCWUHCBDD186E311484059F564FAEABBA81320EE.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J6/SKOBGBK86HTPJZZCWUHCBD.uasset'
+[2022.07.27-17.28.31:552][311]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.27-17.28.31:558][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1574996526
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1548623525
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1529719524
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589012701_1337540522
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1407415523
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589002701_1675418343
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589012701_1308239521
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A72401_1579747573
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A72401_1374075571
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A62401_1916928391
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A72401_1260414570
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589B12401_1576730341
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A72401_1707184574
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589A62401_2009697392
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589B12401_1421460339
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589B12401_1449173340
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589012701_1660462528
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1582628762
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471416705
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471416706
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471417707
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471417708
+[2022.07.27-17.28.31:559][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471417709
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1471418710
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471418711
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471418712
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471418713
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471419716
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471419717
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471420718
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471420719
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1471420720
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471421721
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471421722
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1471422723
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481118724
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481118725
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481119726
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481120727
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481120728
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1481121729
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481121730
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481122731
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481123732
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481124735
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481124736
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481125737
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481125738
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1481126739
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481127740
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481127741
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1481128742
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483971743
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483971744
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483972745
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483972746
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483972747
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1483972748
+[2022.07.27-17.28.31:560][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483973749
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483973750
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483973751
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483974754
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483975755
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483976756
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483976757
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_3497F636C589022701_1483977758
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483978759
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483978760
+[2022.07.27-17.28.31:561][311]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483978761
+[2022.07.27-17.28.31:570][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.27-17.28.32:096][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.27-17.28.32:149][346]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.27-17.28.32:150][346]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.27-17.28.32:150][346]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.27-17.28.32:150][346]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.27-17.28.32:150][346]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.27-17.28.32:150][346]LogWorldPartition: Display: GetPartitionedActors took 288 us
+[2022.07.27-17.28.32:151][346]LogWorldPartition: Display: GenerateStreaming took 998 us
+[2022.07.27-17.28.32:246][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.27-17.28.32:379][346]PIE: New page: PIE session: ThirdPersonMap (Jul. 27, 2022, 9:28:32 a.m.)
+[2022.07.27-17.28.32:404][346]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.27-17.28.32:415][346]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.27-17.28.32:446][346]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.27-17.28.32:524][346]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.27-17.28.32:533][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086045s)
+[2022.07.27-17.28.32:533][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.098858s)
+[2022.07.27-17.28.32:542][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.27-17.28.32:543][346]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.27-17.28.32:543][346]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.27-17.28.32:543][346]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.27-17.28.32:545][346]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.27-17.28.32:545][346]LogPlayLevel: PIE: World Init took: (0.011650s)
+[2022.07.27-17.28.32:575][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.07.27-17.28.32:654][346]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.27-17.28.32:654][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.27-17.28.32:654][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.27-17.28.32:655][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.27-17.28.32:655][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.27-17.28.32:655][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.27-17.28.32:655][346]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.27-17.28.32:655][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.27-17.28.32:655][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.27-17.28.32:655][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.27-17.28.32:656][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.27-17.28.32:656][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.27-17.28.32:659][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.27-17.28.32:733][346]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2022.07.27-17.28.32:734][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.27-17.28.32:734][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.27-17.28.32:734][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.27-17.28.32:737][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.27-17.28.32:737][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.27-17.28.32:741][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.27-17.28.32:741][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.27-17.28.32:741][346]LogInit: FAudioDevice initialized.
+[2022.07.27-17.28.32:741][346]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.07.27-17.28.32:807][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.27-17.28.32:826][346]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.27-13.28.32
+[2022.07.27-17.28.32:909][346]LogWorld: Bringing up level for play took: 0.090377
+[2022.07.27-17.28.32:935][346]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.07.27-17.28.34:117][346]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=235.640 Y=291.000 Z=92.013
+[2022.07.27-17.28.34:117][346]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.27-17.28.34:206][346]PIE: Server logged in
+[2022.07.27-17.28.34:219][346]PIE: Play in editor total start time 2.115 seconds.
+[2022.07.27-17.28.51:910][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.28.51:910][131]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.27-17.28.51:910][131]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.28.51:947][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.28.51:984][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.27-17.28.51:993][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.28.52:009][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.28.52:009][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.27-17.28.52:011][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.27-17.28.52:036][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.27-17.28.52:091][132]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.07.27-17.28.59:539][915]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: GetPartitionedActors took 58 us
+[2022.07.27-17.28.59:545][915]LogWorldPartition: Display: GenerateStreaming took 401 us
+[2022.07.27-17.28.59:545][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.27-17.28.59:546][915]PIE: New page: PIE session: ThirdPersonMap (Jul. 27, 2022, 9:28:59 a.m.)
+[2022.07.27-17.28.59:575][915]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.27-17.28.59:581][915]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.27-17.28.59:581][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005562s)
+[2022.07.27-17.28.59:581][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005655s)
+[2022.07.27-17.28.59:581][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.27-17.28.59:581][915]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.07.27-17.28.59:582][915]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.27-17.28.59:582][915]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.27-17.28.59:583][915]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.27-17.28.59:584][915]LogPlayLevel: PIE: World Init took: (0.002549s)
+[2022.07.27-17.28.59:591][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.27-17.28.59:592][915]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.27-17.28.59:592][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.27-17.28.59:592][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.27-17.28.59:593][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.27-17.28.59:593][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.27-17.28.59:593][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.27-17.28.59:595][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.27-17.28.59:618][915]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2022.07.27-17.28.59:618][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.27-17.28.59:618][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.27-17.28.59:618][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.27-17.28.59:619][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.07.27-17.28.59:619][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.07.27-17.28.59:621][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.07.27-17.28.59:621][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.07.27-17.28.59:621][915]LogInit: FAudioDevice initialized.
+[2022.07.27-17.28.59:621][915]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.07.27-17.28.59:629][915]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.27-17.28.59:631][915]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.07.27-13.28.59
+[2022.07.27-17.28.59:632][915]LogWorld: Bringing up level for play took: 0.002087
+[2022.07.27-17.28.59:633][915]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.07.27-17.28.59:636][915]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=235.640 Y=291.000 Z=92.013
+[2022.07.27-17.28.59:636][915]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.27-17.28.59:636][915]PIE: Server logged in
+[2022.07.27-17.28.59:636][915]PIE: Play in editor total start time 0.094 seconds.
+[2022.07.27-17.29.09:246][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.29.09:246][997]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.07.27-17.29.09:246][997]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.29.09:246][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.29.09:257][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.27-17.29.09:259][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.29.09:266][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.29.09:267][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.27-17.29.09:268][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.27-17.29.09:273][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.27-17.29.09:325][998]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.07.27-17.29.27:202][929]Cmd: EDIT COPY
+[2022.07.27-17.29.40:350][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.27-17.29.40:398][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WI/W0ZFPNLRPE04KN4JU248MW
+[2022.07.27-17.29.40:398][306]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/W0ZFPNLRPE04KN4JU248MW4F931CFE41BF0D19975F2AA2FEB78110.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WI/W0ZFPNLRPE04KN4JU248MW.uasset'
+[2022.07.27-17.29.40:415][306]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_3497F636C589022701_1483975755
+[2022.07.27-17.29.40:415][306]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1483975755
+[2022.07.27-17.30.16:259][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.30.16:259][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.30.16:260][744]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9
+[2022.07.27-17.30.18:118][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.30.18:118][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.07.27-17.30.18:119][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3497F636C589022701_1761827763
+[2022.07.27-17.32.26:223][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.07.27-17.32.26:226][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PL/6LCN8TSN1MV64FG350WEVX_Auto2
+[2022.07.27-17.32.26:226][141]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/6LCN8TSN1MV64FG350WEVX_Auto29BBF7E6746E85085A9D57198261474E3.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PL/6LCN8TSN1MV64FG350WEVX_Auto2.uasset'
+[2022.07.27-17.32.26:226][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2022.07.27-17.32.26:226][141]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.07.27-17.42.05:240][955]Cmd: EDIT COPY
+[2022.07.27-17.42.05:907][  9]Cmd: EDIT PASTE
+[2022.07.27-17.44.08:949][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.27-17.44.08:951][825]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PL/6LCN8TSN1MV64FG350WEVX_Auto3
+[2022.07.27-17.44.08:951][825]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/6LCN8TSN1MV64FG350WEVX_Auto3DF6E5CC64115A609A7B1C5B70A3CBAFB.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PL/6LCN8TSN1MV64FG350WEVX_Auto3.uasset'
+[2022.07.27-17.44.08:953][825]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1Z/RDY44ONHDBQ9C17240SIS9_Auto3
+[2022.07.27-17.44.08:953][825]LogSavePackage: Moving '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/RDY44ONHDBQ9C17240SIS9_Auto38351094641AA5C5DEC874692E3C20E55.tmp' to '../../../../Users/EvinKurA/Game Projects/Engines1Project/Engines1Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1Z/RDY44ONHDBQ9C17240SIS9_Auto3.uasset'
+[2022.07.27-17.44.08:953][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.014
+[2022.07.27-17.44.08:954][825]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2022.07.27-17.47.39:911][794]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.27-17.47.43:989][ 72]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished
+[2022.07.27-17.47.44:151][ 72]LogMaterial: Display: Missing cached shadermap for Preview:M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 0C3186730A949FAABC58D68552EA9A73ED8DE597), compiling. 
+[2022.07.27-17.47.44:918][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.27-17.47.45:352][ 72]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
