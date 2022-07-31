@@ -2192,3 +2192,808 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.31-23.00.38:544][673]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.31-23.00.38:544][673]LogContentValidation: Display: Validating Blueprint /Game/MainGameInstance.MainGameInstance
 [2022.07.31-23.00.38:545][673]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
+[2022.07.31-23.01.44:403][409]Cmd: EDIT COPY
+[2022.07.31-23.01.44:723][421]Cmd: EDIT PASTE
+[2022.07.31-23.01.46:285][539]Cmd: TRANSACTION UNDO
+[2022.07.31-23.01.46:285][539]LogEditorTransaction: Undo Paste
+[2022.07.31-23.02.02:154][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.07.31-23.02.07:464][194]LogContentBrowser: Attempting asset rename: ElevatorToLevelOne -> ElevatorToLevelTwo
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveBeginPlay' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveTick' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:BndEvt__ElevatorToMainDoor_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:482][194]LogMetaData: Removing '/Game/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:UserConstructionScript' ref from Metadata '/Game/ElevatorToLevelOne.PackageMetaData'
+[2022.07.31-23.02.07:549][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ElevatorToLevelTwo" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ElevatorToLevelTwo.uasset" SILENT=true
+[2022.07.31-23.02.07:554][194]LogSavePackage: Moving output files for package: /Game/ElevatorToLevelTwo
+[2022.07.31-23.02.07:554][194]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ElevatorToLevelTwoB5CFD837414E2D842C50FEB7CBA77AC1.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ElevatorToLevelTwo.uasset'
+[2022.07.31-23.02.07:609][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.07.31-23.02.07:647][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.31-23.02.07:686][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.31-23.02.07:692][194]AssetCheck: New page: Asset Save: ElevatorToLevelTwo
+[2022.07.31-23.02.07:692][194]LogContentValidation: Display: Validating Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.07.31-23.02.15:263][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.15:263][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.15:265][729]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_0
+[2022.07.31-23.02.15:266][729]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_0
+[2022.07.31-23.02.15:437][739]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.15:437][739]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.15:439][739]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_1
+[2022.07.31-23.02.15:440][739]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_1
+[2022.07.31-23.02.16:002][777]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.16:002][777]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorToLevelTwo.ElevatorToLevelTwo_C
+[2022.07.31-23.02.16:004][777]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.07.31-23.02.16:006][777]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo as actor: ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.07.31-23.03.23:585][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.07.31-23.03.23:585][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.05.24:733][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-23.05.24:742][290]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-23.05.24:742][290]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-23.05.24:742][290]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-23.05.24:742][290]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-23.05.24:742][290]LogWorldPartition: Display: GetPartitionedActors took 69 us
+[2022.07.31-23.05.24:818][290]LogWorldPartition: Display: GenerateStreaming took 76 ms
+[2022.07.31-23.05.24:819][290]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.31-23.05.24:822][290]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.07.31-23.05.24:976][290]LogPlayLevel: [PlayLevel] Compiling LevelOneToElevator before play...
+[2022.07.31-23.05.24:978][290]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\PortalDoors\LevelOneToElevator.uasset: [Compiler] The property associated with  Level Two Unlocked  could not be found in '/Game/PortalDoors/LevelOneToElevator.LevelOneToElevator_C'
+[2022.07.31-23.05.25:002][290]LogPlayLevel: [PlayLevel] Compiling MainGameInstance before play...
+[2022.07.31-23.05.25:038][290]LogPlayLevel: [PlayLevel] Compiling ElevatorToLevelTwo before play...
+[2022.07.31-23.05.25:171][290]LogWorldPartition: Warning: Actor /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelOne_C_UAID_80C5F2899C66572801_1102473711 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Elevator/C/QL/2Z2YWVP9Z5531QSVW8H1PO.PackageMetaData in its package
+[2022.07.31-23.05.25:188][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.31-23.05.25:190][290]LogPlayLevel: PlayLevel: Blueprint regeneration took 371 ms (4 blueprints)
+[2022.07.31-23.05.25:190][290]BlueprintLog: Warning: Blueprint failed to compile:  LevelOneToElevator
+[2022.07.31-23.05.25:191][290]LogCustomDialog: Dialog displayed:
+[2022.07.31-23.05.26:658][290]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.07.31-23.05.26:866][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.31-23.05.33:537][777]BlueprintLog: New page: Compile ElevatorToLevelTwo
+[2022.07.31-23.05.33:611][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.07.31-23.05.36:069][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-23.05.36:079][958]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-23.05.36:079][958]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-23.05.36:079][958]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-23.05.36:079][958]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-23.05.36:079][958]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2022.07.31-23.05.36:165][958]LogWorldPartition: Display: GenerateStreaming took 85 ms
+[2022.07.31-23.05.36:165][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.31-23.05.36:166][958]BlueprintLog: Warning: Blueprint failed to compile:  LevelOneToElevator
+[2022.07.31-23.05.36:166][958]LogCustomDialog: Dialog displayed:
+[2022.07.31-23.05.41:997][958]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.07.31-23.06.48:885][266]BlueprintLog: New page: Compile LevelOneToElevator
+[2022.07.31-23.06.48:960][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.31-23.06.52:950][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-23.06.52:960][564]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-23.06.52:960][564]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-23.06.52:961][564]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-23.06.52:961][564]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2022.07.31-23.06.52:961][564]LogWorldPartition: Display: GetPartitionedActors took 75 us
+[2022.07.31-23.06.53:042][564]LogWorldPartition: Display: GenerateStreaming took 82 ms
+[2022.07.31-23.06.53:043][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.31-23.06.53:043][564]PIE: New page: PIE session: Elevator (Jul. 31, 2022, 3:06:53 p.m.)
+[2022.07.31-23.06.53:043][564]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.06.53:082][564]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-23.06.53:083][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039923s)
+[2022.07.31-23.06.53:083][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Elevator.Elevator to /Game/Levels/UEDPIE_0_Elevator.Elevator (0.039985s)
+[2022.07.31-23.06.53:083][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.06.53:084][564]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-23.06.53:084][564]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.06.53:084][564]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-23.06.53:093][564]LogWorldPartition: Display: WorldPartition initialize took 8 ms
+[2022.07.31-23.06.53:093][564]LogPlayLevel: PIE: World Init took: (0.010322s)
+[2022.07.31-23.06.53:150][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.31-23.06.53:152][564]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-23.06.53:152][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-23.06.53:152][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-23.06.53:152][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-23.06.53:152][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-23.06.53:152][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-23.06.53:155][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-23.06.53:205][564]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-23.06.53:205][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-23.06.53:205][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-23.06.53:205][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-23.06.53:206][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.07.31-23.06.53:206][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.07.31-23.06.53:207][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.07.31-23.06.53:207][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.07.31-23.06.53:207][564]LogInit: FAudioDevice initialized.
+[2022.07.31-23.06.53:207][564]LogAudio: Display: Audio Device (ID: 8) registered with world 'Elevator'.
+[2022.07.31-23.06.53:221][564]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.06.53:226][564]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-19.06.53
+[2022.07.31-23.06.53:226][564]LogWorld: Bringing up level for play took: 0.004805
+[2022.07.31-23.06.53:228][564]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.07.31-23.06.53:233][564]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-23.06.53:233][564]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-23.06.53:233][564]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/1/6C/CR5CW3Z83RKZ5DE2OKJ6BD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/7A/AAWO0I9A2PM0PP9B676REI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/8/C8/8TSTBLK8K0L1IX2VEXX1TB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/77/C039DYVFF5XHB0UM2INGL2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/RH/M29ACEEQ4B8UFF1NGIO7AH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/3W/F8457KT52VB9W6RUV39BPS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/TT/KGTS3UKZXLPY8WGRUF6L1N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.06.53:337][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/UC/RXBQYBLJIAPXFYIVQXIZOF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.06.53:338][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/XE/DGP17X51LF0741NE1XQC2G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.06.53:338][564]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/E/CC/0N1DEAJ6M5T71934SVKERE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:378][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:379][564]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.06.53:381][564]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2022.07.31-23.06.53:572][564]PIE: Server logged in
+[2022.07.31-23.06.53:572][564]PIE: Play in editor total start time 0.614 seconds.
+[2022.07.31-23.06.53:713][567]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.07.31-23.06.56:608][778]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-23.06.56:608][778]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-23.06.56:608][778]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.06.56:609][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:640][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:640][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:640][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:640][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:641][778]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.06.56:641][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.06.56:683][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.06.56:697][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.07.31-23.06.56:701][778]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-23.06.56:888][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.186907s)
+[2022.07.31-23.06.56:888][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.186998s)
+[2022.07.31-23.06.56:888][778]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelOne'.
+[2022.07.31-23.06.56:888][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-23.06.56:888][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.06.56:888][778]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-23.06.56:888][778]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.07.31-23.06.56:889][778]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.06.56:932][778]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-19.06.56
+[2022.07.31-23.06.56:933][778]LogWorld: Bringing up level for play took: 0.044402
+[2022.07.31-23.06.56:940][778]LogLoad: Took 0.330722 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-23.07.04:889][263]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-23.07.04:889][263]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-23.07.04:889][263]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-23.07.04:890][263]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.07.04:894][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.07.04:969][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.07.04:979][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.07.31-23.07.04:987][263]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:010][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:011][263]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.07.05:012][263]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-23.07.05:013][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025402s)
+[2022.07.31-23.07.05:013][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Elevator.Elevator to /Game/Levels/UEDPIE_0_Elevator.Elevator (0.025484s)
+[2022.07.31-23.07.05:013][263]LogAudio: Display: Audio Device (ID: 8) registered with world 'Elevator'.
+[2022.07.31-23.07.05:013][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.07.05:013][263]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-23.07.05:013][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.07.05:013][263]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-23.07.05:018][263]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.07.31-23.07.05:018][263]LogPlayLevel: PIE: World Init took: (0.005297s)
+[2022.07.31-23.07.05:018][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.07.05:021][263]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-19.07.05
+[2022.07.31-23.07.05:021][263]LogWorld: Bringing up level for play took: 0.003214
+[2022.07.31-23.07.05:026][263]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-23.07.05:026][263]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-23.07.05:026][263]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-23.07.05:034][263]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2022.07.31-23.07.05:218][263]LogLoad: Took 0.329167 seconds to LoadMap(/Game/Levels/UEDPIE_0_Elevator)
+[2022.07.31-23.07.09:010][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-23.07.09:010][567]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.07.09:034][567]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.07.09:037][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.07.09:052][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-23.07.09:057][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.07.09:108][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.07.09:108][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.31-23.07.09:109][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.07.31-23.07.09:113][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-23.07.09:124][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.31-23.07.09:222][568]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.07.31-23.07.17:035][120]Cmd: EDIT COPY
+[2022.07.31-23.07.17:310][141]Cmd: EDIT PASTE
+[2022.07.31-23.08.02:630][501]LogEditorTransaction: Undo Move Node
+[2022.07.31-23.08.03:663][556]LogEditorTransaction: Undo Create Pin Link
+[2022.07.31-23.08.58:427][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ElevatorToLevelTwo" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ElevatorToLevelTwo.uasset" SILENT=true
+[2022.07.31-23.08.58:435][824]LogSavePackage: Moving output files for package: /Game/ElevatorToLevelTwo
+[2022.07.31-23.08.58:436][824]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ElevatorToLevelTwo354AA0FA4E8B38CA930B08B6D3389EDF.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ElevatorToLevelTwo.uasset'
+[2022.07.31-23.08.58:450][824]AssetCheck: New page: Asset Save: ElevatorToLevelTwo
+[2022.07.31-23.08.58:450][824]LogContentValidation: Display: Validating Blueprint /Game/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.07.31-23.08.59:546][907]BlueprintLog: New page: Compile ElevatorToLevelTwo
+[2022.07.31-23.08.59:627][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.31-23.09.01:679][ 59]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.31-23.09.01:691][ 59]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-23.09.01:691][ 59]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-23.09.01:691][ 59]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-23.09.01:691][ 59]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.07.31-23.09.01:691][ 59]LogWorldPartition: Display: GetPartitionedActors took 69 us
+[2022.07.31-23.09.01:771][ 59]LogWorldPartition: Display: GenerateStreaming took 79 ms
+[2022.07.31-23.09.01:771][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.31-23.09.01:772][ 59]PIE: New page: PIE session: Elevator (Jul. 31, 2022, 3:09:01 p.m.)
+[2022.07.31-23.09.01:772][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.09.01:804][ 59]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-23.09.01:804][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032622s)
+[2022.07.31-23.09.01:804][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Elevator.Elevator to /Game/Levels/UEDPIE_0_Elevator.Elevator (0.032680s)
+[2022.07.31-23.09.01:805][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.09.01:805][ 59]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-23.09.01:806][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.09.01:806][ 59]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-23.09.01:812][ 59]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2022.07.31-23.09.01:812][ 59]LogPlayLevel: PIE: World Init took: (0.007856s)
+[2022.07.31-23.09.01:864][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.07.31-23.09.01:867][ 59]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.31-23.09.01:867][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.31-23.09.01:867][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.31-23.09.01:868][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.31-23.09.01:868][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.31-23.09.01:868][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.31-23.09.01:871][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.07.31-23.09.01:931][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.07.31-23.09.01:933][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.07.31-23.09.01:933][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.07.31-23.09.01:933][ 59]LogInit: FAudioDevice initialized.
+[2022.07.31-23.09.01:933][ 59]LogAudio: Display: Audio Device (ID: 9) registered with world 'Elevator'.
+[2022.07.31-23.09.01:946][ 59]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.09.01:951][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-19.09.01
+[2022.07.31-23.09.01:951][ 59]LogWorld: Bringing up level for play took: 0.005523
+[2022.07.31-23.09.01:953][ 59]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.07.31-23.09.01:957][ 59]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-23.09.01:957][ 59]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-23.09.01:957][ 59]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/E/CC/0N1DEAJ6M5T71934SVKERE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/XE/DGP17X51LF0741NE1XQC2G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/UC/RXBQYBLJIAPXFYIVQXIZOF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/TT/KGTS3UKZXLPY8WGRUF6L1N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/3W/F8457KT52VB9W6RUV39BPS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/RH/M29ACEEQ4B8UFF1NGIO7AH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/77/C039DYVFF5XHB0UM2INGL2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/8/C8/8TSTBLK8K0L1IX2VEXX1TB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/7A/AAWO0I9A2PM0PP9B676REI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.09.02:053][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/1/6C/CR5CW3Z83RKZ5DE2OKJ6BD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.07.31-23.09.02:054][ 59]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:094][ 59]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.02:097][ 59]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2022.07.31-23.09.02:292][ 59]PIE: Server logged in
+[2022.07.31-23.09.02:292][ 59]PIE: Play in editor total start time 0.603 seconds.
+[2022.07.31-23.09.04:698][244]LogBlueprintUserMessages: [ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712] Complete Level One
+[2022.07.31-23.09.07:909][501]LogNet: Browse: /Game/Levels/LevelOne
+[2022.07.31-23.09.07:910][501]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.07.31-23.09.07:910][501]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.09.07:910][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:950][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:950][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.07:951][501]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.07:951][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.08:035][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.09.08:044][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.31-23.09.08:048][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-23.09.08:194][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146356s)
+[2022.07.31-23.09.08:195][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.146458s)
+[2022.07.31-23.09.08:195][501]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelOne'.
+[2022.07.31-23.09.08:195][501]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.31-23.09.08:195][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.09.08:195][501]LogAIModule: Creating AISystem for world LevelOne
+[2022.07.31-23.09.08:195][501]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2022.07.31-23.09.08:195][501]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.09.08:252][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-19.09.08
+[2022.07.31-23.09.08:253][501]LogWorld: Bringing up level for play took: 0.056915
+[2022.07.31-23.09.08:260][501]LogLoad: Took 0.350170 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.07.31-23.09.15:222][929]LogNet: Browse: /Game/Levels/Elevator
+[2022.07.31-23.09.15:222][929]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.07.31-23.09.15:222][929]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.07.31-23.09.15:223][929]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.15:226][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.15:302][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.09.15:313][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.31-23.09.15:320][929]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:343][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:344][929]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.07.31-23.09.15:346][929]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-23.09.15:346][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025338s)
+[2022.07.31-23.09.15:346][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Elevator.Elevator to /Game/Levels/UEDPIE_0_Elevator.Elevator (0.025416s)
+[2022.07.31-23.09.15:346][929]LogAudio: Display: Audio Device (ID: 9) registered with world 'Elevator'.
+[2022.07.31-23.09.15:346][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.09.15:346][929]LogAIModule: Creating AISystem for world Elevator
+[2022.07.31-23.09.15:347][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.09.15:347][929]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-23.09.15:351][929]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.07.31-23.09.15:352][929]LogPlayLevel: PIE: World Init took: (0.005669s)
+[2022.07.31-23.09.15:352][929]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.09.15:355][929]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.07.31-19.09.15
+[2022.07.31-23.09.15:355][929]LogWorld: Bringing up level for play took: 0.003438
+[2022.07.31-23.09.15:360][929]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.07.31-23.09.15:360][929]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.07.31-23.09.15:360][929]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.07.31-23.09.15:366][929]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2022.07.31-23.09.15:551][929]LogLoad: Took 0.329460 seconds to LoadMap(/Game/Levels/UEDPIE_0_Elevator)
+[2022.07.31-23.09.17:961][120]LogNet: Browse: /Game/Levels/LevelTwo
+[2022.07.31-23.09.17:961][120]LogLoad: LoadMap: /Game/Levels/LevelTwo
+[2022.07.31-23.09.17:961][120]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.07.31-23.09.17:962][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:998][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:998][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:998][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:998][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:998][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:998][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:998][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:998][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:998][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.17:999][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.17:999][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.18:000][120]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.18:000][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.18:086][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.09.18:098][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.31-23.09.18:108][120]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.31-23.09.18:109][120]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelTwo'.
+[2022.07.31-23.09.18:109][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.09.18:109][120]LogAIModule: Creating AISystem for world LevelTwo
+[2022.07.31-23.09.18:109][120]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.09.18:110][120]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.31-23.09.18:113][120]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2022.07.31-23.09.18:182][120]LogWorldPartition: Display: GenerateStreaming took 68 ms
+[2022.07.31-23.09.18:184][120]LogWorldPartition: Display: WorldPartition initialize took 73 ms
+[2022.07.31-23.09.18:184][120]LogPlayLevel: PIE: World Init took: (0.074696s)
+[2022.07.31-23.09.18:184][120]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.07.31-23.09.18:194][120]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.07.31-19.09.18
+[2022.07.31-23.09.18:194][120]LogWorld: Bringing up level for play took: 0.010520
+[2022.07.31-23.09.18:199][120]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.07.31-23.09.18:199][120]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.31-23.09.18:199][120]LogLoad: Took 0.237713 seconds to LoadMap(/Game/Levels/LevelTwo)
+[2022.07.31-23.09.20:240][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-23.09.20:240][280]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.07.31-23.09.20:240][280]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.09.20:241][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.20:252][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.31-23.09.20:257][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.09.20:299][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.09.20:299][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.31-23.09.20:300][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.31-23.09.20:304][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.31-23.09.20:312][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.07.31-23.09.20:387][281]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.07.31-23.10.01:409][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.07.31-23.10.02:604][281]LogSlate: Window 'Save Content' being destroyed
+[2022.07.31-23.10.02:638][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN
+[2022.07.31-23.10.02:638][281]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DD4BPRPP2MNDG2BICYLXQNB20C44F24EABDABC54A4439E497E3A8D.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN.uasset'
+[2022.07.31-23.10.02:641][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.10.03:002][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.07.31-23.10.03:763][281]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2022.07.31-23.10.03:764][281]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOne73F934A74C8E72FB721700B79693ED85.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap'
+[2022.07.31-23.10.03:768][281]LogFileHelpers: No new changes to save!
+[2022.07.31-23.10.03:796][281]LogFileHelpers: Saving map 'LevelOne' took 1.156
+[2022.07.31-23.10.03:863][281]LogSavePackage: Moving output files for package: /Game/PortalDoors/LevelOneToElevator
+[2022.07.31-23.10.03:864][281]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOneToElevator5DBB4751489E9D6EFFF0E4A5AE6D810E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/LevelOneToElevator.uasset'
+[2022.07.31-23.10.03:867][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/0/R0/NEGHS6WBYDNY2KIZABHCPL
+[2022.07.31-23.10.03:867][281]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/NEGHS6WBYDNY2KIZABHCPL45A6AD2044931C848DA39C8411D2888E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/0/R0/NEGHS6WBYDNY2KIZABHCPL.uasset'
+[2022.07.31-23.10.03:912][281]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTwo.LevelTwo
+[2022.07.31-23.10.03:912][281]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.31-23.10.03:912][281]LightingResults: New page: Lighting Build
+[2022.07.31-23.10.03:912][281]LoadErrors: New page: Loading map: LevelTwo.umap
+[2022.07.31-23.10.03:981][281]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.10.03:981][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.10.03:987][281]MapCheck: New page: Map Check
+[2022.07.31-23.10.03:987][281]LightingResults: New page: Lighting Build
+[2022.07.31-23.10.04:030][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.31-23.10.04:046][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.07.31-23.10.04:052][281]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.10.04:052][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.10.04:054][281]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.07.31-23.10.04:057][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.10.04:136][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.07.31-23.10.04:183][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.07.31-23.10.04:189][281]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTwo'.
+[2022.07.31-23.10.04:190][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.10.04:190][281]LogAIModule: Creating AISystem for world LevelTwo
+[2022.07.31-23.10.04:190][281]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.31-23.10.04:190][281]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.31-23.10.04:280][281]LogWorldPartition: Display: WorldPartition initialize took 88 ms
+[2022.07.31-23.10.04:665][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.31-23.10.04:724][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.31-23.10.04:740][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.31-23.10.04:740][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2022.07.31-23.10.04:740][281]LogFileHelpers: Loading map 'LevelTwo' took 0.828
+[2022.07.31-23.10.04:773][281]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.31-23.10.04:773][281]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/LevelOneToElevator.LevelOneToElevator
+[2022.07.31-23.10.04:773][281]LogContentValidation: Display: Validating ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.07.31-23.10.04:782][281]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712'
+[2022.07.31-23.10.04:782][281]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
+[2022.07.31-23.10.04:966][281]LogContentValidation: Display: Validating MainFloor_C /Game/Levels/Elevator.Elevator:PersistentLevel.LevelOneTextRender_C_UAID_80C5F2899C66572801_1435057713
+[2022.07.31-23.10.04:967][281]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/Elevator.Elevator:PersistentLevel.LevelOneTextRender_C_UAID_80C5F2899C66572801_1435057713'
