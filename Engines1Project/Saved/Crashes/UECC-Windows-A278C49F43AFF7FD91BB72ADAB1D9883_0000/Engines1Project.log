@@ -2792,19 +2792,3 @@ Script Stack (0 frames):
 [2022.07.31-23.38.54:477][293]LogOutputDevice: Error: [Callstack] 0x00007ffdd9e37034 KERNEL32.DLL!UnknownFunction []
 [2022.07.31-23.38.54:477][293]LogOutputDevice: Error: [Callstack] 0x00007ffdda082651 ntdll.dll!UnknownFunction []
 [2022.07.31-23.38.54:477][293]LogOutputDevice: Error: 
-[2022.07.31-23.38.54:481][293]LogStats:                SubmitErrorReport -  0.000 s
-[2022.07.31-23.38.55:681][293]LogStats:                    SendNewReport -  1.199 s
-[2022.07.31-23.38.55:681][293]LogStats:             FDebug::EnsureFailed -  1.252 s
-[2022.07.31-23.38.55:685][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.07.31-23.38.55:720][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.07.31-23.38.55:721][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
-[2022.07.31-23.38.55:722][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
-[2022.07.31-23.38.55:741][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
-[2022.07.31-23.38.55:795][294]LogPlayLevel: Display: Destroying online subsystem :Context_16
-[2022.07.31-23.39.00:358][632]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/5/KV/DPPDP5WKDMZNIS5H10NK31
-[2022.07.31-23.39.00:359][632]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DPPDP5WKDMZNIS5H10NK318A74F86342D84E25527D79A7A522AB44.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/5/KV/DPPDP5WKDMZNIS5H10NK31.uasset'
-[2022.07.31-23.39.00:361][632]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/6/5I/MEB37P69OPOXTCGJBY1O8P
-[2022.07.31-23.39.00:362][632]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/MEB37P69OPOXTCGJBY1O8PD3F317F347A968A0554C20B6E0F4CB1E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/6/5I/MEB37P69OPOXTCGJBY1O8P.uasset'
-[2022.07.31-23.39.00:373][632]AssetCheck: New page: Asset Save: multiple assets
-[2022.07.31-23.39.00:374][632]LogContentValidation: Display: Validating Door_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.Door_C_UAID_046C590DBEFBF12701_1849701769
-[2022.07.31-23.39.00:374][632]LogContentValidation: Display: Validating LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_UAID_80C5F2899C66582801_1885421887
