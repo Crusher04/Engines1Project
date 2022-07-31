@@ -1249,3 +1249,37 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.31-23.31.44:786][354]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.07.31-23.31.44:786][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
 [2022.07.31-23.31.44:786][354]LogFileHelpers: Loading map 'LevelTwo' took 0.565
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.ElevatorToLevelTwo_C' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveBeginPlay' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:ReceiveTick' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:BndEvt__ElevatorToMainDoor_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C:UserConstructionScript' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.SKEL_ElevatorToLevelTwo_C' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:158][672]LogMetaData: Removing '/Game/PortalDoors/ElevatorToLevelTwo.ElevatorToLevelTwo_C:ReceiveBeginPlay' ref from Metadata '/Game/ElevatorToLevelTwo.PackageMetaData'
+[2022.07.31-23.32.36:188][672]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.006637 seconds
+[2022.07.31-23.32.36:189][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN
+[2022.07.31-23.32.36:190][672]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DD4BPRPP2MNDG2BICYLXQN87FE13F047D99D284A3D9D98B5C2ECC8.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN.uasset'
+[2022.07.31-23.32.36:224][672]LogSavePackage: Moving output files for package: /Game/PortalDoors/ElevatorToLevelTwo
+[2022.07.31-23.32.36:224][672]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ElevatorToLevelTwoDDE43D2F458A0237A92D02A0AEC6A35D.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/ElevatorToLevelTwo.uasset'
+[2022.07.31-23.32.36:263][672]LogWorldPartition: Warning: Actor /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN.PackageMetaData in its package
+[2022.07.31-23.32.36:264][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.07.31-23.32.36:288][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.07.31-23.32.36:313][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.31-23.32.36:328][672]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.31-23.32.36:328][672]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.07.31-23.32.36:328][672]LogContentValidation: Display: Validating ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.07.31-23.32.36:328][672]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712'
+[2022.07.31-23.32.36:355][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.07.31-23.32.40:290][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator_C
+[2022.07.31-23.32.40:290][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator_C
+[2022.07.31-23.32.40:291][984]LogActorFactory: Actor Factory spawned Blueprint /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator as actor: LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_0
+[2022.07.31-23.32.40:292][984]LogActorFactory: Actor Factory spawned Blueprint /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator as actor: LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_0
+[2022.07.31-23.32.41:416][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator_C
+[2022.07.31-23.32.41:416][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator_C
+[2022.07.31-23.32.41:418][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator as actor: LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_UAID_80C5F2899C66582801_1885421887
+[2022.07.31-23.32.41:419][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/PortalDoors/LevelTwoToElevator.LevelTwoToElevator as actor: LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_UAID_80C5F2899C66582801_1885421887
+[2022.07.31-23.33.13:218][866]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/6/5I/MEB37P69OPOXTCGJBY1O8P
+[2022.07.31-23.33.13:218][866]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/MEB37P69OPOXTCGJBY1O8P340854E14BE22BBC2E8975956DCEFABE.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/6/5I/MEB37P69OPOXTCGJBY1O8P.uasset'
+[2022.07.31-23.33.13:231][866]AssetCheck: New page: Asset Save: LevelTwoToElevator_C_UAID_80C5F2899C66582801_1885421887
+[2022.07.31-23.33.13:231][866]LogContentValidation: Display: Validating LevelTwoToElevator_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwoToElevator_C_UAID_80C5F2899C66582801_1885421887
