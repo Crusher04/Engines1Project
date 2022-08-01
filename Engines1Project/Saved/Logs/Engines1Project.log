@@ -4830,3 +4830,761 @@ Script Stack (0 frames):
 [2022.07.31-23.55.34:295][349]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Light_Generator_BPA5BE780F44EC0E6FEAA755AF5D0D83C6.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Light_Generator_BP.uasset'
 [2022.07.31-23.55.34:306][349]AssetCheck: New page: Asset Save: Light_Generator_BP
 [2022.07.31-23.55.34:306][349]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Light_Generator_BP.Light_Generator_BP
+[2022.07.31-23.57.13:083][577]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.31-23.57.14:994][577]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.07.31-23.57.15:001][577]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.31-23.57.15:012][577]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.31-23.57.15:032][578]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.07.31-23.57.18:167][766]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2022.07.31-23.57.18:171][766]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.31-23.57.19:660][851]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.07.31-23.57.19:660][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.57.19:667][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.31-23.57.19:673][851]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.07.31-23.57.20:021][851]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.31-23.57.20:021][851]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.31-23.57.20:097][851]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.07.31-23.57.50:584][779]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.31-23.57.50:589][780]LogSlate: Last resort fallback font was requested. Font: '/Game/UE5_RawAsset/Fonts/Organo.Organo', Character: '_ (U+005f)'
+[2022.07.31-23.57.50:603][780]LogSlate: Took 0.013740 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.07.31-23.57.55:772][ 62]LogEditorTransaction: Undo Resize Widget
+[2022.07.31-23.57.57:814][155]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 105155
+[2022.07.31-23.57.57:814][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.57.57:846][156]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.31-23.57.57:850][156]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.31-23.57.57:856][156]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.31-23.57.57:861][156]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.31-23.57.57:863][156]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.31-23.57.57:873][156]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.07.31-23.57.57:916][157]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 2
+[2022.07.31-23.57.57:918][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.57.57:935][158]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.31-23.57.57:939][158]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.31-23.57.57:945][158]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.31-23.57.57:949][158]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.31-23.57.57:952][158]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.31-23.57.57:962][158]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.07.31-23.57.58:155][170]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 13
+[2022.07.31-23.57.58:156][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.31-23.57.58:176][171]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.31-23.57.58:179][171]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.31-23.57.58:186][171]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.31-23.57.58:190][171]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.31-23.57.58:192][171]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.31-23.57.58:202][171]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.08.01-00.00.30:793][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfaceWidgest/PauseMenu" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset" SILENT=true
+[2022.08.01-00.00.30:798][137]LogSavePackage: Moving output files for package: /Game/InterfaceWidgest/PauseMenu
+[2022.08.01-00.00.30:798][137]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenu64E9E0A446E46354263546B9E86B05F9.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset'
+[2022.08.01-00.00.30:816][137]AssetCheck: New page: Asset Save: PauseMenu
+[2022.08.01-00.00.30:816][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.08.01-00.00.35:856][422]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.01-00.00.38:810][570]LogMaterial: Display: Missing cached shadermap for ArchWindow_D_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1AED563256BB1D4DBF5B097F60DD18319E1A2084), compiling. 
+[2022.08.01-00.00.38:925][570]LogTexture: Display: Building textures: /Game/City_of_Brass_Enviroment/Textures/ArchWindow_D.ArchWindow_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: ================================================
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: Total job queries 27, among them cache hits 0 (0.00%)
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: Jobs assigned 27, completed 1 (3.70%)
+[2022.08.01-00.00.39:749][597]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.81 s
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 0.75 s
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Job life time (pending + execution): average 0.77 s, max 0.77
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.77 s
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 3.00 jobs/batch
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Average processing rate: 1.30 jobs/sec
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 100.00% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2022.08.01-00.00.39:750][597]LogShaderCompilers: Display: ================================================
+[2022.08.01-00.00.39:777][598]Cmd: TRANSACTION UNDO
+[2022.08.01-00.00.39:777][598]LogEditorTransaction: Undo Edit Font Material
+[2022.08.01-00.00.51:471][178]LogSlate: Took 0.001829 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.08.01-00.00.53:628][301]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.01-00.01.30:249][487]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.01-00.01.42:544][220]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.01-00.02.59:220][807]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.01-00.04.44:774][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfaceWidgest/PauseMenu" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset" SILENT=true
+[2022.08.01-00.04.44:778][413]LogSavePackage: Moving output files for package: /Game/InterfaceWidgest/PauseMenu
+[2022.08.01-00.04.44:779][413]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenu4B50E53049CE1C368BE59D8A40B9E41D.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset'
+[2022.08.01-00.04.44:798][413]AssetCheck: New page: Asset Save: PauseMenu
+[2022.08.01-00.04.44:798][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.08.01-00.04.45:527][465]BlueprintLog: New page: Compile PauseMenu
+[2022.08.01-00.04.45:634][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.01-00.04.46:084][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfaceWidgest/PauseMenu" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset" SILENT=true
+[2022.08.01-00.04.46:090][495]LogSavePackage: Moving output files for package: /Game/InterfaceWidgest/PauseMenu
+[2022.08.01-00.04.46:091][495]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenu18DEA8094DE1F5BBEBBDC6A26A4B56F4.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset'
+[2022.08.01-00.04.46:104][495]AssetCheck: New page: Asset Save: PauseMenu
+[2022.08.01-00.04.46:104][495]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.08.01-00.05.52:077][ 40]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.08.01-00.05.54:190][176]LogSlate: Window 'Open Asset' being destroyed
+[2022.08.01-00.05.54:194][176]LogSlate: Window 'Open Asset' being destroyed
+[2022.08.01-00.09.14:443][846]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.01-00.09.52:281][103]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.01-00.09.54:828][247]LogEditorTransaction: Undo Move Node
+[2022.08.01-00.09.55:454][265]LogEditorTransaction: Undo Promote To Variable
+[2022.08.01-00.09.56:012][291]LogEditorTransaction: Undo Change Class Pin Value
+[2022.08.01-00.10.22:820][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.08.01-00.10.22:824][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelOne' took 0.070
+[2022.08.01-00.10.22:825][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.01-00.10.22:853][997]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2022.08.01-00.10.22:859][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.01-00.10.22:859][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.01-00.10.22:879][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2022.08.01-00.10.22:880][997]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter_Auto1C8BB1A054CA91982DD421A8BFCB41539.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2022.08.01-00.10.22:881][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InterfaceWidgest/PauseMenu] ([2] browsable assets)...
+[2022.08.01-00.10.22:883][997]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu]
+[2022.08.01-00.10.22:883][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/InterfaceWidgest/PauseMenu]
+[2022.08.01-00.10.22:888][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InterfaceWidgest/PauseMenu_Auto1
+[2022.08.01-00.10.22:888][997]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenu_Auto1F7BADB2F486F4B6574D1729ED7819A35.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/InterfaceWidgest/PauseMenu_Auto1.uasset'
+[2022.08.01-00.10.22:889][997]LogFileHelpers: Auto-saving content packages took 0.065
+[2022.08.01-00.11.09:434][832]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-IDKSSJS
+[2022.08.01-00.11.09:434][832]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Engines1Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Intermediate/TurnkeyReport_1.log" -log="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Intermediate/TurnkeyLog_1.log" -project="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Engines1Project.uproject"  -Device=Win64@DESKTOP-IDKSSJS'
+[2022.08.01-00.11.09:434][832]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/EpicGames/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Engines1Project.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Intermediate/TurnkeyReport_1.log" -log="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Intermediate/TurnkeyLog_1.log" -project="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Engines1Project.uproject"  -Device=Win64@DESKTOP-IDKSSJS" -nocompile ]
+[2022.08.01-00.11.10:294][877]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.01-00.11.10:294][877]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-IDKSSJS: (Name=DESKTOP-IDKSSJS, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.08.01-00.11.13:173][ 37]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne
+[2022.08.01-00.11.13:173][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.11.19:398][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfaceWidgest/PauseMenu" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset" SILENT=true
+[2022.08.01-00.11.19:403][449]LogSavePackage: Moving output files for package: /Game/InterfaceWidgest/PauseMenu
+[2022.08.01-00.11.19:404][449]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenu1BC187E24E938B42C2B32E830D077505.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset'
+[2022.08.01-00.11.19:419][449]AssetCheck: New page: Asset Save: PauseMenu
+[2022.08.01-00.11.19:419][449]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.08.01-00.11.44:107][ 82]BlueprintLog: New page: Compile LevelOne
+[2022.08.01-00.11.44:108][ 82]LogBlueprint: Warning: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] Could not find a variable named "MyHUD" in 'LevelOne_C'.
+Make sure 'LevelOne_C' has been compiled for  Set MyHUD
+[2022.08.01-00.11.44:108][ 82]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.08.01-00.11.44:109][ 82]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] The property associated with  My HUD  could not be found in '/Game/Levels/LevelOne.LevelOne_C'
+[2022.08.01-00.11.44:281][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.01-00.11.50:058][511]BlueprintLog: New page: Compile LevelOne
+[2022.08.01-00.11.50:060][511]LogBlueprint: Warning: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] Could not find a variable named "MyHUD" in 'LevelOne_C'.
+Make sure 'LevelOne_C' has been compiled for  Set MyHUD
+[2022.08.01-00.11.50:060][511]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.08.01-00.11.50:060][511]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\Levels\LevelOne.umap: [Compiler] The property associated with  My HUD  could not be found in '/Game/Levels/LevelOne.LevelOne_C'
+[2022.08.01-00.11.50:240][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.01-00.12.06:826][757]BlueprintLog: New page: Compile LevelOne
+[2022.08.01-00.12.06:991][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.01-00.12.08:014][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.01-00.12.08:783][829]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2022.08.01-00.12.08:784][829]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOne242E8986446F2ED092BCF5A339FA5BEF.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap'
+[2022.08.01-00.12.08:799][829]LogFileHelpers: No new changes to save!
+[2022.08.01-00.12.08:799][829]LogFileHelpers: Saving map 'LevelOne' took 0.843
+[2022.08.01-00.12.08:814][829]AssetCheck: New page: Asset Save: LevelOne
+[2022.08.01-00.12.08:814][829]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
+[2022.08.01-00.12.12:859][ 85]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.01-00.12.45:321][291]LogEditorTransaction: Undo Move Node
+[2022.08.01-00.12.46:822][352]LogEditorTransaction: Undo Move Node
+[2022.08.01-00.15.49:172][588]LogEditorTransaction: Undo Delete current selection
+[2022.08.01-00.15.50:029][615]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.01-00.15.50:030][615]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter972DACBC4F063C490FF0B597C9F68E28.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.01-00.15.50:047][615]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.08.01-00.15.50:047][615]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.01-00.16.08:410][838]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.16.08:410][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.17.25:125][904]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.17.25:147][904]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.08.01-00.17.25:147][904]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.01-00.17.25:276][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.01-00.17.41:135][732]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.17.41:146][732]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.08.01-00.17.41:147][732]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.01-00.17.41:255][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.01-00.17.47:542][ 60]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.17.47:662][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.08.01-00.17.56:275][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.17.56:283][661]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.17.56:312][661]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2022.08.01-00.17.56:423][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.01-00.17.56:427][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2022.08.01-00.17.56:427][661]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:17:56 p.m.)
+[2022.08.01-00.17.56:459][661]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.17.56:586][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127559s)
+[2022.08.01-00.17.56:586][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.127660s)
+[2022.08.01-00.17.56:586][661]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.17.56:586][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.17.56:587][661]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.17.56:587][661]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2022.08.01-00.17.56:641][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.01-00.17.56:642][661]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.17.56:642][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.17.56:642][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.17.56:643][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.17.56:643][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.17.56:643][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.17.56:644][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.17.56:693][661]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.17.56:694][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.17.56:694][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.17.56:694][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.17.56:694][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.08.01-00.17.56:694][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.08.01-00.17.56:695][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.08.01-00.17.56:695][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.08.01-00.17.56:695][661]LogInit: FAudioDevice initialized.
+[2022.08.01-00.17.56:695][661]LogAudio: Display: Audio Device (ID: 10) registered with world 'LevelOne'.
+[2022.08.01-00.17.56:711][661]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.17.56:743][661]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.17.56
+[2022.08.01-00.17.56:743][661]LogWorld: Bringing up level for play took: 0.032822
+[2022.08.01-00.17.56:745][661]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.08.01-00.17.56:750][661]PIE: Server logged in
+[2022.08.01-00.17.56:751][661]PIE: Play in editor total start time 0.468 seconds.
+[2022.08.01-00.17.58:297][745]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03E1
+[2022.08.01-00.17.58:297][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.18.04:310][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.18.04:310][113]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.18.04:310][113]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.18.04:314][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.18.04:328][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.18.04:337][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.18.04:398][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.18.04:399][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.01-00.18.04:400][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.01-00.18.04:415][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.08.01-00.18.04:470][114]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.08.01-00.18.27:867][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.18.27:876][558]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.18.27:879][558]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.08.01-00.18.28:062][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.01-00.18.28:066][558]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2022.08.01-00.18.28:066][558]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:18:28 p.m.)
+[2022.08.01-00.18.28:066][558]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.18.28:197][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130763s)
+[2022.08.01-00.18.28:197][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.130844s)
+[2022.08.01-00.18.28:197][558]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.18.28:197][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.18.28:198][558]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.18.28:198][558]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2022.08.01-00.18.28:249][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.01-00.18.28:250][558]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.18.28:250][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.18.28:250][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.18.28:251][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.18.28:251][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.18.28:251][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.18.28:252][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.18.28:301][558]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.18.28:301][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.18.28:301][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.18.28:301][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.18.28:301][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.08.01-00.18.28:301][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.08.01-00.18.28:303][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.08.01-00.18.28:303][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.08.01-00.18.28:303][558]LogInit: FAudioDevice initialized.
+[2022.08.01-00.18.28:303][558]LogAudio: Display: Audio Device (ID: 11) registered with world 'LevelOne'.
+[2022.08.01-00.18.28:318][558]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.18.28:348][558]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.18.28
+[2022.08.01-00.18.28:349][558]LogWorld: Bringing up level for play took: 0.030284
+[2022.08.01-00.18.28:350][558]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.08.01-00.18.28:354][558]PIE: Server logged in
+[2022.08.01-00.18.28:355][558]PIE: Play in editor total start time 0.479 seconds.
+[2022.08.01-00.18.33:660][872]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03E1
+[2022.08.01-00.18.33:660][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.18.37:989][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.18.37:989][129]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.18.37:989][129]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.18.37:993][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.18.38:004][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.18.38:010][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.18.38:067][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-00.18.38:068][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.01-00.18.38:069][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.01-00.18.38:073][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.18.38:086][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.01-00.18.38:145][130]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.08.01-00.20.23:252][220]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.01-00.20.23:252][220]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.01-00.20.30:421][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.20.30:431][604]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.20.30:457][604]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2022.08.01-00.20.30:661][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.01-00.20.30:665][604]LogPlayLevel: PlayLevel: Blueprint regeneration took 234 ms (1 blueprints)
+[2022.08.01-00.20.30:665][604]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:20:30 p.m.)
+[2022.08.01-00.20.30:665][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.20.30:791][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125696s)
+[2022.08.01-00.20.30:791][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.125766s)
+[2022.08.01-00.20.30:791][604]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.20.30:791][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.20.30:791][604]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.20.30:791][604]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.08.01-00.20.30:842][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.01-00.20.30:843][604]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.01-00.20.30:843][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.20.30:843][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.20.30:843][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.20.30:843][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.20.30:844][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.20.30:844][604]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.20.30:844][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.20.30:844][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.20.30:844][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.20.30:844][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.20.30:844][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.20.30:846][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.20.30:890][604]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.20.30:890][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.20.30:891][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.20.30:891][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.20.30:891][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.08.01-00.20.30:891][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.08.01-00.20.30:892][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.08.01-00.20.30:892][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.08.01-00.20.30:892][604]LogInit: FAudioDevice initialized.
+[2022.08.01-00.20.30:892][604]LogAudio: Display: Audio Device (ID: 12) registered with world 'LevelOne'.
+[2022.08.01-00.20.30:904][604]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.20.30:934][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.20.30
+[2022.08.01-00.20.30:934][604]LogWorld: Bringing up level for play took: 0.028788
+[2022.08.01-00.20.30:936][604]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2022.08.01-00.20.30:941][604]PIE: Server logged in
+[2022.08.01-00.20.30:942][604]PIE: Play in editor total start time 0.51 seconds.
+[2022.08.01-00.20.33:844][778]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03E1
+[2022.08.01-00.20.33:844][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.20.36:119][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.20.36:119][923]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.20.36:119][923]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.20.36:123][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.20.36:135][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.20.36:142][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.20.36:201][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-00.20.36:201][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.01-00.20.36:202][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.01-00.20.36:206][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.20.36:225][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.01-00.20.36:306][924]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.08.01-00.20.54:520][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.20.54:530][963]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.20.54:535][963]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.08.01-00.20.54:720][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.08.01-00.20.54:721][963]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2022.08.01-00.20.54:721][963]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:20:54 p.m.)
+[2022.08.01-00.20.54:721][963]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.20.54:852][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130655s)
+[2022.08.01-00.20.54:853][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.130731s)
+[2022.08.01-00.20.54:853][963]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.20.54:853][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.20.54:853][963]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.20.54:853][963]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.08.01-00.20.54:905][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.01-00.20.54:906][963]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.20.54:906][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.20.54:906][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.20.54:906][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.20.54:906][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.20.54:906][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.20.54:908][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.20.54:957][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.20.54:957][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.20.54:957][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.20.54:957][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.20.54:958][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.08.01-00.20.54:958][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.08.01-00.20.54:959][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.08.01-00.20.54:959][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.08.01-00.20.54:959][963]LogInit: FAudioDevice initialized.
+[2022.08.01-00.20.54:959][963]LogAudio: Display: Audio Device (ID: 13) registered with world 'LevelOne'.
+[2022.08.01-00.20.54:971][963]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.20.54:999][963]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.20.54
+[2022.08.01-00.20.55:000][963]LogWorld: Bringing up level for play took: 0.030209
+[2022.08.01-00.20.55:002][963]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2022.08.01-00.20.55:007][963]PIE: Server logged in
+[2022.08.01-00.20.55:008][963]PIE: Play in editor total start time 0.478 seconds.
+[2022.08.01-00.20.56:486][ 43]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03CC
+[2022.08.01-00.20.56:486][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.21.01:099][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.01:099][350]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.21.01:099][350]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.21.01:103][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.01:113][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.21.01:120][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.01:176][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-00.21.01:177][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.01-00.21.01:178][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.01-00.21.01:182][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.01:196][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.01-00.21.01:264][351]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.08.01-00.21.07:456][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfaceWidgest/PauseMenu" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset" SILENT=true
+[2022.08.01-00.21.07:462][700]LogSavePackage: Moving output files for package: /Game/InterfaceWidgest/PauseMenu
+[2022.08.01-00.21.07:463][700]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/PauseMenuE2A1E54B4E5F11C4FAE86CB7CACC5A31.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/InterfaceWidgest/PauseMenu.uasset'
+[2022.08.01-00.21.07:478][700]AssetCheck: New page: Asset Save: PauseMenu
+[2022.08.01-00.21.07:478][700]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfaceWidgest/PauseMenu.PauseMenu
+[2022.08.01-00.21.08:917][783]BlueprintLog: New page: Compile PauseMenu
+[2022.08.01-00.21.09:019][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.01-00.21.09:835][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.21.09:846][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.01-00.21.09:846][819]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:21:09 p.m.)
+[2022.08.01-00.21.09:869][819]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.21.09:999][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130333s)
+[2022.08.01-00.21.09:999][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.130446s)
+[2022.08.01-00.21.10:000][819]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.21.10:000][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.21.10:000][819]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.21.10:000][819]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2022.08.01-00.21.10:053][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.08.01-00.21.10:056][819]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.21.10:056][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.21.10:056][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.21.10:056][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.21.10:057][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.21.10:057][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.21.10:058][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.21.10:105][819]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.21.10:105][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.21.10:105][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.21.10:105][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.21.10:106][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.08.01-00.21.10:106][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.08.01-00.21.10:107][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.08.01-00.21.10:107][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.08.01-00.21.10:107][819]LogInit: FAudioDevice initialized.
+[2022.08.01-00.21.10:107][819]LogAudio: Display: Audio Device (ID: 14) registered with world 'LevelOne'.
+[2022.08.01-00.21.10:118][819]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.21.10:145][819]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.21.10
+[2022.08.01-00.21.10:146][819]LogWorld: Bringing up level for play took: 0.028513
+[2022.08.01-00.21.10:147][819]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.08.01-00.21.10:153][819]PIE: Server logged in
+[2022.08.01-00.21.10:154][819]PIE: Play in editor total start time 0.309 seconds.
+[2022.08.01-00.21.11:357][882]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03CC
+[2022.08.01-00.21.11:357][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.21.12:859][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.12:859][976]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.21.12:859][976]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.21.12:863][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.12:873][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.21.12:880][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.12:931][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.12:941][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.01-00.21.12:942][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.01-00.21.12:955][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.08.01-00.21.13:025][977]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.08.01-00.21.27:730][819]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.01-00.21.27:731][819]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter501A5E34405D781D91ADFC810F65CA1A.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.01-00.21.27:749][819]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.08.01-00.21.27:749][819]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.01-00.21.35:199][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.21.35:208][246]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.21.35:211][246]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.08.01-00.21.35:395][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.01-00.21.35:400][246]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2022.08.01-00.21.35:400][246]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:21:35 p.m.)
+[2022.08.01-00.21.35:450][246]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.21.35:576][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126345s)
+[2022.08.01-00.21.35:576][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.126437s)
+[2022.08.01-00.21.35:576][246]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.21.35:576][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.21.35:576][246]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.21.35:577][246]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2022.08.01-00.21.35:628][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.01-00.21.35:629][246]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.21.35:629][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.21.35:629][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.21.35:629][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.21.35:629][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.21.35:629][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.21.35:631][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.21.35:677][246]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.21.35:677][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.21.35:677][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.21.35:677][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.21.35:678][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.08.01-00.21.35:678][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.08.01-00.21.35:679][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.08.01-00.21.35:679][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.08.01-00.21.35:679][246]LogInit: FAudioDevice initialized.
+[2022.08.01-00.21.35:679][246]LogAudio: Display: Audio Device (ID: 15) registered with world 'LevelOne'.
+[2022.08.01-00.21.35:692][246]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.21.35:724][246]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.21.35
+[2022.08.01-00.21.35:724][246]LogWorld: Bringing up level for play took: 0.032493
+[2022.08.01-00.21.35:726][246]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2022.08.01-00.21.35:732][246]PIE: Server logged in
+[2022.08.01-00.21.35:733][246]PIE: Play in editor total start time 0.525 seconds.
+[2022.08.01-00.21.36:947][311]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:03CC
+[2022.08.01-00.21.36:947][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.21.39:050][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.39:050][448]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.21.39:050][448]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.21.39:054][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.39:069][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.21.39:079][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.21.39:134][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.21.39:143][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.01-00.21.39:145][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.01-00.21.39:159][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.01-00.21.39:239][449]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.08.01-00.23.04:965][886]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.01-00.23.22:559][862]LogSlate: Window 'Delete Variable' being destroyed
+[2022.08.01-00.23.42:005][ 21]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.23.42:032][ 21]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.08.01-00.23.42:033][ 21]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.01-00.23.42:167][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.01-00.24.39:463][449]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.24.39:473][449]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.08.01-00.24.39:474][449]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.01-00.24.39:581][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.01-00.25.43:655][697]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.25.43:779][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.01-00.25.46:326][836]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.01-00.25.46:326][836]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter1AEA0F8D44ABC3AB6937F4A7D2F8C4C0.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.01-00.25.46:340][836]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.08.01-00.25.46:340][836]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.01-00.25.47:388][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.08.01-00.25.48:145][895]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2022.08.01-00.25.48:146][895]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOneE2AE8CB847B7144DFC1589B9F2DD4BEC.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap'
+[2022.08.01-00.25.48:162][895]LogFileHelpers: No new changes to save!
+[2022.08.01-00.25.48:176][895]AssetCheck: New page: Asset Save: LevelOne
+[2022.08.01-00.25.48:176][895]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
+[2022.08.01-00.25.48:822][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.25.48:836][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.01-00.25.48:836][934]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:25:48 p.m.)
+[2022.08.01-00.25.48:836][934]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.25.48:963][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127377s)
+[2022.08.01-00.25.48:963][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.127448s)
+[2022.08.01-00.25.48:963][934]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.25.48:963][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.25.48:963][934]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.25.48:964][934]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2022.08.01-00.25.49:017][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.01-00.25.49:019][934]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.01-00.25.49:019][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.25.49:019][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.25.49:019][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.25.49:019][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.25.49:019][934]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.25.49:020][934]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.25.49:020][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.25.49:020][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.25.49:020][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.25.49:020][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.25.49:020][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.25.49:022][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.25.49:068][934]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.25.49:068][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.25.49:068][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.25.49:068][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.25.49:068][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.08.01-00.25.49:068][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.08.01-00.25.49:070][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.08.01-00.25.49:070][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.08.01-00.25.49:070][934]LogInit: FAudioDevice initialized.
+[2022.08.01-00.25.49:070][934]LogAudio: Display: Audio Device (ID: 16) registered with world 'LevelOne'.
+[2022.08.01-00.25.49:082][934]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.25.49:114][934]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.25.49
+[2022.08.01-00.25.49:114][934]LogWorld: Bringing up level for play took: 0.031922
+[2022.08.01-00.25.49:116][934]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.08.01-00.25.49:121][934]PIE: Server logged in
+[2022.08.01-00.25.49:122][934]PIE: Play in editor total start time 0.286 seconds.
+[2022.08.01-00.25.50:508][  9]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0409
+[2022.08.01-00.25.50:508][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.25.52:829][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.25.52:829][153]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.25.52:829][153]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.25.52:834][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.25.52:851][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.25.52:858][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.25.52:922][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.25.52:922][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.08.01-00.25.52:924][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.08.01-00.25.52:936][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.01-00.25.52:985][154]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.08.01-00.26.05:036][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.26.05:045][859]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.26.05:048][859]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.08.01-00.26.05:240][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.01-00.26.05:244][859]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2022.08.01-00.26.05:244][859]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:26:05 p.m.)
+[2022.08.01-00.26.05:244][859]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.26.05:385][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140197s)
+[2022.08.01-00.26.05:385][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.140265s)
+[2022.08.01-00.26.05:386][859]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.26.05:386][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.26.05:386][859]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.26.05:386][859]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2022.08.01-00.26.05:438][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.01-00.26.05:439][859]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.26.05:439][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.26.05:439][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.26.05:440][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.26.05:440][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.26.05:440][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.26.05:441][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.26.05:487][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.26.05:487][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.26.05:487][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.26.05:487][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.26.05:488][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.08.01-00.26.05:488][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.08.01-00.26.05:489][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.08.01-00.26.05:489][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.08.01-00.26.05:489][859]LogInit: FAudioDevice initialized.
+[2022.08.01-00.26.05:489][859]LogAudio: Display: Audio Device (ID: 17) registered with world 'LevelOne'.
+[2022.08.01-00.26.05:501][859]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.26.05:531][859]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.26.05
+[2022.08.01-00.26.05:531][859]LogWorld: Bringing up level for play took: 0.029663
+[2022.08.01-00.26.05:533][859]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.08.01-00.26.05:538][859]PIE: Server logged in
+[2022.08.01-00.26.05:539][859]PIE: Play in editor total start time 0.494 seconds.
+[2022.08.01-00.26.07:875][982]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04F1
+[2022.08.01-00.26.07:875][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.26.09:039][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.26.09:039][ 56]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.26.09:039][ 56]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.26.09:044][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.26.09:054][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.26.09:061][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.26.09:118][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.26.09:126][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.08.01-00.26.09:127][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.08.01-00.26.09:142][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.01-00.26.09:194][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.08.01-00.26.18:167][549]LogSlate: Window 'Message Log' being destroyed
+[2022.08.01-00.26.26:806][ 35]LogSlate: Window 'Message Log' being destroyed
+[2022.08.01-00.26.56:474][851]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.01-00.27.04:876][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-00.27.04:884][308]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.01-00.27.04:887][308]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.08.01-00.27.05:078][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.01-00.27.05:083][308]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2022.08.01-00.27.05:083][308]PIE: New page: PIE session: LevelOne (Jul. 31, 2022, 4:27:05 p.m.)
+[2022.08.01-00.27.05:083][308]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.27.05:219][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135918s)
+[2022.08.01-00.27.05:219][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.135990s)
+[2022.08.01-00.27.05:219][308]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-00.27.05:219][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.27.05:219][308]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.01-00.27.05:220][308]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2022.08.01-00.27.05:274][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.01-00.27.05:275][308]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-00.27.05:275][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-00.27.05:275][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-00.27.05:276][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-00.27.05:276][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-00.27.05:276][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-00.27.05:277][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-00.27.05:325][308]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.01-00.27.05:325][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-00.27.05:325][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-00.27.05:325][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-00.27.05:326][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.08.01-00.27.05:326][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.08.01-00.27.05:330][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.08.01-00.27.05:330][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.08.01-00.27.05:330][308]LogInit: FAudioDevice initialized.
+[2022.08.01-00.27.05:330][308]LogAudio: Display: Audio Device (ID: 18) registered with world 'LevelOne'.
+[2022.08.01-00.27.05:347][308]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.01-00.27.05:382][308]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.07.31-20.27.05
+[2022.08.01-00.27.05:382][308]LogWorld: Bringing up level for play took: 0.035170
+[2022.08.01-00.27.05:384][308]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.08.01-00.27.05:390][308]PIE: Server logged in
+[2022.08.01-00.27.05:391][308]PIE: Play in editor total start time 0.506 seconds.
+[2022.08.01-00.27.07:092][401]LogScript: Warning: Accessed None trying to read property MyPauseHUD
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04F1
+[2022.08.01-00.27.07:092][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyPauseHUD". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2022.08.01-00.27.09:239][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.27.09:239][541]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.01-00.27.09:240][541]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.27.09:247][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.27.09:258][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-00.27.09:265][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.27.09:320][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-00.27.09:324][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.08.01-00.27.09:325][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.08.01-00.27.09:340][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.01-00.27.09:414][542]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.08.01-00.27.14:387][832]Cmd: TRANSACTION UNDO
+[2022.08.01-00.27.14:387][832]LogEditorTransaction: Undo Create Pin Link
+[2022.08.01-00.27.15:294][865]Cmd: TRANSACTION UNDO
+[2022.08.01-00.27.15:294][865]LogEditorTransaction: Undo Change Class Pin Value
+[2022.08.01-00.27.51:724][587]LogSlate: Window 'Delete Variable' being destroyed
+[2022.08.01-00.30.47:234][884]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.01-00.30.47:234][884]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacterDE5CF1E543B74BDA4E937196BBB2A824.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.01-00.30.47:252][884]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.08.01-00.30.47:252][884]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.01-00.30.47:736][913]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.01-00.30.47:865][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.01-00.30.59:797][585]LogDerivedDataCache: C:/Users/bro_a/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.180 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-00.31.06:539][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint
+[2022.08.01-00.31.06:539][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-00.31.10:039][157]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-00.31.10:039][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.Water_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.Water_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.Water_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.Water_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.SKEL_Water_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.Water_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.SKEL_Water_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.SKEL_Water_Blueprint_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.SKEL_Water_Blueprint_C:BndEvt__Water_Blueprint_Trigger_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:302][520]LogMetaData: Removing '/Game/MyBlueprints/Water_Blueprint.SKEL_Water_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/Water_Blueprint.PackageMetaData'
+[2022.08.01-00.31.16:355][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Water_Blueprint" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Water_Blueprint.uasset" SILENT=true
+[2022.08.01-00.31.16:359][520]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Water_Blueprint
+[2022.08.01-00.31.16:360][520]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Water_BlueprintDC5AD0CA40E2E822371731AD6651E284.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Water_Blueprint.uasset'
+[2022.08.01-00.31.16:361][520]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Water_Blueprint
+[2022.08.01-00.31.16:362][520]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Water_BlueprintEFA7F0C64AF3AE6F244E5C935E6A4285.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/Water_Blueprint.uasset'
+[2022.08.01-00.31.16:385][520]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.01-00.31.16:386][520]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Water_Blueprint.Water_Blueprint
+[2022.08.01-00.31.16:386][520]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint
+[2022.08.01-00.31.16:386][520]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/Water_Blueprint.Default__Water_Blueprint_C
+[2022.08.01-00.31.16:386][520]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/Water_Blueprint.Water_Blueprint_C
