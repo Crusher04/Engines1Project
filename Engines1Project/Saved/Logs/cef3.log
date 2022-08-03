@@ -15,3 +15,11 @@
 [0731/192910.268:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0731/212010.873:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0802/164615.411:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0803/093905.163:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0803/093906.156:WARNING:storage_block-inl.h(146)] Failed data load.
+[0803/093906.157:WARNING:storage_block-inl.h(146)] Failed data load.
+[0803/093906.157:WARNING:storage_block-inl.h(146)] Failed data load.
+[0803/093906.158:WARNING:storage_block-inl.h(146)] Failed data load.
+[0803/093906.158:ERROR:entry_impl.cc(998)] Failed to save user data
+[0803/093906.158:ERROR:entry_impl.cc(998)] Failed to save user data
+[0803/093907.945:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
