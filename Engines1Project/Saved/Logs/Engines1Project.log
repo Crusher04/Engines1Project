@@ -5837,3 +5837,273 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-14.57.20:072][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2022.08.03-14.57.20:109][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2022.08.03-14.57.20:163][458]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.03-14.58.27:554][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.08.03-14.58.27:584][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/ThirdLevel_Auto1
+[2022.08.03-14.58.27:586][ 40]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevel_Auto18BEABCBA41F8377E47FF79B8A2444EF4.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/Levels/ThirdLevel_Auto1.umap'
+[2022.08.03-14.58.27:589][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/ThirdLevel' took 0.122
+[2022.08.03-14.58.27:589][ 40]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2022.08.03-14.58.27:590][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyBlueprints/SkeeHole] ([2] browsable assets)...
+[2022.08.03-14.58.27:635][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyBlueprints/SkeeHole.SkeeHole]
+[2022.08.03-14.58.27:651][ 40]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/MyBlueprints/SkeeHole.SkeeHole_C]
+[2022.08.03-14.58.27:651][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/SkeeHole]
+[2022.08.03-14.58.27:660][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/SkeeHole_Auto1
+[2022.08.03-14.58.27:660][ 40]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/SkeeHole_Auto1976938864F28F9F65C8A409863E00B97.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/MyBlueprints/SkeeHole_Auto1.uasset'
+[2022.08.03-14.58.27:661][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.03-14.58.27:671][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.03-14.58.27:671][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.03-14.58.27:719][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2022.08.03-14.58.27:721][ 40]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter_Auto1C646F1DB4242880B99C94FB667346A61.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2022.08.03-14.58.27:722][ 40]LogFileHelpers: Auto-saving content packages took 0.132
+[2022.08.03-14.59.45:221][735]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\bro_a\OneDrive\Documents\!!Humber\Semester 2\Game Engines 1\ES_Ski Ball Throw 2 - SFX Producer.wav)
+[2022.08.03-14.59.45:234][735]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ES_Ski_Ball_Throw_2_-_SFX_Producer...
+[2022.08.03-14.59.45:234][735]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MySounds/ES_Ski_Ball_Throw_2_-_SFX_Producer.ES_Ski_Ball_Throw_2_-_SFX_Producer will be modified from 40 to 40.
+[2022.08.03-14.59.45:241][735]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 143360 while cooking SoundWave /Game/MySounds/ES_Ski_Ball_Throw_2_-_SFX_Producer.ES_Ski_Ball_Throw_2_-_SFX_Producer.
+[2022.08.03-14.59.45:241][735]LogAudio: Display: Chunk size for SoundWave /Game/MySounds/ES_Ski_Ball_Throw_2_-_SFX_Producer.ES_Ski_Ball_Throw_2_-_SFX_Producer: 262144
+[2022.08.03-14.59.57:465][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Ball.Ball
+[2022.08.03-14.59.57:466][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.00.18:624][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.00.18:631][546]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.00.18:656][546]LogPlayLevel: [PlayLevel] Compiling Ball before play...
+[2022.08.03-15.00.18:778][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.03-15.00.18:779][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2022.08.03-15.00.18:779][546]PIE: New page: PIE session: ThirdLevel (Aug. 3, 2022, 7:00:18 a.m.)
+[2022.08.03-15.00.18:780][546]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.00.18:786][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005503s)
+[2022.08.03-15.00.18:786][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdLevel.ThirdLevel to /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel (0.005586s)
+[2022.08.03-15.00.18:786][546]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.00.18:786][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.00.18:786][546]LogAIModule: Creating AISystem for world ThirdLevel
+[2022.08.03-15.00.18:786][546]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2022.08.03-15.00.18:842][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.03-15.00.18:843][546]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.00.18:843][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.00.18:843][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.00.18:844][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.00.18:844][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.00.18:844][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.00.18:845][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.00.18:892][546]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.00.18:892][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.00.18:892][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.00.18:892][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.00.18:892][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.08.03-15.00.18:892][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.08.03-15.00.18:893][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.08.03-15.00.18:893][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.08.03-15.00.18:894][546]LogInit: FAudioDevice initialized.
+[2022.08.03-15.00.18:894][546]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdLevel'.
+[2022.08.03-15.00.18:908][546]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.00.18:911][546]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2022.08.03-11.00.18
+[2022.08.03-15.00.18:911][546]LogWorld: Bringing up level for play took: 0.003298
+[2022.08.03-15.00.18:913][546]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.08.03-15.00.18:918][546]PIE: Server logged in
+[2022.08.03-15.00.18:919][546]PIE: Play in editor total start time 0.287 seconds.
+[2022.08.03-15.00.20:701][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  6
+[2022.08.03-15.00.23:493][  0]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  5
+[2022.08.03-15.00.23:697][ 20]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.00.25:636][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.00.25:636][214]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.00.25:636][214]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.00.25:636][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.00.25:651][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.00.25:658][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.00.25:715][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.00.25:716][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.03-15.00.25:717][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.03-15.00.25:723][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.03-15.00.25:782][215]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.08.03-15.02.13:069][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.03-15.02.14:624][490]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.03-15.02.15:014][490]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.02.15:015][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.02.15:072][490]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.03-15.02.15:072][490]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.02.15:073][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.02.15:126][490]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.03-15.02.15:126][490]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.02.15:126][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.02.15:174][490]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MySounds/ES_Ski_Ball_Throw_2_-_SFX_Producer.ES_Ski_Ball_Throw_2_-_SFX_Producer
+	Asset Type: SoundWave
+[2022.08.03-15.02.15:589][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.08.03-15.02.15:653][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.03-15.02.15:690][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.03-15.02.36:403][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Ball.Ball
+[2022.08.03-15.02.36:403][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.02.48:398][105]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\bro_a\OneDrive\Documents\!!Humber\Semester 2\Game Engines 1\ES_Whip Whoosh Swoosh 3 - SFX Producer.wav)
+[2022.08.03-15.02.48:407][105]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer...
+[2022.08.03-15.02.48:407][105]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer will be modified from 40 to 40.
+[2022.08.03-15.02.48:409][105]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 53248 while cooking SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.
+[2022.08.03-15.02.48:409][105]LogAudio: Display: Chunk size for SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer: 262144
+[2022.08.03-15.02.56:202][560]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.03.07:770][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.03.07:778][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.03.07:780][743]LogPlayLevel: [PlayLevel] Compiling Ball before play...
+[2022.08.03-15.03.07:857][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.03-15.03.07:860][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2022.08.03-15.03.07:860][743]PIE: New page: PIE session: ThirdLevel (Aug. 3, 2022, 7:03:07 a.m.)
+[2022.08.03-15.03.07:860][743]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.03.07:866][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005133s)
+[2022.08.03-15.03.07:866][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdLevel.ThirdLevel to /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel (0.005199s)
+[2022.08.03-15.03.07:866][743]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.03.07:866][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.03.07:866][743]LogAIModule: Creating AISystem for world ThirdLevel
+[2022.08.03-15.03.07:866][743]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2022.08.03-15.03.07:906][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.03-15.03.07:907][743]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.03.07:907][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.03.07:907][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.03.07:908][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.03.07:908][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.03.07:908][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.03.07:909][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.03.07:958][743]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.03.07:959][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.03.07:959][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.03.07:959][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.03.07:959][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.08.03-15.03.07:959][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.08.03-15.03.07:960][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.08.03-15.03.07:960][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.08.03-15.03.07:960][743]LogInit: FAudioDevice initialized.
+[2022.08.03-15.03.07:961][743]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdLevel'.
+[2022.08.03-15.03.07:975][743]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.03.07:978][743]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2022.08.03-11.03.07
+[2022.08.03-15.03.07:978][743]LogWorld: Bringing up level for play took: 0.002893
+[2022.08.03-15.03.07:980][743]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.08.03-15.03.07:984][743]PIE: Server logged in
+[2022.08.03-15.03.07:985][743]PIE: Play in editor total start time 0.207 seconds.
+[2022.08.03-15.03.09:119][854]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  6
+[2022.08.03-15.03.10:739][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  5
+[2022.08.03-15.03.12:116][159]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.03.12:235][171]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  4
+[2022.08.03-15.03.13:176][265]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  3
+[2022.08.03-15.03.14:692][414]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  2
+[2022.08.03-15.03.15:231][468]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.03.16:139][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  1
+[2022.08.03-15.03.17:416][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.03.17:416][681]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.03.17:416][681]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.03.17:417][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.03.17:433][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.03.17:438][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.03.17:478][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.03.17:478][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.03-15.03.17:479][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.03-15.03.17:482][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.03.17:485][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.03-15.03.17:530][682]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.08.03-15.03.21:465][ 85]LogSavePackage: Moving output files for package: /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.03.21:465][ 85]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ES_Whip_Whoosh_Swoosh_3_-_SFX_PrC9C1F58349C7DF7736BA439E4152A3CB.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.uasset'
+[2022.08.03-15.03.21:479][ 85]AssetCheck: New page: Asset Save: ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.03.21:479][ 85]LogContentValidation: Display: Validating SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.03.23:607][271]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.03.23:614][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-15.03.23:614][271]PIE: New page: PIE session: ThirdLevel (Aug. 3, 2022, 7:03:23 a.m.)
+[2022.08.03-15.03.23:656][271]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.03.23:661][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005631s)
+[2022.08.03-15.03.23:662][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdLevel.ThirdLevel to /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel (0.005750s)
+[2022.08.03-15.03.23:662][271]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.03.23:662][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.03.23:662][271]LogAIModule: Creating AISystem for world ThirdLevel
+[2022.08.03-15.03.23:662][271]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2022.08.03-15.03.23:704][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.08.03-15.03.23:707][271]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.03.23:707][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.03.23:707][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.03.23:707][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.03.23:707][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.03.23:707][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.03.23:709][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.03.23:762][271]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.03.23:762][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.03.23:762][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.03.23:762][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.03.23:763][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.08.03-15.03.23:763][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.08.03-15.03.23:764][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.08.03-15.03.23:764][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.08.03-15.03.23:764][271]LogInit: FAudioDevice initialized.
+[2022.08.03-15.03.23:764][271]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdLevel'.
+[2022.08.03-15.03.23:778][271]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.03.23:780][271]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2022.08.03-11.03.23
+[2022.08.03-15.03.23:780][271]LogWorld: Bringing up level for play took: 0.001985
+[2022.08.03-15.03.23:781][271]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.08.03-15.03.23:786][271]PIE: Server logged in
+[2022.08.03-15.03.23:786][271]PIE: Play in editor total start time 0.172 seconds.
+[2022.08.03-15.03.24:597][346]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  6
+[2022.08.03-15.03.25:416][427]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  5
+[2022.08.03-15.03.27:590][605]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.03.30:384][870]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  4
+[2022.08.03-15.03.32:027][ 34]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  3
+[2022.08.03-15.03.33:379][168]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.03.33:828][212]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  2
+[2022.08.03-15.03.35:286][356]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  1
+[2022.08.03-15.03.36:820][512]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.03.36:848][515]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Balls left are  0
+[2022.08.03-15.03.36:848][515]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] POINTS AND BALLS RESET
+[2022.08.03-15.03.38:156][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.03.38:156][644]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.03.38:156][644]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.03.38:157][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.03.38:169][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.03.38:174][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.03.38:214][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.03.38:214][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.03-15.03.38:215][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.03-15.03.38:221][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.03-15.03.38:267][645]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.08.03-15.05.01:887][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.03-15.05.01:909][329]LogSavePackage: Moving output files for package: /Game/Levels/ThirdLevel
+[2022.08.03-15.05.01:910][329]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevelF3235972417BB06E1271AD90555DFE09.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap'
+[2022.08.03-15.05.01:921][329]LogFileHelpers: No new changes to save!
+[2022.08.03-15.05.01:942][329]AssetCheck: New page: Asset Save: ThirdLevel
+[2022.08.03-15.05.01:942][329]LogContentValidation: Display: Validating World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.05.11:027][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.03-15.05.11:047][220]LogSavePackage: Moving output files for package: /Game/Levels/ThirdLevel
+[2022.08.03-15.05.11:047][220]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevelAA3CB8A64652FDA4A1FFB5B24A2218C3.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap'
+[2022.08.03-15.05.11:059][220]LogFileHelpers: No new changes to save!
+[2022.08.03-15.05.11:070][220]AssetCheck: New page: Asset Save: ThirdLevel
+[2022.08.03-15.05.11:070][220]LogContentValidation: Display: Validating World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.05.11:599][272]LogSavePackage: Moving output files for package: /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.05.11:599][272]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ES_Whip_Whoosh_Swoosh_3_-_SFX_Pr40B66C9344854D35B68C329AB1F6C30E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.uasset'
+[2022.08.03-15.05.11:610][272]AssetCheck: New page: Asset Save: ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.05.11:610][272]LogContentValidation: Display: Validating SoundWave /Game/MySounds/ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer.ES_Whip_Whoosh_Swoosh_3_-_SFX_Producer
+[2022.08.03-15.05.15:138][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Ball" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Ball.uasset" SILENT=true
+[2022.08.03-15.05.15:144][592]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Ball
+[2022.08.03-15.05.15:145][592]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BallB7E4C616448AC05B3B0E69A90E1E9EBB.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Ball.uasset'
+[2022.08.03-15.05.15:157][592]AssetCheck: New page: Asset Save: Ball
+[2022.08.03-15.05.15:157][592]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Ball.Ball
+[2022.08.03-15.05.18:016][877]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.05.18:016][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.05.32:097][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/SkeeHole" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/SkeeHole.uasset" SILENT=true
+[2022.08.03-15.05.32:103][309]LogSavePackage: Moving output files for package: /Game/MyBlueprints/SkeeHole
+[2022.08.03-15.05.32:104][309]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/SkeeHoleA109774B4236431397AA3A84DE3CFD86.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/SkeeHole.uasset'
+[2022.08.03-15.05.32:116][309]AssetCheck: New page: Asset Save: SkeeHole
+[2022.08.03-15.05.32:116][309]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/SkeeHole.SkeeHole
+[2022.08.03-15.05.40:318][141]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.03-15.05.40:318][141]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.05.40:318][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.05.52:206][354]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2022.08.03-15.05.53:734][488]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.03-15.05.53:734][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.05.54:240][489]LogPropertyNode: Warning: Clamp Min (7) >= Clamp Max (7) for Ranged Numeric property /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:TotalBalls
+[2022.08.03-15.05.54:240][489]LogPropertyNode: Warning: UI Min (7) >= UI Max (7) for Ranged Numeric property /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:TotalBalls
