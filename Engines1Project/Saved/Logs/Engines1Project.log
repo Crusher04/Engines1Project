@@ -14849,3 +14849,80 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Get The Player
 [2022.08.03-01.17.44:003][650]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Water_Blueprint.Water_Blueprint
 [2022.08.03-01.17.44:778][696]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
 [2022.08.03-01.17.44:778][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.18.06:258][ 82]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Saw_BP.Saw_BP
+[2022.08.03-01.18.06:259][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.18.35:053][648]LogEditorTransaction: Undo Delete current selection
+[2022.08.03-01.18.35:322][654]LogEditorTransaction: Undo Delete current selection
+[2022.08.03-01.18.48:364][460]BlueprintLog: New page: Compile Saw_BP
+[2022.08.03-01.18.48:366][460]LogBlueprint: Warning: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\MyBlueprints\Saw_BP.uasset: [Compiler] Cast To BP_ThirdPersonCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.08.03-01.18.48:367][460]LogBlueprint: Error: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\MyBlueprints\Saw_BP.uasset: [Compiler] This blueprint (self) is not a BP_ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2022.08.03-01.18.48:459][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.03-01.18.48:975][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Saw_BP" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Saw_BP.uasset" SILENT=true
+[2022.08.03-01.18.48:984][480]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Saw_BP
+[2022.08.03-01.18.48:985][480]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Saw_BPD6556BD14D100D3C8D248293186B4EEE.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Saw_BP.uasset'
+[2022.08.03-01.18.49:000][480]AssetCheck: New page: Asset Save: Saw_BP
+[2022.08.03-01.18.49:000][480]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Saw_BP.Saw_BP
+[2022.08.03-01.19.09:458][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Water_Blueprint.Water_Blueprint
+[2022.08.03-01.19.09:459][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.19.12:839][889]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-01.19.12:839][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.19.37:090][257]BlueprintLog: New page: Compile Saw_BP
+[2022.08.03-01.19.37:174][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.08.03-01.19.43:227][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-01.19.43:227][545]PIE: New page: PIE session: LevelOne (Aug. 2, 2022, 5:19:43 p.m.)
+[2022.08.03-01.19.43:227][545]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.19.43:359][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132151s)
+[2022.08.03-01.19.43:359][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.132223s)
+[2022.08.03-01.19.43:359][545]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-01.19.43:359][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.19.43:359][545]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-01.19.43:360][545]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2022.08.03-01.19.43:414][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.08.03-01.19.43:417][545]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-01.19.43:417][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-01.19.43:418][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-01.19.43:418][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-01.19.43:418][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-01.19.43:418][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-01.19.43:420][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-01.19.43:466][545]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-01.19.43:466][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-01.19.43:466][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-01.19.43:466][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-01.19.43:467][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2022.08.03-01.19.43:467][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2022.08.03-01.19.43:469][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2022.08.03-01.19.43:469][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2022.08.03-01.19.43:469][545]LogInit: FAudioDevice initialized.
+[2022.08.03-01.19.43:469][545]LogAudio: Display: Audio Device (ID: 62) registered with world 'LevelOne'.
+[2022.08.03-01.19.43:480][545]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-01.19.43:507][545]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.02-21.19.43
+[2022.08.03-01.19.43:508][545]LogWorld: Bringing up level for play took: 0.027969
+[2022.08.03-01.19.43:510][545]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2022.08.03-01.19.43:516][545]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Have Picked Up The Saw
+[2022.08.03-01.19.43:516][545]PIE: Server logged in
+[2022.08.03-01.19.43:517][545]PIE: Play in editor total start time 0.29 seconds.
+[2022.08.03-01.19.46:207][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-01.19.48:519][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.19.48:519][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.19.48:519][844]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-01.19.48:523][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.19.48:536][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-01.19.48:544][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.19.48:603][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-01.19.48:603][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2022.08.03-01.19.48:604][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2022.08.03-01.19.48:608][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.19.48:621][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.08.03-01.19.48:685][845]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.08.03-01.19.56:053][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Saw_BP" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Saw_BP.uasset" SILENT=true
+[2022.08.03-01.19.56:062][236]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Saw_BP
+[2022.08.03-01.19.56:063][236]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Saw_BP96A952654910DA5D03E75083F3D3C839.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Saw_BP.uasset'
+[2022.08.03-01.19.56:077][236]AssetCheck: New page: Asset Save: Saw_BP
+[2022.08.03-01.19.56:078][236]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Saw_BP.Saw_BP
