@@ -14926,3 +14926,184 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Get The Player
 [2022.08.03-01.19.56:063][236]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Saw_BP96A952654910DA5D03E75083F3D3C839.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Saw_BP.uasset'
 [2022.08.03-01.19.56:077][236]AssetCheck: New page: Asset Save: Saw_BP
 [2022.08.03-01.19.56:078][236]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Saw_BP.Saw_BP
+[2022.08.03-01.20.29:062][505]LogBlueprint: Warning: [AssetLog] C:\Users\bro_a\OneDrive\Documents\GitHub\Engines1Project\Engines1Project\Content\MyBlueprints\Light_Generator_BP.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2022.08.03-01.20.29:110][505]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-01.20.29:110][505]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-01.20.34:974][805]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-01.20.34:974][805]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-01.20.36:566][879]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-01.20.36:566][879]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-01.21.05:441][447]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-01.21.05:441][447]LogPlayLevel: [PlayLevel] Compiling Light_Generator_BP before play...
+[2022.08.03-01.21.05:449][447]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_0.ParticleMesh)
+[2022.08.03-01.21.05:449][447]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_0.LightMesh)
+[2022.08.03-01.21.05:568][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.03-01.21.05:572][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 131 ms (1 blueprints)
+[2022.08.03-01.21.05:572][447]PIE: New page: PIE session: LevelOne (Aug. 2, 2022, 5:21:05 p.m.)
+[2022.08.03-01.21.05:609][447]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.21.05:740][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131780s)
+[2022.08.03-01.21.05:740][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.131872s)
+[2022.08.03-01.21.05:740][447]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-01.21.05:741][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.21.05:741][447]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-01.21.05:741][447]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2022.08.03-01.21.05:793][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.08.03-01.21.05:794][447]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2022.08.03-01.21.05:794][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-01.21.05:795][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-01.21.05:795][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-01.21.05:795][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-01.21.05:795][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-01.21.05:795][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-01.21.05:797][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-01.21.05:849][447]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-01.21.05:849][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-01.21.05:849][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-01.21.05:849][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-01.21.05:850][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2022.08.03-01.21.05:850][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2022.08.03-01.21.05:851][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2022.08.03-01.21.05:851][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2022.08.03-01.21.05:851][447]LogInit: FAudioDevice initialized.
+[2022.08.03-01.21.05:851][447]LogAudio: Display: Audio Device (ID: 63) registered with world 'LevelOne'.
+[2022.08.03-01.21.05:860][447]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-01.21.05:888][447]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.02-21.21.05
+[2022.08.03-01.21.05:889][447]LogWorld: Bringing up level for play took: 0.029113
+[2022.08.03-01.21.05:890][447]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2022.08.03-01.21.05:896][447]PIE: Server logged in
+[2022.08.03-01.21.05:897][447]PIE: Play in editor total start time 0.456 seconds.
+[2022.08.03-01.21.05:898][447]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Have Picked Up The Saw
+[2022.08.03-01.21.08:589][596]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-01.21.13:299][893]LogScript: Warning: Accessed None trying to read property ThePlayer
+	Light_Generator_BP_C /Game/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1
+	Function /Game/MyBlueprints/Light_Generator_BP.Light_Generator_BP_C:ExecuteUbergraph_Light_Generator_BP:0015
+[2022.08.03-01.21.13:300][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ThePlayer". Node:  Display Message Graph:  EventGraph Function:  Execute Ubergraph Light Generator BP Blueprint:  Light_Generator_BP
+[2022.08.03-01.21.34:329][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.21.34:329][192]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.21.34:329][192]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-01.21.34:334][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.21.34:342][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-01.21.34:349][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.21.34:406][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.21.34:412][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2022.08.03-01.21.34:413][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2022.08.03-01.21.34:428][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.03-01.21.34:493][193]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.08.03-01.21.49:270][355]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-01.21.49:270][355]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-01.22.40:846][617]BlueprintLog: New page: Compile Light_Generator_BP
+[2022.08.03-01.22.40:855][617]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-01.22.40:855][617]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-01.22.40:933][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.03-01.22.50:971][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-01.22.50:971][107]PIE: New page: PIE session: LevelOne (Aug. 2, 2022, 5:22:50 p.m.)
+[2022.08.03-01.22.50:971][107]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.22.51:122][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151154s)
+[2022.08.03-01.22.51:122][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.151223s)
+[2022.08.03-01.22.51:122][107]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-01.22.51:123][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.22.51:123][107]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-01.22.51:123][107]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2022.08.03-01.22.51:175][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.03-01.22.51:178][107]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-01.22.51:178][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-01.22.51:178][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-01.22.51:179][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-01.22.51:179][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-01.22.51:179][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-01.22.51:180][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-01.22.51:226][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-01.22.51:227][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-01.22.51:227][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-01.22.51:227][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-01.22.51:227][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2022.08.03-01.22.51:227][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2022.08.03-01.22.51:229][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2022.08.03-01.22.51:229][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2022.08.03-01.22.51:229][107]LogInit: FAudioDevice initialized.
+[2022.08.03-01.22.51:229][107]LogAudio: Display: Audio Device (ID: 64) registered with world 'LevelOne'.
+[2022.08.03-01.22.51:241][107]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-01.22.51:268][107]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.02-21.22.51
+[2022.08.03-01.22.51:269][107]LogWorld: Bringing up level for play took: 0.028075
+[2022.08.03-01.22.51:271][107]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2022.08.03-01.22.51:276][107]PIE: Server logged in
+[2022.08.03-01.22.51:277][107]PIE: Play in editor total start time 0.306 seconds.
+[2022.08.03-01.22.52:441][169]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Have Picked Up The Saw
+[2022.08.03-01.22.55:436][350]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-01.23.00:242][645]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Generator is OFF
+[2022.08.03-01.23.02:369][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.23.02:369][776]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.23.02:369][776]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-01.23.02:374][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.23.02:385][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-01.23.02:391][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.23.02:449][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-01.23.02:450][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2022.08.03-01.23.02:451][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2022.08.03-01.23.02:455][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.23.02:467][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.03-01.23.02:530][777]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2022.08.03-01.23.04:497][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-01.23.04:497][876]PIE: New page: PIE session: LevelOne (Aug. 2, 2022, 5:23:04 p.m.)
+[2022.08.03-01.23.04:519][876]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.23.04:648][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128698s)
+[2022.08.03-01.23.04:648][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.128786s)
+[2022.08.03-01.23.04:648][876]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-01.23.04:648][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-01.23.04:648][876]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-01.23.04:648][876]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2022.08.03-01.23.04:698][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.08.03-01.23.04:701][876]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-01.23.04:702][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-01.23.04:702][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-01.23.04:702][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-01.23.04:702][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-01.23.04:702][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-01.23.04:704][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-01.23.04:751][876]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-01.23.04:751][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-01.23.04:751][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-01.23.04:751][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-01.23.04:752][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2022.08.03-01.23.04:752][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2022.08.03-01.23.04:754][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2022.08.03-01.23.04:754][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2022.08.03-01.23.04:754][876]LogInit: FAudioDevice initialized.
+[2022.08.03-01.23.04:754][876]LogAudio: Display: Audio Device (ID: 65) registered with world 'LevelOne'.
+[2022.08.03-01.23.04:764][876]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-01.23.04:791][876]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.02-21.23.04
+[2022.08.03-01.23.04:791][876]LogWorld: Bringing up level for play took: 0.027452
+[2022.08.03-01.23.04:793][876]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2022.08.03-01.23.04:801][876]PIE: Server logged in
+[2022.08.03-01.23.04:802][876]PIE: Play in editor total start time 0.304 seconds.
+[2022.08.03-01.23.05:792][926]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Need Saw to turn off generator
+[2022.08.03-01.23.08:781][112]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-01.23.11:009][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.23.11:009][245]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-01.23.11:009][245]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-01.23.11:013][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.23.11:030][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-01.23.11:035][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-01.23.11:092][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-01.23.11:093][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2022.08.03-01.23.11:094][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2022.08.03-01.23.11:097][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-01.23.11:110][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.08.03-01.23.11:180][246]LogPlayLevel: Display: Destroying online subsystem :Context_104
