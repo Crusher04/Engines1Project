@@ -8334,3 +8334,1416 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-15.43.13:748][905]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
 [2022.08.03-15.43.13:750][905]LogStreaming: Display: FlushAsyncLoading: 67 QueuedPackages, 0 AsyncPackages
 [2022.08.03-15.43.13:993][905]LogLoad: Took 1.428552 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.08.03-15.43.36:402][506]LogNet: Browse: /Game/Levels/LevelTwo
+[2022.08.03-15.43.36:402][506]LogLoad: LoadMap: /Game/Levels/LevelTwo
+[2022.08.03-15.43.36:402][506]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.43.36:403][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:497][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:497][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:498][506]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.36:498][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.36:586][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.43.36:599][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.03-15.43.36:613][506]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.43.36:615][506]LogAudio: Display: Audio Device (ID: 30) registered with world 'LevelTwo'.
+[2022.08.03-15.43.36:615][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.43.36:615][506]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.43.36:615][506]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.43.36:615][506]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.43.36:618][506]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.08.03-15.43.37:046][506]LogWorldPartition: Display: GenerateStreaming took 427 ms
+[2022.08.03-15.43.37:048][506]LogWorldPartition: Display: WorldPartition initialize took 432 ms
+[2022.08.03-15.43.37:048][506]LogPlayLevel: PIE: World Init took: (0.433406s)
+[2022.08.03-15.43.37:048][506]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.43.37:081][506]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.43.37
+[2022.08.03-15.43.37:082][506]LogWorld: Bringing up level for play took: 0.011166
+[2022.08.03-15.43.37:086][506]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.43.37:086][506]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.43.37:086][506]LogLoad: Took 0.683795 seconds to LoadMap(/Game/Levels/LevelTwo)
+[2022.08.03-15.43.43:716][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.43.43:716][984]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.43.43:716][984]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.43.43:717][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.43:732][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.43.43:739][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.43.43:792][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.43.43:793][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.08.03-15.43.43:794][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.08.03-15.43.43:804][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.03-15.43.43:890][985]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.08.03-15.43.47:460][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.03-15.43.47:481][209]LogSavePackage: Moving output files for package: /Game/Levels/ThirdLevel
+[2022.08.03-15.43.47:482][209]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevel5684B6C0422725C822499A8314DA0C06.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap'
+[2022.08.03-15.43.47:493][209]LogFileHelpers: No new changes to save!
+[2022.08.03-15.43.47:508][209]AssetCheck: New page: Asset Save: ThirdLevel
+[2022.08.03-15.43.47:508][209]LogContentValidation: Display: Validating World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.44.39:830][430]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.08.03-15.44.42:595][536]LogSlate: Window 'Bridge' being destroyed
+[2022.08.03-15.45.19:582][869]LogSlate: Window 'Content Browser' being destroyed
+[2022.08.03-15.45.19:585][869]LogSlate: Window 'Content Browser' being destroyed
+[2022.08.03-15.45.31:433][552]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.08.03-15.45.34:001][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.45.34:008][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-15.45.34:008][702]PIE: New page: PIE session: ThirdLevel (Aug. 3, 2022, 7:45:34 a.m.)
+[2022.08.03-15.45.34:008][702]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.45.34:016][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007615s)
+[2022.08.03-15.45.34:016][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdLevel.ThirdLevel to /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel (0.007683s)
+[2022.08.03-15.45.34:016][702]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.45.34:016][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.45.34:016][702]LogAIModule: Creating AISystem for world ThirdLevel
+[2022.08.03-15.45.34:017][702]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2022.08.03-15.45.34:138][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.03-15.45.34:139][702]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.45.34:139][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.45.34:139][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.45.34:140][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.45.34:140][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.45.34:140][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.45.34:141][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.45.34:185][702]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.45.34:185][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.45.34:185][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.45.34:185][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.45.34:186][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.08.03-15.45.34:186][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.08.03-15.45.34:187][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.08.03-15.45.34:187][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.08.03-15.45.34:187][702]LogInit: FAudioDevice initialized.
+[2022.08.03-15.45.34:187][702]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdLevel'.
+[2022.08.03-15.45.34:200][702]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.45.34:202][702]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2022.08.03-11.45.34
+[2022.08.03-15.45.34:203][702]LogWorld: Bringing up level for play took: 0.002167
+[2022.08.03-15.45.34:204][702]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.08.03-15.45.34:208][702]PIE: Server logged in
+[2022.08.03-15.45.34:209][702]PIE: Play in editor total start time 0.201 seconds.
+[2022.08.03-15.45.40:874][141]LogNet: Browse: /Game/Levels/Elevator
+[2022.08.03-15.45.40:874][141]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.08.03-15.45.40:874][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdLevel
+[2022.08.03-15.45.40:874][141]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.45.40:875][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.45.40:939][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.45.40:971][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.03-15.45.40:986][141]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.45.40:987][141]LogAudio: Display: Audio Device (ID: 31) registered with world 'Elevator'.
+[2022.08.03-15.45.40:987][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.45.40:988][141]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.45.40:988][141]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.45.40:988][141]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.45.40:992][141]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.45.40:992][141]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.45.40:992][141]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.45.40:992][141]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.08.03-15.45.40:992][141]LogWorldPartition: Display: GetPartitionedActors took 68 us
+[2022.08.03-15.45.41:162][141]LogWorldPartition: Display: GenerateStreaming took 171 ms
+[2022.08.03-15.45.41:171][141]LogWorldPartition: Display: WorldPartition initialize took 183 ms
+[2022.08.03-15.45.41:171][141]LogPlayLevel: PIE: World Init took: (0.184010s)
+[2022.08.03-15.45.41:171][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.45.42:085][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.08.03-11.45.42
+[2022.08.03-15.45.42:086][141]LogWorld: Bringing up level for play took: 0.020619
+[2022.08.03-15.45.42:090][141]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.08.03-15.45.42:090][141]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.08.03-15.45.42:090][141]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.08.03-15.45.42:092][141]LogStreaming: Display: FlushAsyncLoading: 67 QueuedPackages, 0 AsyncPackages
+[2022.08.03-15.45.42:321][141]LogLoad: Took 1.447017 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.08.03-15.45.43:256][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.45.43:256][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.45.43:283][184]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.45.43:284][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.45.43:300][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.45.43:308][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.45.43:367][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.45.43:373][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.08.03-15.45.43:374][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.08.03-15.45.43:390][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.03-15.45.43:466][185]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.08.03-15.45.44:093][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.03-15.45.44:122][213]LogSavePackage: Moving output files for package: /Game/Levels/ThirdLevel
+[2022.08.03-15.45.44:122][213]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevelBC6FAAAB45FE648DD77381932751A78D.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap'
+[2022.08.03-15.45.44:133][213]LogFileHelpers: No new changes to save!
+[2022.08.03-15.45.44:147][213]AssetCheck: New page: Asset Save: ThirdLevel
+[2022.08.03-15.45.44:147][213]LogContentValidation: Display: Validating World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.45.51:636][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.03-15.45.52:671][626]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-15.45.52:782][626]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.03-15.45.52:783][626]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/BP_ThirdPersonCharacter9A27139E42ECE9146BA61E9BF47FDF4F.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.03-15.45.52:785][626]LogSavePackage: Moving output files for package: /Game/MySounds/ES_Superhero_Teleport_2_-_SFX_Producer
+[2022.08.03-15.45.52:785][626]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ES_Superhero_Teleport_2_-_SFX_Pr7D94BFD8431F60CC5BB94F8D3C1ED2D0.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MySounds/ES_Superhero_Teleport_2_-_SFX_Producer.uasset'
+[2022.08.03-15.45.52:794][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalDoors/Level3ToElevator" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/Level3ToElevator.uasset" SILENT=true
+[2022.08.03-15.45.52:804][626]LogSavePackage: Moving output files for package: /Game/PortalDoors/Level3ToElevator
+[2022.08.03-15.45.52:805][626]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Level3ToElevator3A036056430DFC1E4D1846A56FFD0F10.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/Level3ToElevator.uasset'
+[2022.08.03-15.45.52:811][626]LogSavePackage: Moving output files for package: /Game/MyBlueprints/SkeeMachineTrigger
+[2022.08.03-15.45.52:812][626]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/SkeeMachineTrigger0971EB58492A2656CAD4BD8151608F7E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/SkeeMachineTrigger.uasset'
+[2022.08.03-15.45.52:845][626]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Elevator.Elevator
+[2022.08.03-15.45.52:845][626]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/Elevator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-15.45.52:845][626]LightingResults: New page: Lighting Build
+[2022.08.03-15.45.52:845][626]LoadErrors: New page: Loading map: Elevator.umap
+[2022.08.03-15.45.52:848][626]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.45.52:848][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.45.52:848][626]MapCheck: New page: Map Check
+[2022.08.03-15.45.52:848][626]LightingResults: New page: Lighting Build
+[2022.08.03-15.45.52:906][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.45.52:911][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.03-15.45.52:913][626]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.45.52:914][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.45.52:976][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.03-15.45.53:038][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.03-15.45.53:046][626]LogAudio: Display: Audio Device (ID: 1) registered with world 'Elevator'.
+[2022.08.03-15.45.53:046][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.45.53:047][626]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.45.53:047][626]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.45.53:047][626]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.03-15.45.53:325][626]LogWorldPartition: Display: WorldPartition initialize took 277 ms
+[2022.08.03-15.45.53:544][626]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-15.45.53:607][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.03-15.45.53:618][626]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-15.45.53:619][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.282ms to complete.
+[2022.08.03-15.45.53:619][626]LogFileHelpers: Loading map 'Elevator' took 0.774
+[2022.08.03-15.45.53:642][626]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-15.45.53:642][626]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.03-15.45.53:642][626]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/Level3ToElevator.Level3ToElevator
+[2022.08.03-15.45.53:642][626]LogContentValidation: Display: Validating SoundWave /Game/MySounds/ES_Superhero_Teleport_2_-_SFX_Producer.ES_Superhero_Teleport_2_-_SFX_Producer
+[2022.08.03-15.45.53:642][626]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/SkeeMachineTrigger.SkeeMachineTrigger
+[2022.08.03-15.46.06:344][260]LogDerivedDataCache: C:/Users/bro_a/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.820 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-15.46.19:904][948]Cmd: TRANSACTION UNDO
+[2022.08.03-15.46.19:904][948]LogEditorTransaction: Undo Clicking on Elements
+[2022.08.03-15.46.20:579][965]Cmd: TRANSACTION UNDO
+[2022.08.03-15.46.20:579][965]LogEditorTransaction: Undo Replace component used material
+[2022.08.03-15.46.22:140][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/2/FY/87ZC1LAM9W95FBU4P0X7HZ
+[2022.08.03-15.46.22:141][ 44]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/87ZC1LAM9W95FBU4P0X7HZ1873A90F43ED9420D75A62BA7EF5FBD6.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/2/FY/87ZC1LAM9W95FBU4P0X7HZ.uasset'
+[2022.08.03-15.46.22:144][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN
+[2022.08.03-15.46.22:145][ 44]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DD4BPRPP2MNDG2BICYLXQNFDE4E6AF464958A8E43AEC86553481C5.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN.uasset'
+[2022.08.03-15.46.22:147][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/9/TK/N58GVPSH4ZEG98PABR9ZF4
+[2022.08.03-15.46.22:148][ 44]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/N58GVPSH4ZEG98PABR9ZF429C356D145062CD558540C9638C947A7.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/9/TK/N58GVPSH4ZEG98PABR9ZF4.uasset'
+[2022.08.03-15.46.22:150][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/D/1M/I6CC5VCVD7COUJ4SB388WN
+[2022.08.03-15.46.22:151][ 44]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/I6CC5VCVD7COUJ4SB388WNB5E9E45F4116B0409064E59EE2736958.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/D/1M/I6CC5VCVD7COUJ4SB388WN.uasset'
+[2022.08.03-15.46.22:170][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-15.46.22:170][ 44]LogContentValidation: Display: Validating ElevatorToMainDoor_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToMainDoor_C_UAID_80C5F2899C663D2801_1760447215
+[2022.08.03-15.46.22:170][ 44]LogContentValidation: Display: Validating ElevatorToLevelOne_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelOne_C_UAID_80C5F2899C663F2801_1226719570
+[2022.08.03-15.46.22:170][ 44]LogContentValidation: Display: Validating ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.08.03-15.46.22:170][ 44]LogContentValidation: Display: Validating ElevatorToLevel3_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevel3_C_UAID_80C5F2899C66F02801_1563613639
+[2022.08.03-15.46.24:664][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.08.03-15.46.24:719][168]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.46.24:719][168]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-15.46.24:719][168]LightingResults: New page: Lighting Build
+[2022.08.03-15.46.24:719][168]LoadErrors: New page: Loading map: ThirdLevel.umap
+[2022.08.03-15.46.24:746][168]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.46.24:746][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.46.24:752][168]MapCheck: New page: Map Check
+[2022.08.03-15.46.24:752][168]LightingResults: New page: Lighting Build
+[2022.08.03-15.46.24:816][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.46.24:847][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.08.03-15.46.24:856][168]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.46.24:856][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.46.24:920][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.03-15.46.24:982][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.03-15.46.24:996][168]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdLevel'.
+[2022.08.03-15.46.24:996][168]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.46.24:996][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.46.24:996][168]LogAIModule: Creating AISystem for world ThirdLevel
+[2022.08.03-15.46.25:001][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-15.46.25:065][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.03-15.46.25:076][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-15.46.25:076][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2022.08.03-15.46.25:076][168]LogFileHelpers: Loading map 'ThirdLevel' took 0.357
+[2022.08.03-15.46.46:299][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.03-15.46.46:323][268]LogSavePackage: Moving output files for package: /Game/Levels/ThirdLevel
+[2022.08.03-15.46.46:323][268]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ThirdLevelFD476E994CD8F833084A2F9C6B87C117.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/ThirdLevel.umap'
+[2022.08.03-15.46.46:334][268]LogFileHelpers: No new changes to save!
+[2022.08.03-15.46.46:356][268]AssetCheck: New page: Asset Save: ThirdLevel
+[2022.08.03-15.46.46:356][268]LogContentValidation: Display: Validating World /Game/Levels/ThirdLevel.ThirdLevel
+[2022.08.03-15.46.48:687][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.08.03-15.46.48:721][379]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Elevator.Elevator
+[2022.08.03-15.46.48:721][379]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/Elevator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-15.46.48:721][379]LightingResults: New page: Lighting Build
+[2022.08.03-15.46.48:721][379]LoadErrors: New page: Loading map: Elevator.umap
+[2022.08.03-15.46.48:757][379]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.46.48:757][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.46.48:757][379]MapCheck: New page: Map Check
+[2022.08.03-15.46.48:757][379]LightingResults: New page: Lighting Build
+[2022.08.03-15.46.48:817][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.46.48:821][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.03-15.46.48:823][379]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.46.48:823][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.46.48:884][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.03-15.46.48:950][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.03-15.46.48:959][379]LogAudio: Display: Audio Device (ID: 1) registered with world 'Elevator'.
+[2022.08.03-15.46.48:959][379]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.46.48:959][379]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.46.48:959][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.46.48:959][379]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.03-15.46.49:197][379]LogWorldPartition: Display: WorldPartition initialize took 237 ms
+[2022.08.03-15.46.49:392][379]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-15.46.49:460][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.03-15.46.49:470][379]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-15.46.49:470][379]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2022.08.03-15.46.49:471][379]LogFileHelpers: Loading map 'Elevator' took 0.749
+[2022.08.03-15.46.55:773][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalDoors/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.08.03-15.46.55:774][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.47.20:705][509]BlueprintLog: New page: Compile ElevatorToLevelTwo
+[2022.08.03-15.47.20:833][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.03-15.47.25:680][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalDoors/ElevatorToLevel3.ElevatorToLevel3
+[2022.08.03-15.47.25:681][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.47.42:393][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.47.42:403][120]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.47.42:403][120]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.47.42:403][120]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.47.42:403][120]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.08.03-15.47.42:403][120]LogWorldPartition: Display: GetPartitionedActors took 68 us
+[2022.08.03-15.47.42:484][120]LogWorldPartition: Display: GenerateStreaming took 80 ms
+[2022.08.03-15.47.42:484][120]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.47.42:485][120]LogPlayLevel: [PlayLevel] Compiling ElevatorToLevel3 before play...
+[2022.08.03-15.47.42:653][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.08.03-15.47.42:654][120]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2022.08.03-15.47.42:654][120]PIE: New page: PIE session: Elevator (Aug. 3, 2022, 7:47:42 a.m.)
+[2022.08.03-15.47.42:655][120]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.47.42:679][120]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.47.42:680][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025068s)
+[2022.08.03-15.47.42:680][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Elevator.Elevator to /Game/Levels/UEDPIE_0_Elevator.Elevator (0.025121s)
+[2022.08.03-15.47.42:680][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.47.42:680][120]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.47.42:680][120]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.47.42:681][120]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.47.42:685][120]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.08.03-15.47.42:685][120]LogPlayLevel: PIE: World Init took: (0.005120s)
+[2022.08.03-15.47.42:756][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.03-15.47.42:757][120]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.47.42:757][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.47.42:757][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.47.42:757][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.47.42:757][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.47.42:758][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.47.42:759][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.47.42:804][120]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.47.42:804][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.47.42:804][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.47.42:804][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.47.42:805][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.08.03-15.47.42:805][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.08.03-15.47.42:806][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.08.03-15.47.42:806][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.08.03-15.47.42:806][120]LogInit: FAudioDevice initialized.
+[2022.08.03-15.47.42:806][120]LogAudio: Display: Audio Device (ID: 32) registered with world 'Elevator'.
+[2022.08.03-15.47.42:822][120]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.47.42:826][120]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.08.03-11.47.42
+[2022.08.03-15.47.42:826][120]LogWorld: Bringing up level for play took: 0.003950
+[2022.08.03-15.47.42:827][120]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2022.08.03-15.47.42:831][120]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.08.03-15.47.42:831][120]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.08.03-15.47.42:831][120]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.08.03-15.47.43:339][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/E8/Z1EIIKL49C8QXP4XZMBB17.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/0/XJ/KHM0NCFRMGB9EVX7K72DG2.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/1/6C/CR5CW3Z83RKZ5DE2OKJ6BD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/01/8IDD5R69KBIY6JOONVARSP.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9N/RO93FZTPKGJ1Y1GCAB1KM3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/4/9Q/RNEL9ZW4H6EX8BHC58V8QI.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/5/2Z/X9B91GHKQDDZPV2QX88QVP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/5C/D70KT4F1EHJC45Q8IZ1FAD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/6/7A/AAWO0I9A2PM0PP9B676REI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/8/C8/8TSTBLK8K0L1IX2VEXX1TB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/05/F3XHIFX47OS8F6L7941720.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/9/S4/WT21VIW778G51HH6WDKWZE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/77/C039DYVFF5XHB0UM2INGL2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/A/RH/M29ACEEQ4B8UFF1NGIO7AH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/3W/F8457KT52VB9W6RUV39BPS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/TT/KGTS3UKZXLPY8WGRUF6L1N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/C/ZQ/H9T31O828C2UJTXTODE9JX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/CT/3VB30WKDAYCRZS2CYALJ00.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/UC/RXBQYBLJIAPXFYIVQXIZOF.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/D/XE/DGP17X51LF0741NE1XQC2G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.08.03-15.47.43:340][120]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Levels/Elevator/E/CC/0N1DEAJ6M5T71934SVKERE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:546][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:547][120]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.08.03-15.47.43:550][120]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2022.08.03-15.47.43:726][120]PIE: Server logged in
+[2022.08.03-15.47.43:727][120]PIE: Play in editor total start time 1.326 seconds.
+[2022.08.03-15.47.45:937][288]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Must Complete Level One
+[2022.08.03-15.47.48:921][535]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.47.49:444][578]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Must Complete Level Two
+[2022.08.03-15.47.52:422][823]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.47.59:720][426]LogNet: Browse: /Game/Levels/LevelOne
+[2022.08.03-15.47.59:721][426]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.08.03-15.47.59:721][426]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.47.59:721][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:752][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:752][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:753][426]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.47.59:753][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.47.59:831][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.47.59:841][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.03-15.48.00:075][426]LogAudio: Display: Audio Device (ID: 32) registered with world 'LevelOne'.
+[2022.08.03-15.48.00:075][426]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.48.00:075][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.00:076][426]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-15.48.00:076][426]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2022.08.03-15.48.00:076][426]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.48.00:116][426]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.03-11.48.00
+[2022.08.03-15.48.00:116][426]LogWorld: Bringing up level for play took: 0.040108
+[2022.08.03-15.48.00:127][426]LogLoad: Took 0.405967 seconds to LoadMap(/Game/Levels/LevelOne)
+[2022.08.03-15.48.00:726][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.48.00:726][460]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-15.48.00:726][460]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.00:730][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.00:739][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.48.00:749][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.00:834][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.48.00:835][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.03-15.48.00:836][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.03-15.48.00:856][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.08.03-15.48.00:917][461]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.08.03-15.48.01:663][519]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/2/FY/87ZC1LAM9W95FBU4P0X7HZ
+[2022.08.03-15.48.01:663][519]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/87ZC1LAM9W95FBU4P0X7HZB71D6F93493E7E0EA79D559E2DEB4C9B.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/2/FY/87ZC1LAM9W95FBU4P0X7HZ.uasset'
+[2022.08.03-15.48.01:665][519]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN
+[2022.08.03-15.48.01:666][519]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DD4BPRPP2MNDG2BICYLXQNC317A8D541CE587F2A9CE68C470EF0FD.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/Elevator/4/30/DD4BPRPP2MNDG2BICYLXQN.uasset'
+[2022.08.03-15.48.01:683][519]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-15.48.01:683][519]LogContentValidation: Display: Validating ElevatorToLevel3_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevel3_C_UAID_80C5F2899C66F02801_1563613639
+[2022.08.03-15.48.01:683][519]LogContentValidation: Display: Validating ElevatorToLevelTwo_C /Game/Levels/Elevator.Elevator:PersistentLevel.ElevatorToLevelTwo_C_UAID_80C5F2899C66572801_1133749712
+[2022.08.03-15.48.03:935][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.08.03-15.48.05:716][681]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-15.48.05:826][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalDoors/ElevatorToLevel3" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/ElevatorToLevel3.uasset" SILENT=true
+[2022.08.03-15.48.05:834][681]LogSavePackage: Moving output files for package: /Game/PortalDoors/ElevatorToLevel3
+[2022.08.03-15.48.05:835][681]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ElevatorToLevel3B94445A7484F21B7BCA304AEF4A3DD57.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/ElevatorToLevel3.uasset'
+[2022.08.03-15.48.05:884][681]LogSavePackage: Moving output files for package: /Game/PortalDoors/ElevatorToLevelTwo
+[2022.08.03-15.48.05:884][681]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ElevatorToLevelTwo43A597054A79B7A270F7959DFBA1B00D.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/PortalDoors/ElevatorToLevelTwo.uasset'
+[2022.08.03-15.48.06:099][681]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelOne.LevelOne
+[2022.08.03-15.48.06:099][681]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-15.48.06:099][681]LightingResults: New page: Lighting Build
+[2022.08.03-15.48.06:099][681]LoadErrors: New page: Loading map: LevelOne.umap
+[2022.08.03-15.48.06:128][681]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.06:128][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.06:134][681]MapCheck: New page: Map Check
+[2022.08.03-15.48.06:134][681]LightingResults: New page: Lighting Build
+[2022.08.03-15.48.06:223][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.48.06:240][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.08.03-15.48.06:250][681]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.06:253][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.06:395][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.03-15.48.06:471][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.08.03-15.48.06:626][681]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2022.08.03-15.48.06:626][681]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.48.06:626][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.06:626][681]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-15.48.07:438][681]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-15.48.07:546][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.08.03-15.48.07:560][681]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-15.48.07:560][681]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2022.08.03-15.48.07:560][681]LogFileHelpers: Loading map 'LevelOne' took 1.461
+[2022.08.03-15.48.07:587][681]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-15.48.07:587][681]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/ElevatorToLevelTwo.ElevatorToLevelTwo
+[2022.08.03-15.48.07:587][681]LogContentValidation: Display: Validating Blueprint /Game/PortalDoors/ElevatorToLevel3.ElevatorToLevel3
+[2022.08.03-15.48.13:736][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Light_Generator_BP.Light_Generator_BP
+[2022.08.03-15.48.13:737][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.35:596][274]BlueprintLog: New page: Compile Light_Generator_BP
+[2022.08.03-15.48.35:607][274]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_0.LightMesh)
+[2022.08.03-15.48.35:607][274]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.REINST_Light_Generator_BP_C_0.ParticleMesh)
+[2022.08.03-15.48.35:716][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.03-15.48.37:085][348]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.48.37:094][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-15.48.37:095][348]PIE: New page: PIE session: LevelOne (Aug. 3, 2022, 7:48:37 a.m.)
+[2022.08.03-15.48.37:095][348]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-15.48.37:275][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180508s)
+[2022.08.03-15.48.37:275][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.180577s)
+[2022.08.03-15.48.37:275][348]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.48.37:275][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.37:276][348]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-15.48.37:276][348]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2022.08.03-15.48.37:354][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.03-15.48.37:355][348]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.48.37:355][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.48.37:355][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.48.37:356][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.48.37:356][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.48.37:356][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.48.37:357][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.48.37:399][348]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.48.37:400][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.48.37:400][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.48.37:400][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.48.37:400][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.08.03-15.48.37:400][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.08.03-15.48.37:401][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.08.03-15.48.37:401][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.08.03-15.48.37:401][348]LogInit: FAudioDevice initialized.
+[2022.08.03-15.48.37:401][348]LogAudio: Display: Audio Device (ID: 33) registered with world 'LevelOne'.
+[2022.08.03-15.48.37:410][348]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.48.37:437][348]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.03-11.48.37
+[2022.08.03-15.48.37:437][348]LogWorld: Bringing up level for play took: 0.026560
+[2022.08.03-15.48.37:438][348]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2022.08.03-15.48.37:443][348]PIE: Server logged in
+[2022.08.03-15.48.37:444][348]PIE: Play in editor total start time 0.349 seconds.
+[2022.08.03-15.48.42:198][640]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Have Died
+[2022.08.03-15.48.45:174][838]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.48.46:205][907]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.08.03-15.48.46:206][907]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.08.03-15.48.46:206][907]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-15.48.46:206][907]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.46:209][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.46:318][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.48.46:330][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.03-15.48.46:434][907]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 should be resaved to improve async compilation performance.
+[2022.08.03-15.48.46:434][907]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 should be resaved to improve async compilation performance.
+[2022.08.03-15.48.46:435][907]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400 should be resaved to improve async compilation performance.
+[2022.08.03-15.48.46:455][907]LogAudio: Display: Audio Device (ID: 33) registered with world 'GroundFloor'.
+[2022.08.03-15.48.46:455][907]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.48.46:455][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.46:455][907]LogAIModule: Creating AISystem for world GroundFloor
+[2022.08.03-15.48.46:455][907]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2022.08.03-15.48.46:455][907]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.48.46:463][907]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.08.03-11.48.46
+[2022.08.03-15.48.46:463][907]LogWorld: Bringing up level for play took: 0.003981
+[2022.08.03-15.48.46:467][907]LogLoad: Took 0.261574 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.08.03-15.48.48:309][ 43]LogNet: Browse: /Game/Levels/Elevator
+[2022.08.03-15.48.48:309][ 43]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.08.03-15.48.48:309][ 43]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.08.03-15.48.48:309][ 43]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.48:310][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.48:420][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.48.48:424][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.03-15.48.48:432][ 43]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.48.48:433][ 43]LogAudio: Display: Audio Device (ID: 33) registered with world 'Elevator'.
+[2022.08.03-15.48.48:433][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.48:433][ 43]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.48.48:433][ 43]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.48.48:433][ 43]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.48.48:437][ 43]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.48.48:437][ 43]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.48.48:437][ 43]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.48.48:437][ 43]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.08.03-15.48.48:437][ 43]LogWorldPartition: Display: GetPartitionedActors took 70 us
+[2022.08.03-15.48.48:598][ 43]LogWorldPartition: Display: GenerateStreaming took 161 ms
+[2022.08.03-15.48.48:606][ 43]LogWorldPartition: Display: WorldPartition initialize took 172 ms
+[2022.08.03-15.48.48:606][ 43]LogPlayLevel: PIE: World Init took: (0.173000s)
+[2022.08.03-15.48.48:606][ 43]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.48.49:523][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.08.03-11.48.49
+[2022.08.03-15.48.49:523][ 43]LogWorld: Bringing up level for play took: 0.021931
+[2022.08.03-15.48.49:528][ 43]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.08.03-15.48.49:528][ 43]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.08.03-15.48.49:528][ 43]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.08.03-15.48.49:530][ 43]LogStreaming: Display: FlushAsyncLoading: 67 QueuedPackages, 0 AsyncPackages
+[2022.08.03-15.48.49:767][ 43]LogLoad: Took 1.458012 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.08.03-15.48.51:334][141]LogNet: Browse: /Game/Levels/LevelOne
+[2022.08.03-15.48.51:334][141]LogLoad: LoadMap: /Game/Levels/LevelOne
+[2022.08.03-15.48.51:334][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.48.51:335][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:418][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:418][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:419][141]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.48.51:419][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.48.51:536][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.48.51:552][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.03-15.48.51:558][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-15.48.51:690][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132874s)
+[2022.08.03-15.48.51:690][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.132966s)
+[2022.08.03-15.48.51:690][141]LogAudio: Display: Audio Device (ID: 33) registered with world 'LevelOne'.
+[2022.08.03-15.48.51:690][141]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.48.51:691][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.48.51:691][141]LogAIModule: Creating AISystem for world LevelOne
+[2022.08.03-15.48.51:691][141]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.08.03-15.48.51:691][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.48.51:714][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.08.03-11.48.51
+[2022.08.03-15.48.51:714][141]LogWorld: Bringing up level for play took: 0.022632
+[2022.08.03-15.48.51:720][141]LogLoad: Took 0.385383 seconds to LoadMap(/Game/Levels/UEDPIE_0_LevelOne)
+[2022.08.03-15.49.02:136][799]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Need Saw to turn off generator
+[2022.08.03-15.49.05:140][994]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.49.14:328][568]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Have Died
+[2022.08.03-15.49.17:317][762]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.49.18:342][830]LogNet: Browse: /Game/Levels/GroundFloor
+[2022.08.03-15.49.18:342][830]LogLoad: LoadMap: /Game/Levels/GroundFloor
+[2022.08.03-15.49.18:342][830]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2022.08.03-15.49.18:343][830]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.49.18:346][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.18:471][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.49.18:481][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.08.03-15.49.18:501][830]LogAudio: Display: Audio Device (ID: 33) registered with world 'GroundFloor'.
+[2022.08.03-15.49.18:501][830]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-15.49.18:501][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.49.18:501][830]LogAIModule: Creating AISystem for world GroundFloor
+[2022.08.03-15.49.18:502][830]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.08.03-15.49.18:502][830]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.49.18:505][830]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GroundFloor.GroundFloor up for play (max tick rate 0) at 2022.08.03-11.49.18
+[2022.08.03-15.49.18:506][830]LogWorld: Bringing up level for play took: 0.003922
+[2022.08.03-15.49.18:510][830]LogLoad: Took 0.167905 seconds to LoadMap(/Game/Levels/GroundFloor)
+[2022.08.03-15.49.20:885][  7]LogNet: Browse: /Game/Levels/Elevator
+[2022.08.03-15.49.20:885][  7]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.08.03-15.49.20:885][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GroundFloor
+[2022.08.03-15.49.20:886][  7]LogWorld: UWorld::CleanupWorld for GroundFloor, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.49.20:886][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.20:990][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.49.20:994][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.03-15.49.21:001][  7]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.49.21:002][  7]LogAudio: Display: Audio Device (ID: 33) registered with world 'Elevator'.
+[2022.08.03-15.49.21:003][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.49.21:003][  7]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.49.21:003][  7]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.49.21:003][  7]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.49.21:007][  7]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.49.21:007][  7]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.49.21:007][  7]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.49.21:007][  7]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2022.08.03-15.49.21:007][  7]LogWorldPartition: Display: GetPartitionedActors took 70 us
+[2022.08.03-15.49.21:188][  7]LogWorldPartition: Display: GenerateStreaming took 181 ms
+[2022.08.03-15.49.21:201][  7]LogWorldPartition: Display: WorldPartition initialize took 197 ms
+[2022.08.03-15.49.21:201][  7]LogPlayLevel: PIE: World Init took: (0.198229s)
+[2022.08.03-15.49.21:201][  7]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.49.22:054][  7]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.08.03-11.49.22
+[2022.08.03-15.49.22:055][  7]LogWorld: Bringing up level for play took: 0.021204
+[2022.08.03-15.49.22:059][  7]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.08.03-15.49.22:059][  7]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.08.03-15.49.22:059][  7]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.08.03-15.49.22:061][  7]LogStreaming: Display: FlushAsyncLoading: 67 QueuedPackages, 0 AsyncPackages
+[2022.08.03-15.49.22:311][  7]LogLoad: Took 1.426357 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.08.03-15.49.24:486][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.49.24:486][153]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.49.24:514][153]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.49.24:515][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.24:528][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.49.24:537][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.24:613][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.49.24:616][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.03-15.49.24:617][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.03-15.49.24:620][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.49.24:633][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.08.03-15.49.24:697][154]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.08.03-15.49.25:644][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.03-15.49.26:359][205]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2022.08.03-15.49.26:360][205]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/LevelOne1A3058F1414F72C1C9BDBB895513A622.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelOne.umap'
+[2022.08.03-15.49.26:374][205]LogFileHelpers: No new changes to save!
+[2022.08.03-15.49.26:393][205]AssetCheck: New page: Asset Save: LevelOne
+[2022.08.03-15.49.26:393][205]LogContentValidation: Display: Validating World /Game/Levels/LevelOne.LevelOne
+[2022.08.03-15.49.28:596][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.03-15.49.29:812][332]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-15.49.29:880][332]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Light_Generator_BP
+[2022.08.03-15.49.29:880][332]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/Light_Generator_BP375886964BAB645455C494865004DF73.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyBlueprints/Light_Generator_BP.uasset'
+[2022.08.03-15.49.29:921][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTwo.LevelTwo
+[2022.08.03-15.49.29:921][332]Cmd: MAP LOAD FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/Levels/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-15.49.29:921][332]LightingResults: New page: Lighting Build
+[2022.08.03-15.49.29:921][332]LoadErrors: New page: Loading map: LevelTwo.umap
+[2022.08.03-15.49.29:928][332]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.ParticleMesh)
+[2022.08.03-15.49.29:928][332]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/LevelOne.LevelOne:PersistentLevel.Light_Generator_BP_C_1.LightMesh)
+[2022.08.03-15.49.29:933][332]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.49.29:934][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.29:934][332]MapCheck: New page: Map Check
+[2022.08.03-15.49.29:934][332]LightingResults: New page: Lighting Build
+[2022.08.03-15.49.30:014][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.49.30:031][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.03-15.49.30:037][332]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.49.30:037][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.49.30:114][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.03-15.49.30:195][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.08.03-15.49.30:202][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTwo'.
+[2022.08.03-15.49.30:202][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.49.30:203][332]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.49.30:203][332]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.49.30:203][332]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.03-15.49.30:277][332]LogWorldPartition: Display: WorldPartition initialize took 73 ms
+[2022.08.03-15.49.30:292][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-15.49.30:374][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.03-15.49.30:386][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-15.49.30:386][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2022.08.03-15.49.30:386][332]LogFileHelpers: Loading map 'LevelTwo' took 0.465
+[2022.08.03-15.49.30:411][332]AssetCheck: New page: Asset Save: Light_Generator_BP
+[2022.08.03-15.49.30:411][332]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Light_Generator_BP.Light_Generator_BP
+[2022.08.03-15.49.34:622][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/CorrnerTile.CorrnerTile
+[2022.08.03-15.49.34:622][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.50.02:879][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.50.02:888][ 52]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2022.08.03-15.50.02:889][ 52]LogWorldPartition: Display: GenerateStreaming took 499 us
+[2022.08.03-15.50.02:889][ 52]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.50.02:889][ 52]LogPlayLevel: [PlayLevel] Compiling CorrnerTile before play...
+[2022.08.03-15.50.03:024][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.03-15.50.03:025][ 52]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2022.08.03-15.50.03:025][ 52]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:50:03 a.m.)
+[2022.08.03-15.50.03:056][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.50.03:064][ 52]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.50.03:064][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007638s)
+[2022.08.03-15.50.03:064][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007707s)
+[2022.08.03-15.50.03:064][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.50.03:064][ 52]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.50.03:065][ 52]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.50.03:065][ 52]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.50.03:066][ 52]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.03-15.50.03:067][ 52]LogPlayLevel: PIE: World Init took: (0.002672s)
+[2022.08.03-15.50.03:147][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.03-15.50.03:148][ 52]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.08.03-15.50.03:148][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.50.03:148][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.50.03:148][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.50.03:148][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.50.03:148][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.50.03:149][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.50.03:149][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.50.03:149][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.50.03:149][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.50.03:149][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.50.03:149][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.50.03:150][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.50.03:194][ 52]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.50.03:195][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.50.03:195][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.50.03:195][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.50.03:195][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.08.03-15.50.03:195][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.08.03-15.50.03:197][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.08.03-15.50.03:197][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.08.03-15.50.03:197][ 52]LogInit: FAudioDevice initialized.
+[2022.08.03-15.50.03:197][ 52]LogAudio: Display: Audio Device (ID: 34) registered with world 'LevelTwo'.
+[2022.08.03-15.50.03:208][ 52]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.50.03:212][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.50.03
+[2022.08.03-15.50.03:212][ 52]LogWorld: Bringing up level for play took: 0.003892
+[2022.08.03-15.50.03:214][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2022.08.03-15.50.03:218][ 52]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.50.03:218][ 52]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.50.03:219][ 52]PIE: Server logged in
+[2022.08.03-15.50.03:219][ 52]PIE: Play in editor total start time 0.332 seconds.
+[2022.08.03-15.50.12:696][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.50.12:696][880]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.50.12:696][880]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.50.12:697][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.50.12:716][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.50.12:718][880]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.03-15.50.12:767][880]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.049 s
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: 
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: 
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: Stack: 
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8542d5fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8542ef705 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8542d06aa UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff84faeebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8505e0c73 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff84ffcfa40 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff85095aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff6296082f6 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff629620d9c UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff629620e8a UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff629623c4d UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff629635564 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff629638736 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8ee197034 KERNEL32.DLL!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: [Callstack] 0x00007ff8f0102651 ntdll.dll!UnknownFunction []
+[2022.08.03-15.50.12:767][880]LogOutputDevice: Error: 
+[2022.08.03-15.50.12:779][880]LogStats:                SubmitErrorReport -  0.000 s
+[2022.08.03-15.50.14:212][880]LogStats:                    SendNewReport -  1.433 s
+[2022.08.03-15.50.14:212][880]LogStats:             FDebug::EnsureFailed -  1.494 s
+[2022.08.03-15.50.14:222][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.50.14:305][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.50.14:306][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.08.03-15.50.14:307][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.08.03-15.50.14:314][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.03-15.50.14:378][881]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.08.03-15.50.14:514][889]Cmd: SELECT NONE
+[2022.08.03-15.50.24:259][697]BlueprintLog: New page: Compile CorrnerTile
+[2022.08.03-15.50.24:379][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.03-15.50.33:065][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.08.03-15.50.33:074][436]LogWorldPartition: Display: GenerateStreaming took 470 us
+[2022.08.03-15.50.33:074][436]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.50.33:075][436]LogPlayLevel: [PlayLevel] Compiling CorrnerTile before play...
+[2022.08.03-15.50.33:213][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.03-15.50.33:214][436]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2022.08.03-15.50.33:215][436]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:50:33 a.m.)
+[2022.08.03-15.50.33:236][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.50.33:244][436]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.50.33:244][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007588s)
+[2022.08.03-15.50.33:244][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007654s)
+[2022.08.03-15.50.33:244][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.50.33:244][436]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.50.33:245][436]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.50.33:245][436]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.50.33:246][436]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.03-15.50.33:246][436]LogPlayLevel: PIE: World Init took: (0.002601s)
+[2022.08.03-15.50.33:325][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.03-15.50.33:327][436]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.50.33:327][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.50.33:327][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.50.33:327][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.50.33:327][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.50.33:327][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.50.33:329][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.50.33:371][436]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.50.33:371][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.50.33:371][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.50.33:371][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.50.33:372][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.08.03-15.50.33:372][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.08.03-15.50.33:373][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.08.03-15.50.33:373][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.08.03-15.50.33:373][436]LogInit: FAudioDevice initialized.
+[2022.08.03-15.50.33:373][436]LogAudio: Display: Audio Device (ID: 35) registered with world 'LevelTwo'.
+[2022.08.03-15.50.33:380][436]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.50.33:383][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.50.33
+[2022.08.03-15.50.33:384][436]LogWorld: Bringing up level for play took: 0.003322
+[2022.08.03-15.50.33:385][436]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2022.08.03-15.50.33:388][436]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.50.33:388][436]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.50.33:389][436]PIE: Server logged in
+[2022.08.03-15.50.33:390][436]PIE: Play in editor total start time 0.318 seconds.
+[2022.08.03-15.50.40:856][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.50.40:856][ 36]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.50.40:856][ 36]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.50.40:857][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.50.40:874][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.50.40:882][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.50.40:964][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.50.40:965][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.08.03-15.50.40:966][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.08.03-15.50.40:972][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.03-15.50.41:019][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2022.08.03-15.51.01:899][969]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.08.03-15.52.12:935][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\bro_a\OneDrive\Documents\!!Humber\Semester 2\Game Engines 1\ES_Telephone Button 9 - SFX Producer.wav)
+[2022.08.03-15.52.12:943][565]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ES_Telephone_Button_9_-_SFX_Producer...
+[2022.08.03-15.52.12:943][565]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer.ES_Telephone_Button_9_-_SFX_Producer will be modified from 40 to 40.
+[2022.08.03-15.52.12:945][565]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45056 while cooking SoundWave /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer.ES_Telephone_Button_9_-_SFX_Producer.
+[2022.08.03-15.52.12:945][565]LogAudio: Display: Chunk size for SoundWave /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer.ES_Telephone_Button_9_-_SFX_Producer: 262144
+[2022.08.03-15.52.18:520][867]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer.ES_Telephone_Button_9_-_SFX_Producer
+[2022.08.03-15.52.31:011][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/9/8D/54IL5NVTGZQTYSTHPCTUMU
+[2022.08.03-15.52.31:012][959]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/54IL5NVTGZQTYSTHPCTUMUEE87BABC4E427090153BED8586BDD50E.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/9/8D/54IL5NVTGZQTYSTHPCTUMU.uasset'
+[2022.08.03-15.52.31:016][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/4/7B/ZFAP8O403R6SE6YKJHZV26
+[2022.08.03-15.52.31:017][959]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ZFAP8O403R6SE6YKJHZV2659828ED14684274E9A54558A0EA7F5A5.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/4/7B/ZFAP8O403R6SE6YKJHZV26.uasset'
+[2022.08.03-15.52.31:020][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/6/I3/UF9N93WLIWSNIX50RCBSAY
+[2022.08.03-15.52.31:021][959]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/UF9N93WLIWSNIX50RCBSAYF64C55D74EAB4D0575B8E4AA30A192C2.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/6/I3/UF9N93WLIWSNIX50RCBSAY.uasset'
+[2022.08.03-15.52.31:023][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTwo/0/43/DLYRINLINUV9E9WOV54VFR
+[2022.08.03-15.52.31:024][959]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/DLYRINLINUV9E9WOV54VFR2D43CF2F4D044320041194B69AA85CFC.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/__ExternalActors__/Levels/LevelTwo/0/43/DLYRINLINUV9E9WOV54VFR.uasset'
+[2022.08.03-15.52.31:045][959]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-15.52.31:045][959]LogContentValidation: Display: Validating CorrnerTile_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.CorrnerTile_C_UAID_046C590DBEFB582701_2011059844
+[2022.08.03-15.52.31:045][959]LogContentValidation: Display: Validating CorrnerTile_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.CorrnerTile_C_UAID_046C590DBEFB582701_1330504843
+[2022.08.03-15.52.31:045][959]LogContentValidation: Display: Validating CorrnerTile_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.CorrnerTile_C_UAID_046C590DBEFB582701_2026523845
+[2022.08.03-15.52.31:045][959]LogContentValidation: Display: Validating CorrnerTile_C /Game/Levels/LevelTwo.LevelTwo:PersistentLevel.CorrnerTile_C_UAID_046C590DBEFB582701_1271840842
+[2022.08.03-15.52.34:550][276]LogSavePackage: Moving output files for package: /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer
+[2022.08.03-15.52.34:550][276]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/ES_Telephone_Button_9_-_SFX_ProdF78FE4CC4B4578E5370621B02ADE7D13.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MySounds/ES_Telephone_Button_9_-_SFX_Producer.uasset'
+[2022.08.03-15.52.34:568][276]AssetCheck: New page: Asset Save: ES_Telephone_Button_9_-_SFX_Producer
+[2022.08.03-15.52.34:568][276]LogContentValidation: Display: Validating SoundWave /Game/MySounds/ES_Telephone_Button_9_-_SFX_Producer.ES_Telephone_Button_9_-_SFX_Producer
+[2022.08.03-15.52.53:899][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/FaceTile.FaceTile
+[2022.08.03-15.52.53:900][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.53.02:849][833]BlueprintLog: New page: Compile CorrnerTile
+[2022.08.03-15.53.02:973][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.08.03-15.53.03:270][847]LogSavePackage: Moving output files for package: /Game/MyLevelTwoBlueprints/CorrnerTile
+[2022.08.03-15.53.03:271][847]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/CorrnerTile323961D34D366E49E56D9683933870BC.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyLevelTwoBlueprints/CorrnerTile.uasset'
+[2022.08.03-15.53.03:287][847]AssetCheck: New page: Asset Save: CorrnerTile
+[2022.08.03-15.53.03:287][847]LogContentValidation: Display: Validating Blueprint /Game/MyLevelTwoBlueprints/CorrnerTile.CorrnerTile
+[2022.08.03-15.53.04:403][947]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.53.04:403][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.53.06:745][149]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.03-15.53.06:745][149]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.53.06:745][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.53.15:682][961]BlueprintLog: New page: Compile FaceTile
+[2022.08.03-15.53.15:808][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.03-15.53.16:052][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevelTwoBlueprints/FaceTile" FILE="C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyLevelTwoBlueprints/FaceTile.uasset" SILENT=true
+[2022.08.03-15.53.16:060][971]LogSavePackage: Moving output files for package: /Game/MyLevelTwoBlueprints/FaceTile
+[2022.08.03-15.53.16:061][971]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/FaceTileD23CF02B46F2F383B06DBDB41436DEA4.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyLevelTwoBlueprints/FaceTile.uasset'
+[2022.08.03-15.53.16:076][971]AssetCheck: New page: Asset Save: FaceTile
+[2022.08.03-15.53.16:076][971]LogContentValidation: Display: Validating Blueprint /Game/MyLevelTwoBlueprints/FaceTile.FaceTile
+[2022.08.03-15.53.17:173][ 65]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.03-15.53.17:173][ 65]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.53.17:173][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.53.19:781][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/CorrnerTile.CorrnerTile
+[2022.08.03-15.53.19:781][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.53.36:258][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/CenterTile.CenterTile
+[2022.08.03-15.53.36:258][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.53.44:238][294]BlueprintLog: New page: Compile CenterTile
+[2022.08.03-15.53.44:361][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.03-15.53.44:902][330]LogSavePackage: Moving output files for package: /Game/MyLevelTwoBlueprints/CenterTile
+[2022.08.03-15.53.44:903][330]LogSavePackage: Moving 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Saved/CenterTileE3AEFB2548674C6BCF5FB28F2179F9FC.tmp' to 'C:/Users/bro_a/OneDrive/Documents/GitHub/Engines1Project/Engines1Project/Content/MyLevelTwoBlueprints/CenterTile.uasset'
+[2022.08.03-15.53.44:917][330]AssetCheck: New page: Asset Save: CenterTile
+[2022.08.03-15.53.44:917][330]LogContentValidation: Display: Validating Blueprint /Game/MyLevelTwoBlueprints/CenterTile.CenterTile
+[2022.08.03-15.53.49:791][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/FaceTile.FaceTile
+[2022.08.03-15.53.49:791][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.53.52:223][937]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2022.08.03-15.53.52:232][937]LogWorldPartition: Display: GenerateStreaming took 464 us
+[2022.08.03-15.53.52:232][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-15.53.52:232][937]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:53:52 a.m.)
+[2022.08.03-15.53.52:233][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.53.52:240][937]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.53.52:240][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007503s)
+[2022.08.03-15.53.52:240][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007550s)
+[2022.08.03-15.53.52:240][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.53.52:240][937]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.53.52:241][937]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.53.52:241][937]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.53.52:243][937]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.03-15.53.52:243][937]LogPlayLevel: PIE: World Init took: (0.002565s)
+[2022.08.03-15.53.52:326][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.03-15.53.52:328][937]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.53.52:328][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.53.52:328][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.53.52:328][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.53.52:328][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.53.52:328][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.53.52:330][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.53.52:374][937]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.53.52:374][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.53.52:374][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.53.52:374][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.53.52:375][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.08.03-15.53.52:375][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.08.03-15.53.52:376][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.08.03-15.53.52:376][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.08.03-15.53.52:376][937]LogInit: FAudioDevice initialized.
+[2022.08.03-15.53.52:376][937]LogAudio: Display: Audio Device (ID: 36) registered with world 'LevelTwo'.
+[2022.08.03-15.53.52:384][937]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.53.52:388][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.53.52
+[2022.08.03-15.53.52:388][937]LogWorld: Bringing up level for play took: 0.003544
+[2022.08.03-15.53.52:390][937]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2022.08.03-15.53.52:394][937]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.53.52:394][937]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.53.52:394][937]PIE: Server logged in
+[2022.08.03-15.53.52:395][937]PIE: Play in editor total start time 0.165 seconds.
+[2022.08.03-15.54.03:775][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.54.03:775][817]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.54.03:775][817]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.54.03:776][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.54.03:809][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.54.03:818][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.54.03:910][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.54.03:911][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.08.03-15.54.03:912][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.08.03-15.54.03:915][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.54.03:919][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.03-15.54.03:994][818]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2022.08.03-15.54.06:563][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyLevelTwoBlueprints/Door.Door
+[2022.08.03-15.54.06:563][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.54.06:939][ 16]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2022.08.03-15.54.58:183][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.54.58:193][ 64]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2022.08.03-15.54.58:194][ 64]LogWorldPartition: Display: GenerateStreaming took 479 us
+[2022.08.03-15.54.58:194][ 64]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.54.58:194][ 64]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2022.08.03-15.54.58:365][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.03-15.54.58:367][ 64]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2022.08.03-15.54.58:367][ 64]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:54:58 a.m.)
+[2022.08.03-15.54.58:367][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.54.58:374][ 64]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.54.58:374][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007546s)
+[2022.08.03-15.54.58:374][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007595s)
+[2022.08.03-15.54.58:374][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.54.58:375][ 64]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.54.58:375][ 64]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.54.58:375][ 64]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.54.58:377][ 64]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.03-15.54.58:377][ 64]LogPlayLevel: PIE: World Init took: (0.002709s)
+[2022.08.03-15.54.58:467][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.03-15.54.58:469][ 64]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.54.58:469][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.54.58:469][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.54.58:469][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.54.58:469][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.54.58:469][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.54.58:471][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.54.58:514][ 64]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.54.58:514][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.54.58:514][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.54.58:514][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.54.58:515][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.08.03-15.54.58:515][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.08.03-15.54.58:516][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.08.03-15.54.58:516][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.08.03-15.54.58:516][ 64]LogInit: FAudioDevice initialized.
+[2022.08.03-15.54.58:516][ 64]LogAudio: Display: Audio Device (ID: 37) registered with world 'LevelTwo'.
+[2022.08.03-15.54.58:532][ 64]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.54.58:536][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.54.58
+[2022.08.03-15.54.58:537][ 64]LogWorld: Bringing up level for play took: 0.004308
+[2022.08.03-15.54.58:538][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2022.08.03-15.54.58:542][ 64]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.54.58:542][ 64]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.54.58:543][ 64]PIE: Server logged in
+[2022.08.03-15.54.58:543][ 64]PIE: Play in editor total start time 0.352 seconds.
+[2022.08.03-15.55.03:406][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.55.03:406][459]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.55.03:406][459]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.55.03:407][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.55.03:444][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.55.03:451][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.55.03:543][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.55.03:544][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.08.03-15.55.03:545][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.08.03-15.55.03:548][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.55.03:552][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.03-15.55.03:637][460]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.08.03-15.55.45:509][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.55.45:520][543]LogWorldPartition: Display: GetPartitionedActors took 86 us
+[2022.08.03-15.55.45:521][543]LogWorldPartition: Display: GenerateStreaming took 612 us
+[2022.08.03-15.55.45:521][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.55.45:522][543]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2022.08.03-15.55.45:685][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.03-15.55.45:687][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2022.08.03-15.55.45:687][543]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:55:45 a.m.)
+[2022.08.03-15.55.45:725][543]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.55.45:732][543]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.55.45:733][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007844s)
+[2022.08.03-15.55.45:733][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007917s)
+[2022.08.03-15.55.45:733][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.55.45:733][543]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.55.45:733][543]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.55.45:733][543]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.55.45:736][543]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.03-15.55.45:736][543]LogPlayLevel: PIE: World Init took: (0.002690s)
+[2022.08.03-15.55.45:826][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.03-15.55.45:828][543]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.55.45:828][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.55.45:828][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.55.45:829][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.55.45:829][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.55.45:829][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.55.45:830][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.55.45:880][543]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.55.45:880][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.55.45:880][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.55.45:880][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.55.45:881][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.08.03-15.55.45:881][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.08.03-15.55.45:882][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.08.03-15.55.45:882][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.08.03-15.55.45:882][543]LogInit: FAudioDevice initialized.
+[2022.08.03-15.55.45:882][543]LogAudio: Display: Audio Device (ID: 38) registered with world 'LevelTwo'.
+[2022.08.03-15.55.45:894][543]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.55.45:900][543]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.55.45
+[2022.08.03-15.55.45:900][543]LogWorld: Bringing up level for play took: 0.006007
+[2022.08.03-15.55.45:902][543]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2022.08.03-15.55.45:906][543]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.55.45:906][543]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.55.45:907][543]PIE: Server logged in
+[2022.08.03-15.55.45:908][543]PIE: Play in editor total start time 0.392 seconds.
+[2022.08.03-15.55.48:594][705]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Complete The Puzzle
+[2022.08.03-15.55.52:487][973]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Complete The Puzzle
+[2022.08.03-15.55.53:592][ 51]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.55.57:209][305]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Complete The Puzzle
+[2022.08.03-15.56.02:196][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2022.08.03-15.56.06:086][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.56.06:086][934]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.56.06:086][934]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.56.06:087][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.56.06:119][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.56.06:127][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.56.06:220][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.56.06:221][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.08.03-15.56.06:222][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.08.03-15.56.06:229][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.03-15.56.06:324][935]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2022.08.03-15.56.30:232][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.03-15.56.30:241][575]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2022.08.03-15.56.30:242][575]LogWorldPartition: Display: GenerateStreaming took 468 us
+[2022.08.03-15.56.30:242][575]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.56.30:243][575]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2022.08.03-15.56.30:413][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.03-15.56.30:415][575]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2022.08.03-15.56.30:415][575]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:56:30 a.m.)
+[2022.08.03-15.56.30:415][575]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.56.30:422][575]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.56.30:422][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007547s)
+[2022.08.03-15.56.30:423][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.007597s)
+[2022.08.03-15.56.30:423][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.56.30:423][575]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.56.30:423][575]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.56.30:423][575]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.56.30:426][575]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.08.03-15.56.30:426][575]LogPlayLevel: PIE: World Init took: (0.003057s)
+[2022.08.03-15.56.30:516][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.03-15.56.30:517][575]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-15.56.30:517][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-15.56.30:517][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-15.56.30:518][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-15.56.30:518][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-15.56.30:518][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-15.56.30:520][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-15.56.30:564][575]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Elgato Sound Capture)
+[2022.08.03-15.56.30:564][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-15.56.30:564][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-15.56.30:564][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-15.56.30:565][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.08.03-15.56.30:565][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.08.03-15.56.30:566][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.08.03-15.56.30:566][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.08.03-15.56.30:566][575]LogInit: FAudioDevice initialized.
+[2022.08.03-15.56.30:566][575]LogAudio: Display: Audio Device (ID: 39) registered with world 'LevelTwo'.
+[2022.08.03-15.56.30:578][575]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.56.30:583][575]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2022.08.03-11.56.30
+[2022.08.03-15.56.30:583][575]LogWorld: Bringing up level for play took: 0.004232
+[2022.08.03-15.56.30:584][575]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2022.08.03-15.56.30:588][575]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1490.000 Y=2320.000 Z=92.013
+[2022.08.03-15.56.30:588][575]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.03-15.56.30:589][575]PIE: Server logged in
+[2022.08.03-15.56.30:590][575]PIE: Play in editor total start time 0.35 seconds.
+[2022.08.03-15.56.31:310][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Door is Open
+[2022.08.03-15.56.33:465][760]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Complete The Puzzle
+[2022.08.03-15.56.33:764][781]LogNet: Browse: /Game/Levels/Elevator
+[2022.08.03-15.56.33:764][781]LogLoad: LoadMap: /Game/Levels/Elevator
+[2022.08.03-15.56.33:764][781]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.56.33:765][781]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.56.33:765][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.56.33:888][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.56.33:892][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.03-15.56.33:899][781]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.56.33:901][781]LogAudio: Display: Audio Device (ID: 39) registered with world 'Elevator'.
+[2022.08.03-15.56.33:901][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.56.33:901][781]LogAIModule: Creating AISystem for world Elevator
+[2022.08.03-15.56.33:902][781]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.03-15.56.33:902][781]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.03-15.56.33:905][781]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.56.33:905][781]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.56.33:905][781]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.56.33:905][781]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2022.08.03-15.56.33:905][781]LogWorldPartition: Display: GetPartitionedActors took 78 us
+[2022.08.03-15.56.34:082][781]LogWorldPartition: Display: GenerateStreaming took 176 ms
+[2022.08.03-15.56.34:092][781]LogWorldPartition: Display: WorldPartition initialize took 190 ms
+[2022.08.03-15.56.34:092][781]LogPlayLevel: PIE: World Init took: (0.190925s)
+[2022.08.03-15.56.34:092][781]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-15.56.35:002][781]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Elevator.Elevator up for play (max tick rate 0) at 2022.08.03-11.56.35
+[2022.08.03-15.56.35:002][781]LogWorld: Bringing up level for play took: 0.021088
+[2022.08.03-15.56.35:009][781]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-860.000 Y=165.000 Z=92.150
+[2022.08.03-15.56.35:009][781]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(22), CellsToLoad(0), CellsToUnload(0)
+[2022.08.03-15.56.35:009][781]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-860.000 Y=165.000 Z=92.150,P=-0.000000 Y=-144.999999 R=0.000000
+[2022.08.03-15.56.35:013][781]LogStreaming: Display: FlushAsyncLoading: 67 QueuedPackages, 0 AsyncPackages
+[2022.08.03-15.56.35:251][781]LogLoad: Took 1.486608 seconds to LoadMap(/Game/Levels/Elevator)
+[2022.08.03-15.56.37:356][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.56.37:356][912]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Elevator
+[2022.08.03-15.56.37:389][912]LogWorld: UWorld::CleanupWorld for Elevator, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-15.56.37:390][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.56.37:403][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-15.56.37:412][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-15.56.37:506][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-15.56.37:510][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.08.03-15.56.37:511][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.08.03-15.56.37:514][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-15.56.37:528][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.08.03-15.56.37:592][913]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.08.03-15.57.34:355][808]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.08.03-15.57.34:365][808]LogWorldPartition: Display: GenerateStreaming took 686 us
+[2022.08.03-15.57.34:366][808]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.03-15.57.34:366][808]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2022.08.03-15.57.34:530][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.03-15.57.34:532][808]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2022.08.03-15.57.34:532][808]PIE: New page: PIE session: LevelTwo (Aug. 3, 2022, 7:57:34 a.m.)
+[2022.08.03-15.57.34:532][808]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2022.08.03-15.57.34:540][808]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.03-15.57.34:541][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009145s)
+[2022.08.03-15.57.34:541][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.009196s)
+[2022.08.03-15.57.34:541][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-15.57.34:542][808]LogAIModule: Creating AISystem for world LevelTwo
+[2022.08.03-15.57.34:544][808]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.03-15.57.34:544][808]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.08.03-15.57.36:136][808]LogWindows: Error: === Critical error: ===
+[2022.08.03-15.57.36:136][808]LogWindows: Error: 
+[2022.08.03-15.57.36:136][808]LogWindows: Error: Assertion failed: GetLevel() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\ActorEditor.cpp] [Line: 1062] 
+[2022.08.03-15.57.36:136][808]LogWindows: Error: 
+[2022.08.03-15.57.36:136][808]LogWindows: Error: 
+[2022.08.03-15.57.36:137][808]LogWindows: Error: 
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff852532551 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff853037769 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff85425d17c UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff85061a3fb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff852df9a53 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff8505d885c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff85060ece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff8505da3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff85062d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff850630cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff8506305a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff84ffcdcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff85095aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff6296082f6 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff629620d9c UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff629620e8a UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff629623c4d UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff629635564 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff629638736 UnrealEditor.exe!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff8ee197034 KERNEL32.DLL!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: [Callstack] 0x00007ff8f0102651 ntdll.dll!UnknownFunction []
+[2022.08.03-15.57.36:137][808]LogWindows: Error: 
+[2022.08.03-15.57.36:151][808]LogExit: Executing StaticShutdownAfterError
+[2022.08.03-15.57.36:155][808]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.08.03-15.57.36:156][808]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.08.03-15.57.36:156][808]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.08.03-15.57.36:161][808]Log file closed, 08/03/22 11:57:36
